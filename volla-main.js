@@ -63,7 +63,7 @@ if(window.location.pathname.includes('.html')){
 
 var SHEET_ID = "1TKocTvvTgyOnr8JU2Eo15AQt84mOynOkx4bgpkpwpVs";
 var GID_META = "226483595", GID_SHOPEE = "484833297", GID_SILVER_FIX = "255262711";
-var GID_MANUAL_VOUCHER = "MASUKKAN_GID_VOUCHER_MANUAL_DISINI";
+var GID_MANUAL_VOUCHER = "341975128";
 
 var CART_KEY = "vollapearl_custom_cart";
 var currentProduct = null, allProducts = {}, cartInitialized = false, rawSilverFix = [], rawMetaFeed = [];
