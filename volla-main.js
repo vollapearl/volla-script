@@ -764,9 +764,6 @@ function initCart(){
       var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'); updateCartCount(cart);
     }
 
-    // ============================================
-    // 7. INISIALISASI (MEMULAI SISTEM)
-    // ============================================
     setTimeout(function(){
       fetchAllData(function(allData){
         var isSingle = window.location.pathname.includes('.html');
@@ -790,5 +787,3 @@ function initCart(){
       if(typeof window.lazyLoadInstance !== 'undefined') window.lazyLoadInstance.update();
     }
 })();
-//]]>
-</script>
