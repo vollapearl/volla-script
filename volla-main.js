@@ -1,1 +1,993 @@
-function _0x5de3(_0x3aeedd,_0x375154){_0x3aeedd=_0x3aeedd-0xbb;var _0xebdb20=_0xebdb();var _0x5de337=_0xebdb20[_0x3aeedd];return _0x5de337;}function _0xebdb(){var _0x1da17d=['discount','classList','fontSize','getItem','length','*!\x20🥰%0A%0A🎁\x20*Pengingat\x20Voucher:*\x20Jangan\x20lupa\x20gunakan\x20kode\x20*','liontin','Rp0','.product,\x20.item,\x20article,\x20li,\x20.related-post-item,\x20.post,\x20.card,\x20.grid-item','removeCartItem','innerText','desc','fresh\x20water','✓<span\x20style=\x22margin-left:8px;\x22>Di\x20Keranjang</span>','</s><b\x20style=\x22color:','\x20->\x20','Silver','S\x20925','<s\x20style=\x22opacity:0.6;\x20font-size:0.85em;\x20margin-right:8px;\x22>','#e8edf5','\x20di\x20pesanan\x20selanjutnya!','true','normal','some','\x20\x20Jumlah:\x20','target','Jenis:','STYLE','string','removeVoucher','avatar','#27ae60','middle','.variant-btn-','*%0A%0A*Catatan*%0A————%0A','1158315pLwiqu','custom-cart-count','data','buy','hargaNormal','volla_last_order','*\x20untuk\x20diskon\x20','*\x20untuk\x20tambahan\x20diskon\x2020%\x20di\x20pesanan\x20selanjutnya!','Set\x20Perhiasan','apply-voucher-btn','Warna\x20Mutiara','close-cart-modal','slice','alignItems','Asia/Jakarta','Fresh\x20Water','tagName','Air\x20Tawar','form-nama','from','error_voucher','.cta\x20button.cart-add,\x20.cta\x20button.buy','img[data-src]','important','18puXOTf','Anti\x20Luntur','update','</div>','selected-count','%0A%0A','.cta\x20button.volla-add-btn','\x20style=\x22width:18px;\x20height:18px;\x20accent-color:#1a2b4c;\x20margin-top:28px;\x20cursor:pointer;\x22><a\x20href=\x22','src','Varian','href','image','innerWidth','none','position:fixed;\x20top:0;\x20left:0;\x20width:100%;\x20height:100%;\x20background:rgba(0,0,0,0.5);\x20z-index:999;\x20display:none;\x20align-items:center;\x20justify-content:center;','12px\x2020px\x200\x2010px','relative','scale(1)','type','simpleCart_items','Jenis\x20Batu','push','dataset','https://script.google.com/macros/s/AKfycbxCLbvhjq3GcnN4OcUM14LqobjRtR0Pzg1B6ghf6mjtZg0WavnryxeYIo-9CjzDmYbc/exec','active-voucher-info','auto','maxDiscount','kalung','width','cost','Mutiara\x20Asli','Halo\x20Kak\x20','volla_used_vouchers','position','stretch','nextSibling','selected','id-ID','background','925','\x20pcs\x0a','fixed','padding:8px\x2016px;\x20border:1px\x20solid\x20#ccc;\x20border-radius:4px;\x20cursor:pointer;\x20font-size:13px;\x20background:#fff;\x20color:#333;\x20transition:0.2s;','<span\x20style=\x22margin-left:8px;\x22>+\x20Tambahkan</span>','nama','&t=','#cart-modal','Giwang','active-variant',';\x22>','setAttribute','51676vXdZAn','width=device-width,\x20initial-scale=1.0,\x20maximum-scale=1.0,\x20user-scalable=no','addEventListener','removeItem','hidden','shipping-cost','*\x20untuk\x20tambahan\x20diskon\x2030%\x20di\x20pesanan\x20selanjutnya!','Jewelry','Yellow','8px','indeterminate','height','charAt','opacity','form-alamat','\x27)\x22\x20style=\x22padding:10px\x2012px;\x20border-bottom:1px\x20solid\x20#eee;\x20cursor:pointer;\x20font-size:12px;\x20line-height:1.4;\x20color:#333;\x22>','text','https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg181NKy2wqqqz9obS6i7dbVBbHq0A1bwoaGUxJhcpnfFmDNKZRkHBgscfe9k9nKdtkFAdVaheKaCnl2f3oHKxavk5pPAbUY6-fAw5BgR32pQCQrzjdHD6P5zrnk1eknGY82TzVUj6gtpH0/w100-c-h100/no-image-icon.png','gelang','\x20-\x20','viewport','https://script.google.com/macros/s/AKfycbyP-ZUS1uGDHYHEsWAjxg7Fl4Joavs2umoVUxItd-mVWXoImq2YRwtWz-SYVgvPCVe5/exec','var(--key)','innerHTML','{\x22date\x22:\x22\x22,\x22count\x22:1}','SCRIPT','undefined','*Voucher*%0A————%0A','<div\x20style=\x22padding:10px;\x20font-size:12px;\x20color:#999;\x20text-align:center;\x22>Lokasi\x20tidak\x20ditemukan</div>','optName','volla-toast','*Ongkir*%0A————%0AJNE\x20REG\x20-\x20','\x20<small\x20style=\x22background:#ee4d2d;\x20color:white;\x20padding:2px\x206px;\x20border-radius:4px;\x20margin-left:8px;\x20font-size:0.75em;\x22>-','parentNode','align-items','%\x20digunakan!','documentElement','cart-modal','active-voucher-code','Original','🎉\x20*WOW\x20LUAR\x20BIASA!*\x20Di\x20pesanan\x20ke-','toFixed','Anting','cart-items-section','!%0ABerikut\x20detail\x20pesanannya:%0A%0ATanggal\x20:\x20','Mohon\x20pilih\x20lokasi\x20pengiriman\x20untuk\x20ongkir','Bracelet','dengan','%0ANo.\x20Pesanan\x20:\x20','close-cart-modal-x','Perak','ship-loader','color','*Harga*%0A————%0A','verticalAlign','numeric','applyLazyLoad','minPurchase','anting','Freshwater','%0ANo\x20hp\x20:\x20','#f9f9f9','voucher-input','toString','Premium','Pilih\x20Varian:','split','add','902224cEGwbG','items','value','getElementById','</div><div\x20style=\x22font-size:14px;\x20font-weight:700;\x20color:#ee4d2d;\x22>','High\x20Quality','#e74c3c','Bangle','freshwater','NaN','updateCartQty','ship-results','Brooch','0.5','#ccc','getTime','~\x20-\x20Rp\x20','querySelectorAll','alamat','\x20<small\x20style=\x22background:#ee4d2d;\x20color:white;\x20padding:2px\x208px;\x20border-radius:4px;\x20margin-left:10px;\x22>-','2189043KzdTvd','.volla-sticky-bottom','Pendant','12674570cmPLau','Ring','hargaDiskon','226483595','Varian:\x20','table.variant,\x20table.image','mutiara','\x27,\x20','</b>','cloneNode','0.4','set','location','.<br><br>','values','flexShrink','overflow','15px\x2010px','img[src*=\x22blogger.googleusercontent.com\x22]','qty','hargaFinal','<div\x20style=\x22display:flex;\x20align-items:center;\x20justify-content:center;\x22>','Bros','Min.\x20belanja\x20','sort','replace','volla_order_seq','variants','#1a2b4c','Maaf,\x20harga\x20produk\x20belum\x20tersedia.','\x20Perhiasan\x20Mutiara','forEach','etd','#fff','startsWith','javascript:void(0);','stringify','inline-flex','function','.post-body,\x20.entry-content','20%','diskon','onclick','variant','cart-add','\x0a\x20\x20#cart-btn,\x20#cart,\x20.cart-btn-head,\x20[id*=\x22cart\x22].pop,\x20#pop-cart,\x20#cart-popup,\x20.cart-button\x20{\x20display:\x20none\x20!important;\x20}\x0a\x20\x20input,\x20textarea,\x20select\x20{\x20font-size:\x2016px\x20!important;\x20padding:\x2010px\x2012px\x20!important;\x20}\x0a\x20\x20.post-body\x20table.variant,\x20.entry-content\x20table.variant,\x20table.image,\x20.volla-variant-table,\x20.variant.hide\x20{\x20display:\x20none\x20!important;\x20visibility:\x20hidden\x20!important;\x20opacity:\x200\x20!important;\x20height:\x200\x20!important;\x20overflow:\x20hidden\x20!important;\x20position:\x20absolute\x20!important;\x20}\x0a\x20\x20table[style*=\x22rgb(245,\x20124,\x200)\x22],\x20table[style*=\x22#f57c00\x22]\x20{\x20display:\x20none\x20!important;\x20visibility:\x20hidden\x20!important;\x20}\x0a\x20\x20.item.variant,\x20.product-variant,\x20.product-variants,\x20.variant-wrapper,\x20.opsi-produk,\x20.product-options,\x20.option-wrap,\x20.item-variants\x20{\x20display:\x20none\x20!important;\x20}\x0a\x20\x20.volla-add-btn\x20{\x20background:\x20var(--key)\x20!important;\x20color:\x20white\x20!important;\x20display:\x20flex\x20!important;\x20flex-direction:\x20row\x20!important;\x20align-items:\x20center\x20!important;\x20justify-content:\x20center\x20!important;\x20text-align:\x20center\x20!important;\x20width:\x20100%\x20!important;\x20padding:\x200\x20!important;\x20height:\x2060px\x20!important;\x20border:\x20none\x20!important;\x20border-radius:\x204px\x20!important;\x20cursor:\x20pointer\x20!important;\x20font-size:100%\x20!important;}\x0a\x20\x20#volla-toast\x20{\x20position:\x20fixed;\x20bottom:\x20-100px;\x20left:\x2050%;\x20transform:\x20translateX(-50%);\x20background:\x20white;\x20padding:\x2012px\x2024px;\x20border-radius:\x2050px;\x20box-shadow:\x200\x2010px\x2030px\x20rgba(26,43,76,0.15);\x20z-index:\x2099999;\x20display:\x20flex;\x20align-items:\x20center;\x20gap:\x2012px;\x20font-size:\x2013px;\x20font-weight:\x20600;\x20color:\x20#1a2b4c;\x20transition:\x20all\x200.4s\x20cubic-bezier(0.68,\x20-0.55,\x200.265,\x201.55);\x20border:\x201px\x20solid\x20#e8edf5;\x20width:\x20max-content;\x20max-width:\x2090vw;\x20}\x0a\x20\x20#volla-toast.show\x20{\x20bottom:\x2090px;\x20}\x0a\x20\x20#volla-toast-icon\x20{\x20background:\x20#27ae60;\x20color:\x20white;\x20width:\x2022px;\x20height:\x2022px;\x20border-radius:\x2050%;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20font-size:\x2012px;\x20flex-shrink:\x200;\x20}\x0a\x20\x20.volla-modal-content\x20{\x20display:\x20flex;\x20flex-direction:\x20column;\x20height:\x20100%;\x20background:\x20#f5f5f7;\x20position:\x20relative;\x20}\x0a\x20\x20.volla-scroll-area\x20{\x20flex:\x201;\x20overflow-y:\x20auto;\x20padding:\x2012px;\x20padding-bottom:\x2090px;\x20}\x0a\x20\x20.volla-card\x20{\x20background:\x20#fff;\x20border-radius:\x2010px;\x20padding:\x207px;\x20margin-bottom:\x207px;\x20box-shadow:\x200\x201px\x203px\x20rgba(0,0,0,0.05);\x20}\x0a\x20\x20.volla-card-title\x20{\x20font-size:\x2014px;\x20font-weight:\x20600;\x20color:\x20#333;\x20display:\x20flex;\x20align-items:\x20center;\x20gap:\x208px;\x20margin-bottom:\x2012px;\x20}\x0a\x20\x20.volla-input-modern\x20{\x20width:\x20100%;\x20padding:\x2012px\x200;\x20border:\x20none;\x20border-bottom:\x201px\x20solid\x20#eee;\x20border-radius:\x200;\x20font-size:\x2014px;\x20background:\x20transparent;\x20transition:\x200.2s;\x20color:#333;\x20}\x0a\x20\x20.volla-input-modern:focus\x20{\x20border-bottom-color:\x20#ee4d2d;\x20outline:\x20none;\x20}\x0a\x20\x20.volla-sticky-bottom\x20{\x20position:\x20absolute;\x20bottom:\x200;\x20left:\x200;\x20width:\x20100%;\x20background:\x20#fff;\x20padding:\x2012px\x2016px;\x20display:\x20flex;\x20justify-content:\x20space-between;\x20align-items:\x20center;\x20border-top:\x201px\x20solid\x20#eee;\x20box-shadow:\x200\x20-4px\x2012px\x20rgba(0,0,0,0.05);\x20z-index:\x20100;\x20}\x0a\x20\x20.volla-cart-item\x20{\x20display:\x20flex;\x20gap:\x2012px;\x20padding:\x2016px;\x20border-bottom:\x201px\x20solid\x20#f5f5f5;\x20}\x0a\x20\x20.volla-cart-item:last-child\x20{\x20border-bottom:\x20none;\x20}\x0a\x20\x20.volla-cart-img\x20{\x20width:\x2080px;\x20height:\x2080px;\x20border-radius:\x208px;\x20object-fit:\x20cover;\x20flex-shrink:\x200;\x20border:\x201px\x20solid\x20#eee;\x20}\x0a\x20\x20.volla-qty-btn\x20{\x20width:\x2028px;\x20height:\x2028px;\x20border:\x201px\x20solid\x20#eee;\x20background:\x20#fafafa;\x20border-radius:\x204px;\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20font-size:\x2016px;\x20cursor:\x20pointer;\x20color:#666;\x20font-weight:500;}\x0a\x20\x20.ship-loading\x20{\x20font-size:\x2012px;\x20color:\x20#ee4d2d;\x20font-weight:\x20600;\x20margin-top:\x208px;\x20display:\x20none;\x20}\x0a\x0a\x20\x20/*\x20FIX\x20#5:\x20Flying-item\x20animation\x20CSS\x20was\x20missing\x20—\x20added\x20here\x20*/\x0a\x20\x20.volla-flying-item\x20{\x0a\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20width:\x2020px;\x20height:\x2020px;\x0a\x20\x20\x20\x20background:\x20var(--key,\x20#1a2b4c);\x0a\x20\x20\x20\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20z-index:\x2099999;\x0a\x20\x20\x20\x20pointer-events:\x20none;\x0a\x20\x20\x20\x20transition:\x20left\x200.6s\x20ease,\x20top\x200.6s\x20ease,\x20transform\x200.6s\x20ease,\x20opacity\x200.6s\x20ease;\x0a\x20\x20}\x0a','#c9a96e','[class^=\x22variant-btn-\x22]','Gelang','input','countryCode','min-width','\x20Mutiara','replaceChild','931968npFJtU','.item.qty,\x20.option\x20.item.qty,\x20.qty-container,\x20.quantity-wrap\x20{\x20display:\x20none\x20!important;\x20}','memberStatus','Memproses\x20Pesanan...','Potongan\x20','VollaPearl','select-all-cart','head','<div\x20style=\x22font-size:11px;\x20color:#333;\x20background:#f5f5f5;\x20padding:4px\x208px;\x20border-radius:4px;\x20display:inline-block;\x20margin-top:4px;\x22>','Liontin','setItem','preventDefault','jenis','createElement','div','form-hp','White','.volla-add-btn','lazyLoadInstance','date','</div><div\x20style=\x22display:flex;\x20align-items:center;\x20border:1px\x20solid\x20#e0e0e0;\x20border-radius:4px;\x20overflow:hidden;\x22><button\x20onclick=\x22window.updateCartQty(\x27','https://docs.google.com/spreadsheets/d/e/2PACX-1vQC_ZEF6KZ0aMsPfgKjZIbOntgKeOyN1JsD6vjhUkWIt2AYvNpVoYK_Fd1XhoZXvD9TDOV-3CMZNJtL/pub?gid=1079538112&single=true&output=csv','</span><button\x20onclick=\x22window.updateCartQty(\x27','Ongkir\x20JNE\x20ke\x20lokasi\x20ini\x20belum\x20tersedia\x20di\x20sistem.\x20Coba\x20pilih\x20lokasi\x20yang\x20lebih\x20umum.','status','toLocaleDateString','cssText','indexOf','variant-btn-','Gold','.html','initLazyLoad','ceil','with','content','center','data-nama-final','start-shopping-btn','vollaSelected','delete-selected-btn','remove','<div\x20style=\x22font-size:11px;\x20color:#999;\x20text-decoration:line-through;\x22>','https://api.fonnte.com/send','left','long','rangka','final','keys','name','Pilih\x20Varian','Perhiasan','volla-flying-item','Dengan','data-src','right','selectLocation','data-harga-normal','%0A','borderColor','.entry-content\x20img','appendChild','{\x22items\x22:[]}','#aaa','<b\x20style=\x22color:','\x0a\x20\x20\x20Jml:\x20','locationLabel','toUpperCase','width:100%;\x20height:100%;\x20background:white;\x20overflow:hidden;','trim','volla-variant-ui','🎉\x20*SELAMAT!*\x20Karena\x20ini\x20pesanan\x20ke-','isLevelUp','svg','change','Necklace','promoCode','join','removeChild','then','pop','*Diskon\x20Produk*%0A————%0A','Pilih\x20','2px','checked','<br><small\x20style=\x22color:#333;\x22>Estimasi\x20waktu\x20tiba:\x20','data-auto-price','ship-search','%</small>','\x20Kakak,\x20status\x20Kakak\x20resmi\x20naik\x20jadi\x20*Member\x20GOLD*!\x20🌟%0A%0A🎁\x20*Voucher\x20Khusus\x20Gold:*\x20Gunakan\x20kode\x20*','width:480px;\x20max-width:95%;\x20height:100vh;\x20max-height:100vh;\x20background:white;\x20overflow:hidden;\x20display:flex;\x20flex-direction:column;\x20margin:0;','block','S925','namaUtama','success','giwang','🌟\x20Senang\x20melihat\x20Kakak\x20kembali!\x20Terima\x20kasih\x20sudah\x20belanja\x20yang\x20ke-','pointerEvents','justify-content','margin:0\x200\x2015px\x200;\x20padding:0;\x20width:100%;\x20flex:0\x200\x20100%;\x20order:1;','closest','.price,\x20.product-price,\x20.item-price,\x20.harga','fallback','json','cinin','gap','getAttribute','<div\x20style=\x22display:flex;\x20align-items:center;\x20justify-content:center;\x22>✓<span\x20style=\x22margin-left:8px;\x22>Di\x20Keranjang</span></div>','Earring','\x22\x20class=\x22volla-cart-img\x22></a><div\x20style=\x22flex:1;\x20min-width:0;\x20display:flex;\x20flex-direction:column;\x20justify-content:space-between;\x22><div><a\x20href=\x22','querySelector','\x20digunakan!','percent','minWidth','Menghitung\x20Ongkir\x20JNE\x20REG...','pathname','now','voucher-discount-amount','orderCount','.product,\x20.post,\x20article','.cart-item-checkbox','.is_single\x20article.is_post\x20.price,\x20.price,\x20.product-price','Voucher\x20ini\x20sudah\x20Kakak\x20gunakan\x20sebelumnya','includes','JNE\x20','Set','Kode\x20tidak\x20valid\x20atau\x20tidak\x20terdaftar','https://docs.google.com/spreadsheets/d/','parse','%0AAlamat\x20:\x20','%0APesanan\x20via\x20:\x20Website%0A%0A*Penerima\x20:*%0A——————%0ANama\x20:\x20','volla-add-btn','flex','insertBefore','contains','<div\x20class=\x22volla-cart-item\x22><input\x20type=\x22checkbox\x22\x20class=\x22cart-item-checkbox\x22\x20data-id=\x22','2065CwFqId','\x20kalinya,\x20*Member\x20','margin','\x20(Maks.\x20','Silakan\x20transfer\x20pembayaran\x20ke:%0A💳\x20*Bank\x20BCA*%0AA/N\x20:\x20Nur\x20Afifah%0ARek\x20:\x207255186507%0A%0A_Pesanan\x20akan\x20di\x20proses\x20setelah\x20pembayaran\x20diterima._','\x20hari\x20kerja</small>','bros','append','scale(0.1)','h1.post-title,\x20h1.product-title,\x20.post-title\x20h1,\x20.product-title\x20h1,\x20h1[itemprop=\x22name\x22],\x20h1','max-width','label','find','Produk','#333','inline-block','.show-search,\x20.search-icon,\x20.header-search,\x20.search-button,\x20.search-toggle','Default','data-harga-final','http','ship-info-box','transform','click','data-varian-final','style','cart-total','vollapearl_custom_cart','custom-cart-btn','</a>','className','30%','message','Pilih\x20Jenis','Batu:\x20','cincin','body','fromShopee','top','parentElement','empty-cart-state','flexWrap','341975128','td[data-id]','bottom','boxShadow','stopPropagation','filter','VIP','wrap','price','#eee','cart-item-checkbox','/p/thank-you.html','\x27,\x20\x27','Mohon\x20lengkapi\x20data\x20pengiriman','.cart-item-checkbox:checked','<span\x20style=\x22margin-left:8px;\x22>+\x20Tambahkan</span></div>','Volla\x20Pearl','active-voucher-desc','map','textContent','%)\x0a',')\x22\x20class=\x22volla-qty-btn\x22>−</button><span\x20style=\x22width:32px;\x20text-align:center;\x20font-size:13px;\x20color:#333;\x20font-weight:500;\x22>','Voucher\x20Diskon\x20','TERPAKAI','display','\x22\x20style=\x22font-size:13px;\x20font-weight:600;\x20color:#333;\x20text-decoration:none;\x20display:-webkit-box;\x20-webkit-line-clamp:2;\x20-webkit-box-orient:vertical;\x20overflow:hidden;\x20line-height:1.4;\x22>','searchTimeout','catch','setProperty','shipping-name-display','<span\x20style=\x22margin-left:8px;\x22>Pilih\x20Detail\x20Dulu</span>','batu','count','\x22><path\x20d=\x22M7\x2018c-1.1\x200-1.99.9-1.99\x202S5.9\x2022\x207\x2022s2-.9\x202-2-.9-2-2-2zM1\x202v2h2l3.6\x207.59-1.35\x202.45c-.16.28-.25.61-.25.96\x200\x201.1.9\x202\x202\x202h12v-2H7.42c-.14\x200-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75\x200\x201.41-.41\x201.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48\x200-.55-.45-1-1-1H5.21l-.94-2H1zm16\x2016c-1.1\x200-1.99.9-1.99\x202s.89\x202\x201.99\x202\x202-.9\x202-2-.9-2-2-2z\x22/></svg>','hide','show','\x20=\x20','35ImDMYv','figure.cover\x20img','Cincin','<s\x20style=\x22opacity:0.6;\x20font-size:0.9em;\x20margin-right:10px;\x22>','round','getBoundingClientRect','toLowerCase','cart-total-normal','Anti\x20Karat','scale(1.2)','Asli','Pilih\x20produk!','service','meta[name=\x22viewport\x22]','38px','16px','15XfIWBM',')\x22\x20class=\x22volla-qty-btn\x22>+</button></div></div></div></div>','voucher-message','Ongkos\x20Kirim\x20JNE\x20REG'];_0xebdb=function(){return _0x1da17d;};return _0xebdb();}(function(_0x25ce9b,_0x5ad3cf){var _0x471815=_0x5de3,_0x5690a4=_0x25ce9b();while(!![]){try{var _0x2be9df=-parseInt(_0x471815(0x104))/0x1*(-parseInt(_0x471815(0x1a1))/0x2)+parseInt(_0x471815(0x162))/0x3*(-parseInt(_0x471815(0x1d4))/0x4)+-parseInt(_0x471815(0x189))/0x5+parseInt(_0x471815(0x265))/0x6+-parseInt(_0x471815(0x152))/0x7*(parseInt(_0x471815(0x218))/0x8)+-parseInt(_0x471815(0x22c))/0x9+parseInt(_0x471815(0x22f))/0xa;if(_0x2be9df===_0x5ad3cf)break;else _0x5690a4['push'](_0x5690a4['shift']());}catch(_0x34099a){_0x5690a4['push'](_0x5690a4['shift']());}}}(_0xebdb,0x5284b),(function(){var _0x275708=_0x5de3,_0x20d3b8=_0x275708(0x1e9),_0x20c09a=_0x275708(0x27a),_0x5d2e69=_0x275708(0x1b8);try{localStorage[_0x275708(0x1d7)](_0x275708(0x1b4)),localStorage[_0x275708(0x1d7)]('tokowa_cart');for(var _0x6ee09d in localStorage){if(localStorage['hasOwnProperty'](_0x6ee09d)&&_0x6ee09d!==_0x275708(0x11e)&&_0x6ee09d!==_0x275708(0x18e)&&_0x6ee09d!==_0x275708(0x1c1)){var _0x18f6ab=localStorage[_0x275708(0x169)](_0x6ee09d);if(typeof _0x18f6ab===_0x275708(0x182)&&(_0x18f6ab[_0x275708(0xf7)](_0x275708(0x221))||_0x18f6ab[_0x275708(0xf7)](_0x275708(0x1ee))||_0x18f6ab[_0x275708(0xf7)]('null')))localStorage[_0x275708(0x1d7)](_0x6ee09d);}}}catch(_0x368f48){}var _0x301bb6=_0x275708(0x24b),_0x2ac147=_0x275708(0x179),_0x30f8ff=_0x275708(0x25d),_0x305b52='<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2218\x22\x20height=\x2218\x22\x20fill=\x22currentColor\x22\x20viewBox=\x220\x200\x2016\x2016\x22><path\x20d=\x22M0\x201.5A.5.5\x200\x200\x201\x20.5\x201H2a.5.5\x200\x200\x201\x20.485.379L2.89\x203H14.5a.5.5\x200\x200\x201\x20.491.592l-1.5\x208A.5.5\x200\x200\x201\x2013\x2012H4a.5.5\x200\x200\x201-.491-.408L2.01\x203.607\x201.61\x202H.5a.5.5\x200\x200\x201-.5-.5zM3.102\x204l1.313\x207h8.17l1.313-7H3.102zM5\x2012a2\x202\x200\x201\x200\x200\x204\x202\x202\x200\x200\x200\x200-4zm7\x200a2\x202\x200\x201\x200\x200\x204\x202\x202\x200\x200\x200\x200-4zm-7\x201a1\x201\x200\x201\x201\x200\x202\x201\x201\x200\x200\x201\x200-2zm7\x200a1\x201\x200\x201\x201\x200\x202\x201\x201\x200\x200\x201\x200-2z\x22/></svg>',_0x2804a5=document[_0x275708(0x272)](_0x275708(0x11c));_0x2804a5[_0x275708(0x140)]=_0x275708(0x25c),document[_0x275708(0x26c)][_0x275708(0x2a1)](_0x2804a5);var _0x18964f=document[_0x275708(0xea)](_0x275708(0x15f));!_0x18964f&&(_0x18964f=document['createElement']('meta'),_0x18964f[_0x275708(0x295)]=_0x275708(0x1e8),document[_0x275708(0x26c)][_0x275708(0x2a1)](_0x18964f));_0x18964f[_0x275708(0x287)]=_0x275708(0x1d5);if(window[_0x275708(0x23b)][_0x275708(0xef)]['includes'](_0x275708(0x283))){var _0x56bcf6=document[_0x275708(0x272)](_0x275708(0x11c));_0x56bcf6['textContent']=_0x275708(0x266),document[_0x275708(0x26c)]['appendChild'](_0x56bcf6),setTimeout(function(){var _0x176e32=_0x275708;document[_0x176e32(0x229)]('.item.qty,\x20.qty,\x20[class*=\x22quantity\x22]')[_0x176e32(0x24e)](function(_0x477cf9){var _0x2b0978=_0x176e32;_0x477cf9[_0x2b0978(0xe0)](_0x2b0978(0xf3))&&!_0x477cf9[_0x2b0978(0xe0)](_0x2b0978(0x1cf))&&(_0x477cf9[_0x2b0978(0x11c)][_0x2b0978(0x145)]=_0x2b0978(0x1ae));});},0x12c);}var _0x2a8329='1TKocTvvTgyOnr8JU2Eo15AQt84mOynOkx4bgpkpwpVs',_0x5dfe15=_0x275708(0x232),_0x21f16c='484833297',_0x1910bb='255262711',_0x2e352e=_0x275708(0x12d),_0x9e6794=_0x275708(0x11e),_0x1af8bd=null,_0x40d871={},_0xbe9713=![],_0x436ae3=[],_0x389041=[],_0x56fde0={},_0x35df29={'cost':0x0,'locationLabel':'','selected':![]},_0x5279f4={},_0xae6608=null,_0x4610d0={},_0x18b5a6={'nama':'','alamat':'','hp':''};function _0xff54e7(){var _0x372cf8=_0x275708,_0x5e12ab=new Date()[_0x372cf8(0x27e)](_0x372cf8(0x1c6)),_0x42801a=JSON[_0x372cf8(0xfc)](localStorage[_0x372cf8(0x169)]('volla_order_seq')||_0x372cf8(0x1ec));_0x42801a['date']!==_0x5e12ab&&(_0x42801a={'date':_0x5e12ab,'count':0x1},localStorage[_0x372cf8(0x26f)](_0x372cf8(0x249),JSON['stringify'](_0x42801a)));var _0x58624e=0x32+_0x42801a[_0x372cf8(0x14d)];return _0x58624e>0x63?0x63:_0x58624e;}function _0x3a32b9(){var _0x227d64=_0x275708,_0x579741=new Date()['toLocaleDateString'](_0x227d64(0x1c6)),_0x5222df=JSON[_0x227d64(0xfc)](localStorage[_0x227d64(0x169)](_0x227d64(0x249))||_0x227d64(0x1ec));_0x5222df[_0x227d64(0x278)]!==_0x579741&&(_0x5222df={'date':_0x579741,'count':0x1}),_0x5222df['count']++,localStorage[_0x227d64(0x26f)](_0x227d64(0x249),JSON[_0x227d64(0x253)](_0x5222df));}function _0x4249f7(_0x348082){var _0x1f3aea=_0x275708;return(_0x348082||'')[_0x1f3aea(0x158)]()[_0x1f3aea(0x248)](/[^\w\s]/gi,'\x20')[_0x1f3aea(0x248)](/\s+/g,'\x20')[_0x1f3aea(0xc1)]();}function _0x45136f(_0x2cb5fb){var _0xd08965=_0x275708;if(!_0x2cb5fb)return 0x0;var _0x26b3b1=_0x2cb5fb[_0xd08965(0x213)]()[_0xd08965(0x248)](/[^\d]/g,''),_0x3fb957=parseInt(_0x26b3b1);return isNaN(_0x3fb957)?0x0:_0x3fb957;}function _0x44f83d(_0x40a830){var _0x171ee8=_0x275708,_0xa78194=parseInt(_0x40a830);if(isNaN(_0xa78194)||_0xa78194===0x0)return'Rp0';return'Rp'+_0xa78194['toLocaleString'](_0x171ee8(0x1c6));}function _0x99130e(){var _0x272c3c=_0x275708,_0x592596=window[_0x272c3c(0x23b)]['pathname'];return _0x592596[_0x272c3c(0x216)]('/')[_0x272c3c(0xcc)]()['replace'](_0x272c3c(0x283),'')[_0x272c3c(0x158)]();}function _0x560a05(_0x4c620a){var _0x557b01=_0x275708;if(!_0x4c620a||isNaN(_0x4c620a))return _0x557b01(0x16d);if(_0x4c620a>=0xf4240)return'Rp'+(_0x4c620a/0xf4240)['toFixed'](0x1)+'JT';if(_0x4c620a>=0x3e8)return'Rp'+(_0x4c620a/0x3e8)[_0x557b01(0x1fd)](0x0)+'RB';return'Rp'+_0x4c620a;}function _0x593b65(_0x3e99ec){return(_0x3e99ec||'')['replace'](/[<>]/g,'')['trim']();}function _0x3cc64a(_0x31430d){var _0x2681a4=_0x275708;if(!_0x31430d)return'';var _0x5d95b6=_0x31430d[_0x2681a4(0x216)]('|')[0x0][_0x2681a4(0x216)]('(')[0x0][_0x2681a4(0xc1)](),_0x101af6='',_0x47344a=_0x5d95b6['toLowerCase']();if(_0x47344a[_0x2681a4(0x280)](_0x2681a4(0x23a))!==-0x1)_0x101af6=_0x2681a4(0xf9);else{if(_0x47344a[_0x2681a4(0x280)](_0x2681a4(0x20e))!==-0x1)_0x101af6=_0x2681a4(0x1fe);else{if(_0x47344a[_0x2681a4(0x280)](_0x2681a4(0x1bc))!==-0x1)_0x101af6='Kalung';else{if(_0x47344a[_0x2681a4(0x280)]('gelang')!==-0x1)_0x101af6=_0x2681a4(0x25f);else{if(_0x47344a[_0x2681a4(0x280)](_0x2681a4(0x126))!==-0x1)_0x101af6=_0x2681a4(0x154);else{if(_0x47344a['indexOf'](_0x2681a4(0x16c))!==-0x1)_0x101af6=_0x2681a4(0x26e);else{if(_0x47344a[_0x2681a4(0x280)](_0x2681a4(0xdb))!==-0x1)_0x101af6=_0x2681a4(0x1d0);else{if(_0x47344a[_0x2681a4(0x280)](_0x2681a4(0x10a))!==-0x1)_0x101af6=_0x2681a4(0x245);}}}}}}}var _0x2078e7=[_0x2681a4(0x15c),_0x2681a4(0x19a),'Perak\x20Asli\x20925','Lapis\x20Emas\x2018K','18K',_0x2681a4(0x26a),_0x2681a4(0x13d),_0x2681a4(0x1fb),_0x2681a4(0x1bf),'Sterling\x20Silver',_0x2681a4(0x1c8),'Lapis\x20Emas',_0x2681a4(0x297),_0x2681a4(0x1db),_0x2681a4(0x15a),_0x2681a4(0x1a2),_0x2681a4(0x21d),_0x2681a4(0x214),_0x2681a4(0x206),_0x2681a4(0x176),'Gold','Emas',_0x2681a4(0xd8),_0x2681a4(0x177),_0x2681a4(0x20f),_0x2681a4(0x220),_0x2681a4(0x198),_0x2681a4(0x172),'Water','Pearl',_0x2681a4(0x286),'With',_0x2681a4(0x203),_0x2681a4(0x299),'–','—','-',_0x2681a4(0x191),_0x2681a4(0x297),_0x2681a4(0x202),_0x2681a4(0xc7),_0x2681a4(0xe8),_0x2681a4(0x22e),_0x2681a4(0x224),_0x2681a4(0x230),_0x2681a4(0x21f)];for(var _0x348fdb=0x0;_0x348fdb<_0x2078e7[_0x2681a4(0x16a)];_0x348fdb++)_0x5d95b6=_0x5d95b6[_0x2681a4(0x248)](new RegExp('\x5cb'+_0x2078e7[_0x348fdb]+'\x5cb','gi'),'');_0x5d95b6=_0x5d95b6[_0x2681a4(0x248)](/[^\w\s]/g,'\x20')['replace'](/\s+/g,'\x20')[_0x2681a4(0xc1)]();if(_0x101af6)_0x5d95b6=_0x5d95b6['replace'](new RegExp('\x5cb'+_0x101af6+'\x5cb','gi'),'')[_0x2681a4(0xc1)]();_0x5d95b6=_0x5d95b6[_0x2681a4(0x248)](/\s+/g,'\x20')[_0x2681a4(0xc1)]();if(!_0x5d95b6[_0x2681a4(0x158)]()[_0x2681a4(0xf7)](_0x2681a4(0x235)))_0x5d95b6+=_0x2681a4(0x263);if(_0x101af6)_0x5d95b6=_0x5d95b6[_0x2681a4(0x248)](_0x2681a4(0x263),_0x101af6===_0x2681a4(0xf9)?'\x20'+_0x101af6+_0x2681a4(0x24d):'\x20'+_0x101af6+_0x2681a4(0x263));return _0x5d95b6[_0x2681a4(0x248)](/\s+/g,'\x20')[_0x2681a4(0xc1)]();}function _0x135e86(){var _0x392a89=_0x275708,_0x27091a=['.post-body\x20img',_0x392a89(0x2a0),'article\x20img',_0x392a89(0x153),_0x392a89(0x241)];for(var _0x5ab54d=0x0;_0x5ab54d<_0x27091a[_0x392a89(0x16a)];_0x5ab54d++){var _0x31d251=document[_0x392a89(0xea)](_0x27091a[_0x5ab54d]);if(_0x31d251){var _0xd968ce=_0x31d251[_0x392a89(0xe6)](_0x392a89(0x1a9))||_0x31d251['getAttribute'](_0x392a89(0x29a))||'';if(_0xd968ce&&_0xd968ce[_0x392a89(0xf7)](_0x392a89(0x117))&&!_0xd968ce[_0x392a89(0xf7)](_0x392a89(0x184)))return _0xd968ce;}}return'';}function _0x58060d(_0x573064){var _0x174334=_0x275708;return fetch(_0x174334(0xfb)+_0x2a8329+'/export?format=csv&gid='+_0x573064+_0x174334(0x1ce)+Date[_0x174334(0xf0)]())[_0x174334(0xcb)](function(_0x5c88dc){return _0x5c88dc['text']();});}var _0x4f01c8;function _0x51bf5f(_0x3079d1){var _0xb5bcb8=_0x275708,_0xd41ec4=document[_0xb5bcb8(0x21b)](_0xb5bcb8(0x1f2));!_0xd41ec4&&(_0xd41ec4=document[_0xb5bcb8(0x272)]('div'),_0xd41ec4['id']=_0xb5bcb8(0x1f2),document['body']['appendChild'](_0xd41ec4)),_0xd41ec4[_0xb5bcb8(0x1eb)]='<div\x20id=\x22volla-toast-icon\x22>✓</div><div\x20style=\x22white-space:nowrap;\x20overflow:hidden;\x20text-overflow:ellipsis;\x20max-width:250px;\x22>Ditambahkan\x20ke\x20Keranjang!</div>',setTimeout(function(){var _0x2729c0=_0xb5bcb8;_0xd41ec4['classList'][_0x2729c0(0x217)]('show');},0x32),clearTimeout(_0x4f01c8),_0x4f01c8=setTimeout(function(){var _0x4924b9=_0xb5bcb8;_0xd41ec4[_0x4924b9(0x167)][_0x4924b9(0x28d)](_0x4924b9(0x150));},0x9c4);}function _0x3a73f8(_0x287a60){var _0x1919ff=_0x275708,_0x285974={'jenis':[],'mutiara':[],'rangka':[],'batu':[]};return Object['values'](_0x287a60)[_0x1919ff(0x24e)](function(_0x396b4d){var _0x335db2=_0x1919ff;if(_0x396b4d[_0x335db2(0x271)]&&!_0x285974[_0x335db2(0x271)][_0x335db2(0xf7)](_0x396b4d[_0x335db2(0x271)]))_0x285974[_0x335db2(0x271)]['push'](_0x396b4d[_0x335db2(0x271)]);if(_0x396b4d[_0x335db2(0x235)]&&!_0x285974[_0x335db2(0x235)][_0x335db2(0xf7)](_0x396b4d[_0x335db2(0x235)]))_0x285974['mutiara'][_0x335db2(0x1b6)](_0x396b4d[_0x335db2(0x235)]);if(_0x396b4d['rangka']&&!_0x285974[_0x335db2(0x292)][_0x335db2(0xf7)](_0x396b4d['rangka']))_0x285974[_0x335db2(0x292)][_0x335db2(0x1b6)](_0x396b4d[_0x335db2(0x292)]);if(_0x396b4d['batu']&&!_0x285974[_0x335db2(0x14c)][_0x335db2(0xf7)](_0x396b4d[_0x335db2(0x14c)]))_0x285974[_0x335db2(0x14c)][_0x335db2(0x1b6)](_0x396b4d[_0x335db2(0x14c)]);}),_0x285974;}function _0xc058cb(_0x32b6a7,_0x385cd3,_0x66b6ec){var _0x4ca230=_0x275708,_0x57fc80=_0x32b6a7[_0x4ca230(0x158)]()['trim'](),_0x53632d=_0x385cd3?_0x385cd3[_0x4ca230(0x158)]()[_0x4ca230(0xc1)]():'',_0x10876f=(_0x66b6ec||'')[_0x4ca230(0x158)](),_0x130634='',_0x3392ae=_0x53632d?_0x53632d:_0x10876f;[_0x4ca230(0x20e),_0x4ca230(0x1bc),_0x4ca230(0x1e6),_0x4ca230(0x126),'cinin',_0x4ca230(0x23a),_0x4ca230(0x10a),_0x4ca230(0x16c),'giwang'][_0x4ca230(0x24e)](function(_0x1a734e){var _0x1e8185=_0x4ca230;if(_0x3392ae[_0x1e8185(0xf7)](_0x1a734e))_0x130634=_0x1a734e===_0x1e8185(0xe4)?_0x1e8185(0x126):_0x1a734e;});var _0x7d9589=0x0,_0x4ba710=0x0;for(var _0x3a1cad=0x1;_0x3a1cad<_0x389041[_0x4ca230(0x16a)];_0x3a1cad++){var _0xff75ae=(_0x389041[_0x3a1cad][0x1]||'')[_0x4ca230(0x158)]();if(_0xff75ae[_0x4ca230(0xf7)](_0x57fc80)){if(_0x130634!==_0x4ca230(0x23a)&&_0xff75ae[_0x4ca230(0xf7)](_0x4ca230(0x23a)))continue;var _0x499914=parseInt(_0x389041[_0x3a1cad][0xb]||'0');if(_0x499914>0x0){_0x4ba710=_0x499914;break;}}}var _0x3dfa7e=function(_0x4138f0,_0x3566f9,_0x7d5fb){var _0x2078d4=_0x4ca230;for(var _0x4f6a5=0x1;_0x4f6a5<_0x4138f0[_0x2078d4(0x16a)];_0x4f6a5++){var _0x358148=(_0x4138f0[_0x4f6a5][_0x3566f9]||'')['toLowerCase']();if(_0x358148['includes'](_0x57fc80)&&_0x358148['includes'](_0x130634||_0x53632d)){if(_0x130634!=='set'&&_0x358148['includes'](_0x2078d4(0x23a)))continue;if(_0x130634===_0x2078d4(0x23a)&&!_0x358148[_0x2078d4(0xf7)](_0x2078d4(0x23a)))continue;var _0x3e937e=_0x45136f(_0x4138f0[_0x4f6a5][_0x7d5fb]);if(_0x3e937e>0x0)return _0x3e937e;}}return 0x0;};_0x7d9589=_0x3dfa7e(_0x436ae3,0x3,0x19);if(_0x7d9589===0x0)_0x7d9589=_0x3dfa7e(_0x389041,0x1,0x3);if(_0x7d9589===0x0)_0x7d9589=_0x3dfa7e(_0x389041,0x1,0xa);if(_0x7d9589===0x0)for(var _0x3a1cad=0x1;_0x3a1cad<_0x436ae3[_0x4ca230(0x16a)];_0x3a1cad++){var _0xff75ae=(_0x436ae3[_0x3a1cad][0x3]||'')['toLowerCase']();if(_0xff75ae['includes'](_0x57fc80)){if(_0x130634!==_0x4ca230(0x23a)&&_0xff75ae[_0x4ca230(0xf7)]('set'))continue;if(_0x130634==='set'&&!_0xff75ae[_0x4ca230(0xf7)](_0x4ca230(0x23a)))continue;var _0x3ac17b=_0x45136f(_0x436ae3[_0x3a1cad][0x19]);if(_0x3ac17b>0x0){_0x7d9589=_0x3ac17b;break;}}}if(_0x7d9589===0x0)for(var _0x3a1cad=0x1;_0x3a1cad<_0x389041[_0x4ca230(0x16a)];_0x3a1cad++){var _0xff75ae=(_0x389041[_0x3a1cad][0x1]||'')['toLowerCase']();if(_0xff75ae[_0x4ca230(0xf7)](_0x57fc80)){if(_0x130634!==_0x4ca230(0x23a)&&_0xff75ae[_0x4ca230(0xf7)](_0x4ca230(0x23a)))continue;if(_0x130634==='set'&&!_0xff75ae['includes'](_0x4ca230(0x23a)))continue;var _0x3ac17b=_0x45136f(_0x389041[_0x3a1cad][0x3])||_0x45136f(_0x389041[_0x3a1cad][0xa]);if(_0x3ac17b>0x0){_0x7d9589=_0x3ac17b;break;}}}var _0x35758d=_0x4ba710>0x0?Math[_0x4ca230(0x285)](_0x7d9589*(0x1-_0x4ba710/0x64)/0x3e8)*0x3e8:_0x7d9589;return{'final':_0x35758d,'normal':_0x7d9589,'discount':_0x4ba710};}function _0xe5a9ec(_0x41098a){var _0x1ea06f=_0x275708,_0xd1884b={},_0x26bbc6={'normal':0x0,'final':0x0,'diskon':0x0};for(var _0xa93257=0x1;_0xa93257<_0x389041['length'];_0xa93257++){var _0x403757=(_0x389041[_0xa93257][0x1]||'')['toLowerCase']();if(_0x403757[_0x1ea06f(0xf7)](_0x41098a[_0x1ea06f(0x158)]())){var _0x65cb11=_0x45136f(_0x389041[_0xa93257][0x3]),_0x1f8916=_0x45136f(_0x389041[_0xa93257][0xa]),_0x3dca55=_0x45136f(_0x389041[_0xa93257][0xb])||0x0,_0x2b0f47=_0x1f8916>0x0?Math['ceil'](_0x1f8916/0x3e8)*0x3e8:_0x65cb11;if(_0x2b0f47>0x0){_0x26bbc6={'normal':_0x65cb11,'final':_0x2b0f47,'diskon':_0x3dca55};break;}}}var _0x29c793={},_0x3aef2b=[_0x1ea06f(0x1fe),'Kalung','Gelang',_0x1ea06f(0x154),_0x1ea06f(0xf9),_0x1ea06f(0x26e),_0x1ea06f(0x1d0),_0x1ea06f(0x245)];for(var _0x1a159e=0x1;_0x1a159e<_0x389041['length'];_0x1a159e++){var _0x48d275=_0x389041[_0x1a159e],_0x1544ee=(_0x48d275[0x1]||'')[_0x1ea06f(0x158)]();if(!_0x1544ee[_0x1ea06f(0xf7)](_0x41098a[_0x1ea06f(0x158)]()))continue;_0x3aef2b[_0x1ea06f(0x24e)](function(_0x3b56ad){var _0x12a175=_0x1ea06f;if(_0x1544ee[_0x12a175(0xf7)](_0x3b56ad[_0x12a175(0x158)]())){var _0x38cf0f=_0x4249f7(_0x3b56ad);if(!_0x29c793[_0x38cf0f]){var _0x58dd69=_0x45136f(_0x48d275[0x3]),_0x1ac73a=_0x45136f(_0x48d275[0xa]),_0x404624=_0x45136f(_0x48d275[0xb])||0x0,_0x3995a3=_0x1ac73a>0x0?Math[_0x12a175(0x285)](_0x1ac73a/0x3e8)*0x3e8:_0x58dd69;_0x29c793[_0x38cf0f]={'optName':_0x3b56ad,'hargaNormal':_0x58dd69,'hargaFinal':_0x3995a3,'diskon':_0x404624};}}});}if(_0x436ae3['length']<0x4)return _0xd1884b;for(var _0x1a159e=0x3;_0x1a159e<_0x436ae3[_0x1ea06f(0x16a)];_0x1a159e++){var _0x48d275=_0x436ae3[_0x1a159e];if(!_0x48d275||_0x48d275[_0x1ea06f(0x16a)]<0x12)continue;var _0x1b264e=(_0x48d275[0x3]||'')[_0x1ea06f(0x158)]();if(!_0x1b264e['includes'](_0x41098a[_0x1ea06f(0x158)]()))continue;var _0x4b7889=null;_0x3aef2b['forEach'](function(_0x3f6f78){var _0x34c1d9=_0x1ea06f;if(_0x1b264e['includes'](_0x3f6f78[_0x34c1d9(0x158)]()))_0x4b7889=_0x3f6f78;});var _0x51d5d9=_0x4b7889?_0x4249f7(_0x4b7889):null,_0x5cc620=_0x51d5d9&&_0x29c793[_0x51d5d9]?_0x29c793[_0x51d5d9]:null,_0x560e18=_0x4b7889?_0x4b7889[_0x1ea06f(0x1e0)](0x0)[_0x1ea06f(0xbf)]()+_0x4b7889[_0x1ea06f(0x195)](0x1):_0x1b264e[_0x1ea06f(0x216)]('\x20')[0x1]||_0x1ea06f(0x1aa),_0x15d68e=_0x45136f(_0x48d275[0x19]),_0x544af4=0x0,_0x54f276=0x0,_0x215b08=0x0;if(_0x5cc620&&_0x5cc620[_0x1ea06f(0x243)]>0x0)_0x544af4=_0x5cc620[_0x1ea06f(0x18d)],_0x54f276=_0x5cc620[_0x1ea06f(0x243)],_0x215b08=_0x5cc620[_0x1ea06f(0x258)];else _0x26bbc6['final']>0x0?(_0x544af4=_0x26bbc6[_0x1ea06f(0x17c)],_0x54f276=_0x26bbc6[_0x1ea06f(0x293)],_0x215b08=_0x26bbc6[_0x1ea06f(0x258)]):(_0x544af4=_0x15d68e,_0x54f276=_0x15d68e,_0x215b08=0x0);var _0x157ddb=[];[0xb,0xc,0xd,0xe]['forEach'](function(_0x142b90){var _0x43e425=_0x1ea06f,_0x210cb2=(_0x48d275[_0x142b90]||'')[_0x43e425(0xc1)]();if(_0x210cb2)_0x157ddb[_0x43e425(0x1b6)](_0x210cb2);});if(_0x157ddb['length']===0x0)_0x157ddb=[null];var _0x29cba7=[];if(_0x45136f(_0x48d275[0xf])>0x0)_0x29cba7[_0x1ea06f(0x1b6)](_0x1ea06f(0x275));if(_0x45136f(_0x48d275[0x10])>0x0)_0x29cba7[_0x1ea06f(0x1b6)](_0x1ea06f(0x1dc));if(_0x29cba7[_0x1ea06f(0x16a)]===0x0)_0x29cba7=[null];var _0x40bd89=[],_0x967c8=(_0x48d275[0x11]||'')['trim']();if(_0x967c8&&_0x967c8[_0x1ea06f(0xf7)](','))_0x40bd89=_0x967c8[_0x1ea06f(0x216)](',')[_0x1ea06f(0x13f)](function(_0x36e391){var _0x35d8c4=_0x1ea06f;return _0x36e391[_0x35d8c4(0xc1)]();});else _0x967c8?_0x40bd89=[_0x967c8]:_0x40bd89=[null];_0x157ddb[_0x1ea06f(0x24e)](function(_0x2c6b44){var _0x32e537=_0x1ea06f;_0x29cba7[_0x32e537(0x24e)](function(_0x5cca12){var _0x225898=_0x32e537;_0x40bd89[_0x225898(0x24e)](function(_0x2988de){var _0x3fee5b=_0x225898,_0x9315f7=['Jenis:\x20'+_0x560e18];if(_0x2c6b44)_0x9315f7[_0x3fee5b(0x1b6)]('Mutiara:\x20'+_0x2c6b44);if(_0x5cca12)_0x9315f7['push']('Rangka:\x20'+_0x5cca12);if(_0x2988de)_0x9315f7[_0x3fee5b(0x1b6)](_0x3fee5b(0x125)+_0x2988de);var _0x9b9c77=_0x9315f7[_0x3fee5b(0xc9)](_0x3fee5b(0x1e7)),_0x54c43d=[_0x560e18];if(_0x2c6b44)_0x54c43d[_0x3fee5b(0x1b6)](_0x2c6b44);if(_0x5cca12)_0x54c43d[_0x3fee5b(0x1b6)](_0x5cca12);if(_0x2988de)_0x54c43d[_0x3fee5b(0x1b6)](_0x2988de);var _0x1d7234=_0x4249f7(_0x54c43d[_0x3fee5b(0xc9)]('-'));!_0xd1884b[_0x1d7234]&&(_0xd1884b[_0x1d7234]={'optName':_0x9b9c77,'hargaNormal':_0x544af4,'hargaFinal':_0x54f276,'diskon':_0x215b08,'jenis':_0x560e18,'mutiara':_0x2c6b44,'rangka':_0x5cca12,'batu':_0x2988de});});});});}return _0xd1884b;}window[_0x275708(0x28b)]={'jenis':null,'mutiara':null,'rangka':null,'batu':null,'fallback':null};function _0x495a47(_0x9ef913){var _0x488ac3=_0x275708;function _0x291f17(_0x2a752d){var _0xae4793=_0x5de3,_0x537112=[],_0x250897=[],_0x5c07c8='',_0x52a0d2=![];for(var _0x5aabf1=0x0;_0x5aabf1<_0x2a752d[_0xae4793(0x16a)];_0x5aabf1++){var _0x2c42eb=_0x2a752d[_0x5aabf1];if(_0x52a0d2){if(_0x2c42eb==='\x22'&&_0x2a752d[_0x5aabf1+0x1]==='\x22')_0x5c07c8+='\x22',_0x5aabf1++;else _0x2c42eb==='\x22'?_0x52a0d2=![]:_0x5c07c8+=_0x2c42eb;}else{if(_0x2c42eb==='\x22')_0x52a0d2=!![];else{if(_0x2c42eb===',')_0x250897[_0xae4793(0x1b6)](_0x5c07c8[_0xae4793(0xc1)]()),_0x5c07c8='';else{if(_0x2c42eb==='\x0a')_0x250897[_0xae4793(0x1b6)](_0x5c07c8[_0xae4793(0xc1)]()),_0x537112[_0xae4793(0x1b6)](_0x250897),_0x5c07c8='',_0x250897=[];else _0x2c42eb!=='\x0d'&&(_0x5c07c8+=_0x2c42eb);}}}}return _0x250897[_0xae4793(0x1b6)](_0x5c07c8[_0xae4793(0xc1)]()),_0x537112[_0xae4793(0x1b6)](_0x250897),_0x537112;}Promise['all']([_0x58060d(_0x5dfe15)[_0x488ac3(0x148)](function(){return'';}),_0x58060d(_0x21f16c)['catch'](function(){return'';}),_0x58060d(_0x1910bb)[_0x488ac3(0x148)](function(){return'';}),fetch(_0x20c09a+_0x488ac3(0x1ce)+Date[_0x488ac3(0xf0)]())[_0x488ac3(0xcb)](function(_0x4b88a5){var _0x29302f=_0x488ac3;return _0x4b88a5[_0x29302f(0x1e4)]();})['catch'](function(){return'';}),_0x58060d(_0x2e352e)[_0x488ac3(0x148)](function(){return'';})])['then'](function(_0x2e95b6){var _0x109303=_0x488ac3,_0x50fa75={};if(_0x2e95b6[0x0])_0x389041=_0x291f17(_0x2e95b6[0x0]);if(_0x2e95b6[0x2])_0x436ae3=_0x291f17(_0x2e95b6[0x2]);if(_0x2e95b6[0x3]){var _0x271e22=_0x291f17(_0x2e95b6[0x3]);_0x56fde0={};for(var _0xaf4cb6=0x1;_0xaf4cb6<_0x271e22[_0x109303(0x16a)];_0xaf4cb6++){var _0x3dfdc3=(_0x271e22[_0xaf4cb6][0x1]||'')[_0x109303(0xc1)]()[_0x109303(0xbf)](),_0x26a305=(_0x271e22[_0xaf4cb6][0x2]||'')[_0x109303(0xc1)]()[_0x109303(0xbf)]();if(_0x3dfdc3)_0x56fde0[_0x3dfdc3]=0x14;if(_0x26a305)_0x56fde0[_0x26a305]=0x1e;}}_0x5279f4={};if(_0x2e95b6[0x4]){var _0xa0e75f=_0x291f17(_0x2e95b6[0x4]);for(var _0x42ac76=0x1;_0x42ac76<_0xa0e75f[_0x109303(0x16a)];_0x42ac76++){var _0x2b01e8=(_0xa0e75f[_0x42ac76][0x0]||'')[_0x109303(0xc1)]()[_0x109303(0xbf)](),_0x102099=_0x45136f(_0xa0e75f[_0x42ac76][0x1]),_0x5b5bca=_0x45136f(_0xa0e75f[_0x42ac76][0x2]),_0x20a8a0=_0x45136f(_0xa0e75f[_0x42ac76][0x3]),_0x3aaab6=(_0xa0e75f[_0x42ac76][0x4]||'')[_0x109303(0xc1)]()['toUpperCase']();if(_0x2b01e8&&_0x102099>0x0&&!_0x3aaab6[_0x109303(0xf7)](_0x109303(0x144))){var _0x1cb401=_0x102099<=0x64?'percent':_0x109303(0x1ca);_0x5279f4[_0x2b01e8]={'type':_0x1cb401,'value':_0x102099,'minPurchase':_0x5b5bca,'maxDiscount':_0x1cb401===_0x109303(0xec)&&_0x20a8a0>0x0?_0x20a8a0:null};}}}if(_0x389041[_0x109303(0x16a)]>0x0)for(var _0x2a7022=0x1;_0x2a7022<_0x389041[_0x109303(0x16a)];_0x2a7022++){var _0x22841f=_0x389041[_0x2a7022];if(_0x22841f[_0x109303(0x16a)]<0xd)continue;var _0x256521=_0x22841f[0x1]||'',_0x171043=_0x45136f(_0x22841f[0x3]),_0x19ca40=_0x45136f(_0x22841f[0xa]);_0x19ca40>0x0&&(_0x19ca40=Math[_0x109303(0x285)](_0x19ca40/0x3e8)*0x3e8);var _0x223796=_0x45136f(_0x22841f[0xb]),_0x1bef22=_0x19ca40>0x0?_0x19ca40:_0x171043;if(!_0x256521||_0x1bef22<=0x0)continue;var _0x2b7fe6=_0x256521[_0x109303(0x248)](/[^a-zA-Z0-9\s]/g,'')[_0x109303(0x248)](/\s+/g,'\x20')[_0x109303(0xc1)](),_0x5643bc=_0x2b7fe6['split']('\x20'),_0x19f3fe=_0x5643bc[0x0][_0x109303(0x158)](),_0x103b0e=(_0x5643bc[0x1]||_0x109303(0x115))['toLowerCase'](),_0x28edc0=_0x3cc64a(_0x256521);!_0x50fa75[_0x19f3fe]&&(_0x50fa75[_0x19f3fe]={'id':_0x19f3fe,'namaUtama':_0x28edc0,'desc':_0x22841f[0x2]||'','hargaNormal':_0x171043,'hargaDiskon':_0x19ca40,'hargaFinal':_0x1bef22,'diskon':_0x223796,'label':'Pilih\x20Varian:','variants':{},'fromShopee':![]},_0x50fa75[_0x19f3fe[_0x109303(0x248)](/\s+/g,'')]=_0x50fa75[_0x19f3fe]),_0x1bef22<_0x50fa75[_0x19f3fe][_0x109303(0x243)]&&(_0x50fa75[_0x19f3fe][_0x109303(0x18d)]=_0x171043,_0x50fa75[_0x19f3fe]['hargaDiskon']=_0x19ca40,_0x50fa75[_0x19f3fe]['hargaFinal']=_0x1bef22,_0x50fa75[_0x19f3fe][_0x109303(0x258)]=_0x223796),_0x50fa75[_0x19f3fe]['variants'][_0x103b0e]={'nama':_0x28edc0,'optName':_0x103b0e[_0x109303(0x1e0)](0x0)['toUpperCase']()+_0x103b0e[_0x109303(0x195)](0x1),'hargaNormal':_0x171043,'hargaDiskon':_0x19ca40,'hargaFinal':_0x1bef22,'diskon':_0x223796};}if(_0x2e95b6[0x1]){var _0x4ce0fc=_0x291f17(_0x2e95b6[0x1]);for(var _0x27cbbe=0x1;_0x27cbbe<_0x4ce0fc[_0x109303(0x16a)];_0x27cbbe++){var _0x5486c6=_0x4ce0fc[_0x27cbbe];if(_0x5486c6['length']<0x10)continue;var _0xcbf894=_0x5486c6[0x2]||'';if(!_0xcbf894)continue;var _0x5a756a=_0xcbf894[_0x109303(0x248)](/[^a-zA-Z0-9\s]/g,'')['replace'](/\s+/g,'\x20')[_0x109303(0xc1)](),_0x3eff6a=_0x5a756a[_0x109303(0x216)]('\x20'),_0xd627c4=_0x3eff6a[0x0][_0x109303(0x158)]();if(_0x50fa75[_0xd627c4]){var _0x55ca3b=_0x5486c6[0xf]||'Varian',_0x4f87f3=[0xe,0x10,0x12,0x14,0x16,0x18,0x1a,0x1c],_0x502b23=[];_0x4f87f3[_0x109303(0x24e)](function(_0x1415f0){var _0x4af876=_0x109303;if(_0x1415f0<_0x5486c6[_0x4af876(0x16a)]){var _0x2b36c3=_0x5486c6[_0x1415f0]?_0x5486c6[_0x1415f0][_0x4af876(0x248)](/^"|"$/g,'')[_0x4af876(0xc1)]():'';_0x2b36c3&&!_0x2b36c3[_0x4af876(0x251)](_0x4af876(0x117))&&_0x502b23[_0x4af876(0x1b6)](_0x2b36c3);}}),_0x502b23=[...new Set(_0x502b23)],_0x502b23['length']>0x0&&(!_0x50fa75[_0xd627c4]['fromShopee']&&(_0x50fa75[_0xd627c4][_0x109303(0x24a)]={},_0x50fa75[_0xd627c4][_0x109303(0x128)]=!![],_0x55ca3b&&_0x55ca3b!==_0x109303(0x1aa)&&_0x55ca3b!==''?_0x50fa75[_0xd627c4][_0x109303(0x10f)]=_0x109303(0xce)+_0x55ca3b+':':_0x50fa75[_0xd627c4]['label']=_0x109303(0x215)),_0x502b23[_0x109303(0x24e)](function(_0x195e99){var _0x43bb4e=_0x109303,_0x23425d=_0x195e99[_0x43bb4e(0x158)](),_0x51f54e=_0xc058cb(_0xd627c4,_0x195e99,_0xcbf894),_0x3db1ea=_0x3cc64a(_0xcbf894);_0x50fa75[_0xd627c4]['variants'][_0x23425d]={'nama':_0x3db1ea,'optName':_0x195e99,'hargaNormal':_0x51f54e[_0x43bb4e(0x17c)],'hargaDiskon':_0x51f54e[_0x43bb4e(0x166)]>0x0?_0x51f54e[_0x43bb4e(0x293)]:0x0,'hargaFinal':_0x51f54e[_0x43bb4e(0x293)],'diskon':_0x51f54e['discount']};}));}}}_0x40d871=_0x50fa75,_0x9ef913(_0x50fa75);})[_0x488ac3(0x148)](function(_0x3d3ed1){_0x9ef913({});});}function _0x36115c(){var _0x1f8a41=_0x275708,_0xaae3b=[];document[_0x1f8a41(0x229)](_0x1f8a41(0x19e))['forEach'](function(_0x5a96d6){var _0x2e6c59=_0x1f8a41,_0xf64504=_0x5a96d6[_0x2e6c59(0x238)](!![]);_0xf64504[_0x2e6c59(0x167)][_0x2e6c59(0x28d)](_0x2e6c59(0x25b)),_0xf64504['classList'][_0x2e6c59(0x28d)](_0x2e6c59(0x18c)),_0xf64504[_0x2e6c59(0x167)][_0x2e6c59(0x217)](_0x2e6c59(0xff)),_0x5a96d6[_0x2e6c59(0x1f5)][_0x2e6c59(0x264)](_0xf64504,_0x5a96d6);}),document[_0x1f8a41(0x229)](_0x1f8a41(0x1a7))[_0x1f8a41(0x24e)](function(_0x570cf3){var _0x34f947=_0x1f8a41;_0xaae3b[_0x34f947(0x1b6)](_0x570cf3);});var _0x1ed2bf=document[_0x1f8a41(0x21b)]('volla-variant-ui');if(_0x1ed2bf)_0x1ed2bf[_0x1f8a41(0x28d)]();if(!_0x1af8bd||!_0x1af8bd[_0x1f8a41(0x24a)]||Object[_0x1f8a41(0x294)](_0x1af8bd[_0x1f8a41(0x24a)])[_0x1f8a41(0x16a)]===0x0){_0xaae3b[_0x1f8a41(0x24e)](function(_0x4ad33d){var _0x4279d0=_0x1f8a41;_0x4ad33d[_0x4279d0(0x11c)][_0x4279d0(0xdd)]=_0x4279d0(0x1ba),_0x4ad33d[_0x4279d0(0x11c)][_0x4279d0(0x1e1)]='1',_0x4ad33d['innerHTML']=_0x4279d0(0x244)+_0x305b52+_0x4279d0(0x13c);});return;}var _0x3a0383=_0x1af8bd[_0x1f8a41(0x24a)],_0x523b91=Object['keys'](_0x3a0383),_0x958778=![];_0x523b91[_0x1f8a41(0x16a)]>0x0&&_0x3a0383[_0x523b91[0x0]][_0x1f8a41(0x271)]&&(_0x958778=!![]);window[_0x1f8a41(0x28b)]={'jenis':null,'mutiara':null,'rangka':null,'batu':null,'fallback':null};if(_0xaae3b[_0x1f8a41(0x16a)]>0x0){var _0x1252d8=_0xaae3b[0x0][_0x1f8a41(0x12a)];_0x1252d8[_0x1f8a41(0x11c)][_0x1f8a41(0x145)]=_0x1f8a41(0x100),_0x1252d8[_0x1f8a41(0x11c)]['flexWrap']=_0x1f8a41(0x134),_0x1252d8[_0x1f8a41(0x11c)][_0x1f8a41(0xe5)]=_0x1f8a41(0x240),_0x1252d8['style'][_0x1f8a41(0x196)]=_0x1f8a41(0x1c3),Array[_0x1f8a41(0x19c)](_0x1252d8['children'])[_0x1f8a41(0x24e)](function(_0x251677){var _0x19ee31=_0x1f8a41;_0x251677['tagName']!==_0x19ee31(0x181)&&_0x251677[_0x19ee31(0x199)]!==_0x19ee31(0x1ed)&&!_0x251677['classList'][_0x19ee31(0x102)](_0x19ee31(0x14f))&&_0x251677['id']!==_0x19ee31(0xc2)&&(_0x251677[_0x19ee31(0x11c)]['order']='2',_0x251677[_0x19ee31(0x11c)][_0x19ee31(0x106)]='0',_0x251677[_0x19ee31(0x167)][_0x19ee31(0x102)](_0x19ee31(0xff))?_0x251677['style']['flex']='9':(_0x251677[_0x19ee31(0x11c)][_0x19ee31(0x100)]='1',_0x251677[_0x19ee31(0x11c)][_0x19ee31(0x149)](_0x19ee31(0x145),_0x19ee31(0x100),_0x19ee31(0x1a0)),_0x251677[_0x19ee31(0x11c)][_0x19ee31(0x149)](_0x19ee31(0x1f6),_0x19ee31(0x288),'important'),_0x251677[_0x19ee31(0x11c)][_0x19ee31(0x149)](_0x19ee31(0xde),_0x19ee31(0x288),_0x19ee31(0x1a0)),_0x251677[_0x19ee31(0x11c)][_0x19ee31(0x149)](_0x19ee31(0x262),'50px',_0x19ee31(0x1a0)),_0x251677[_0x19ee31(0x11c)][_0x19ee31(0x149)](_0x19ee31(0x10e),'65px',_0x19ee31(0x1a0))));});if(_0x523b91[_0x1f8a41(0x16a)]<=0x1){var _0x6763c6=_0x3a0383[_0x523b91[0x0]];_0x3e0cfa(_0x6763c6,_0x6763c6[_0x1f8a41(0x1f1)]||_0x523b91[0x0]);return;}var _0x3aebb2=document[_0x1f8a41(0x272)](_0x1f8a41(0x273));_0x3aebb2['id']='volla-variant-ui',_0x3aebb2['style'][_0x1f8a41(0x27f)]=_0x1f8a41(0xdf);function _0x224e09(_0x396358,_0x106739,_0x12d8da){var _0x114d58=_0x1f8a41,_0x4b4256=_0x106739[_0x114d58(0x132)](function(_0x88ead5){var _0x3d12eb=_0x114d58;return _0x88ead5&&_0x88ead5[_0x3d12eb(0xc1)]()!=='';});if(_0x4b4256[_0x114d58(0x16a)]<=0x1){if(_0x4b4256['length']===0x1)window[_0x114d58(0x28b)][_0x12d8da]=_0x4b4256[0x0];return;}var _0x314175=document['createElement'](_0x114d58(0x273));_0x314175['innerHTML']='<div\x20style=\x22font-weight:600;\x20font-size:14px;\x20margin:10px\x200\x205px;\x20color:#333;\x22>'+_0x396358+'</div>';var _0x3feb21=document[_0x114d58(0x272)]('div');_0x3feb21[_0x114d58(0x11c)][_0x114d58(0x145)]=_0x114d58(0x100),_0x3feb21[_0x114d58(0x11c)][_0x114d58(0x12c)]=_0x114d58(0x134),_0x3feb21[_0x114d58(0x11c)]['gap']=_0x114d58(0x1dd),_0x4b4256[_0x114d58(0x24e)](function(_0x28cc40){var _0x4266be=_0x114d58,_0x3c54f2=document[_0x4266be(0x272)](_0x4266be(0x273));_0x3c54f2['innerText']=_0x28cc40,_0x3c54f2[_0x4266be(0x121)]=_0x4266be(0x281)+_0x12d8da,_0x3c54f2[_0x4266be(0x11c)][_0x4266be(0x27f)]=_0x4266be(0x1cb),_0x3c54f2[_0x4266be(0x259)]=function(){var _0x10ee7c=_0x4266be,_0x28edc2=window[_0x10ee7c(0x28b)][_0x12d8da]===_0x28cc40;if(_0x28edc2)window['vollaSelected'][_0x12d8da]=null,_0x3c54f2[_0x10ee7c(0x167)][_0x10ee7c(0x28d)]('active-variant'),_0x3c54f2['style'][_0x10ee7c(0x29f)]='#ccc',_0x3c54f2[_0x10ee7c(0x11c)][_0x10ee7c(0x208)]=_0x10ee7c(0x112),_0x3c54f2[_0x10ee7c(0x11c)][_0x10ee7c(0x1c7)]=_0x10ee7c(0x250);else{window[_0x10ee7c(0x28b)][_0x12d8da]=_0x28cc40;var _0x154d4b=Object[_0x10ee7c(0x23d)](_0x3a0383),_0x33eb37=_0x154d4b[_0x10ee7c(0x17d)](function(_0x35e302){var _0x318f2c=_0x10ee7c;return(!window[_0x318f2c(0x28b)][_0x318f2c(0x271)]||_0x35e302[_0x318f2c(0x271)]===window[_0x318f2c(0x28b)]['jenis'])&&(!window['vollaSelected']['mutiara']||_0x35e302[_0x318f2c(0x235)]===window[_0x318f2c(0x28b)]['mutiara'])&&(!window['vollaSelected']['rangka']||_0x35e302[_0x318f2c(0x292)]===window['vollaSelected'][_0x318f2c(0x292)])&&(!window[_0x318f2c(0x28b)][_0x318f2c(0x14c)]||_0x35e302[_0x318f2c(0x14c)]===window[_0x318f2c(0x28b)]['batu']);});!_0x33eb37?(window[_0x10ee7c(0x28b)]={'jenis':null,'mutiara':null,'rangka':null,'batu':null,'fallback':null},window[_0x10ee7c(0x28b)][_0x12d8da]=_0x28cc40,document[_0x10ee7c(0x229)](_0x10ee7c(0x25e))[_0x10ee7c(0x24e)](function(_0x34c5fe){var _0x117205=_0x10ee7c;_0x34c5fe[_0x117205(0x167)][_0x117205(0x28d)](_0x117205(0x1d1)),_0x34c5fe[_0x117205(0x11c)][_0x117205(0x29f)]=_0x117205(0x226),_0x34c5fe[_0x117205(0x11c)][_0x117205(0x208)]=_0x117205(0x112),_0x34c5fe[_0x117205(0x11c)][_0x117205(0x1c7)]='#fff';})):_0x314175[_0x10ee7c(0x229)](_0x10ee7c(0x187)+_0x12d8da)[_0x10ee7c(0x24e)](function(_0x12ac7f){var _0x3732c8=_0x10ee7c;_0x12ac7f[_0x3732c8(0x167)]['remove'](_0x3732c8(0x1d1)),_0x12ac7f[_0x3732c8(0x11c)]['borderColor']=_0x3732c8(0x226),_0x12ac7f[_0x3732c8(0x11c)][_0x3732c8(0x208)]=_0x3732c8(0x112),_0x12ac7f[_0x3732c8(0x11c)]['background']=_0x3732c8(0x250);}),_0x3c54f2[_0x10ee7c(0x11c)]['borderColor']=_0x301bb6,_0x3c54f2[_0x10ee7c(0x11c)][_0x10ee7c(0x208)]=_0x301bb6,_0x3c54f2['classList']['add'](_0x10ee7c(0x1d1));}_0x48b72e();},_0x3feb21[_0x4266be(0x2a1)](_0x3c54f2);}),_0x314175[_0x114d58(0x2a1)](_0x3feb21),_0x3aebb2[_0x114d58(0x2a1)](_0x314175);}var _0x262513=_0x3a73f8(_0x3a0383);if(_0x958778)_0x224e09(_0x1f8a41(0x124),_0x262513[_0x1f8a41(0x271)],_0x1f8a41(0x271)),_0x224e09(_0x1f8a41(0x193),_0x262513[_0x1f8a41(0x235)],_0x1f8a41(0x235)),_0x224e09('Warna\x20Rangka',_0x262513[_0x1f8a41(0x292)],_0x1f8a41(0x292)),_0x224e09(_0x1f8a41(0x1b5),_0x262513['batu'],'batu');else{var _0x106e96=[];_0x523b91[_0x1f8a41(0x24e)](function(_0xe0d8df){var _0x45ebe0=_0x1f8a41;_0x106e96[_0x45ebe0(0x1b6)](_0x3a0383[_0xe0d8df][_0x45ebe0(0x1f1)]||_0xe0d8df);}),_0x224e09(_0x1af8bd[_0x1f8a41(0x10f)]||_0x1f8a41(0x296),_0x106e96,_0x1f8a41(0xe2));}_0x1252d8[_0x1f8a41(0x101)](_0x3aebb2,_0xaae3b[0x0]);function _0x48b72e(){var _0x19b848=_0x1f8a41,_0x8b92cc=window[_0x19b848(0x28b)],_0x2f9ee2=null,_0x48866f=Object[_0x19b848(0x23d)](_0x3a0383);if(_0x958778){[_0x19b848(0x271),_0x19b848(0x235),_0x19b848(0x292),_0x19b848(0x14c)]['forEach'](function(_0x40b604){var _0x749c1d=_0x19b848,_0x56b61f=document[_0x749c1d(0x229)](_0x749c1d(0x187)+_0x40b604);_0x56b61f[_0x749c1d(0x24e)](function(_0x4eca79){var _0x35f1b6=_0x749c1d,_0x5823e1=_0x4eca79[_0x35f1b6(0x170)][_0x35f1b6(0xc1)](),_0x3ee7a6=_0x48866f[_0x35f1b6(0x17d)](function(_0xd5fd53){var _0x33247c=_0x35f1b6,_0x5da59f=!![];if(_0x40b604!==_0x33247c(0x271)&&_0x8b92cc[_0x33247c(0x271)]&&_0xd5fd53[_0x33247c(0x271)]!==_0x8b92cc[_0x33247c(0x271)])_0x5da59f=![];if(_0x40b604!==_0x33247c(0x235)&&_0x8b92cc[_0x33247c(0x235)]&&_0xd5fd53[_0x33247c(0x235)]!==_0x8b92cc['mutiara'])_0x5da59f=![];if(_0x40b604!==_0x33247c(0x292)&&_0x8b92cc[_0x33247c(0x292)]&&_0xd5fd53['rangka']!==_0x8b92cc['rangka'])_0x5da59f=![];if(_0x40b604!=='batu'&&_0x8b92cc[_0x33247c(0x14c)]&&_0xd5fd53[_0x33247c(0x14c)]!==_0x8b92cc['batu'])_0x5da59f=![];return _0x5da59f&&_0xd5fd53[_0x40b604]===_0x5823e1;});if(!_0x3ee7a6)_0x4eca79[_0x35f1b6(0x11c)][_0x35f1b6(0x145)]=_0x35f1b6(0x113),_0x4eca79[_0x35f1b6(0x11c)]['opacity']=_0x35f1b6(0x239),_0x4eca79[_0x35f1b6(0x11c)][_0x35f1b6(0xdd)]='none',_0x4eca79['style'][_0x35f1b6(0x1c7)]=_0x35f1b6(0x211),_0x4eca79[_0x35f1b6(0x11c)][_0x35f1b6(0x208)]=_0x35f1b6(0xbb),_0x4eca79[_0x35f1b6(0x11c)][_0x35f1b6(0x29f)]=_0x35f1b6(0x136),_0x8b92cc[_0x40b604]===_0x5823e1&&(_0x8b92cc[_0x40b604]=null,_0x4eca79[_0x35f1b6(0x167)]['remove'](_0x35f1b6(0x1d1)));else{_0x4eca79['style'][_0x35f1b6(0x145)]=_0x35f1b6(0x113),_0x4eca79[_0x35f1b6(0x11c)][_0x35f1b6(0x1e1)]='1',_0x4eca79[_0x35f1b6(0x11c)]['pointerEvents']=_0x35f1b6(0x1ba),_0x4eca79[_0x35f1b6(0x11c)][_0x35f1b6(0x208)]=_0x4eca79[_0x35f1b6(0x167)][_0x35f1b6(0x102)](_0x35f1b6(0x1d1))?_0x301bb6:_0x35f1b6(0x112),_0x4eca79[_0x35f1b6(0x11c)][_0x35f1b6(0x1c7)]=_0x35f1b6(0x250);if(!_0x4eca79['classList'][_0x35f1b6(0x102)](_0x35f1b6(0x1d1)))_0x4eca79[_0x35f1b6(0x11c)][_0x35f1b6(0x29f)]=_0x35f1b6(0x226);}});var _0x4ac186=_0x56b61f['length']>0x0?_0x56b61f[0x0][_0x749c1d(0x12a)]['parentElement']:null;if(_0x4ac186)_0x4ac186[_0x749c1d(0x11c)]['display']='block';});var _0xd4da01=_0x48866f['filter'](function(_0x21f0b3){var _0x4268f6=_0x19b848;return(!_0x8b92cc[_0x4268f6(0x271)]||_0x21f0b3['jenis']===_0x8b92cc[_0x4268f6(0x271)])&&(!_0x8b92cc[_0x4268f6(0x235)]||_0x21f0b3[_0x4268f6(0x235)]===_0x8b92cc[_0x4268f6(0x235)])&&(!_0x8b92cc[_0x4268f6(0x292)]||_0x21f0b3['rangka']===_0x8b92cc['rangka'])&&(!_0x8b92cc['batu']||_0x21f0b3[_0x4268f6(0x14c)]===_0x8b92cc[_0x4268f6(0x14c)]);});if(_0xd4da01[_0x19b848(0x16a)]===0x1){var _0x53a037=_0xd4da01[0x0],_0x179351=!![];if(_0x53a037['jenis']&&!_0x8b92cc[_0x19b848(0x271)])_0x179351=![];if(_0x53a037[_0x19b848(0x235)]&&!_0x8b92cc[_0x19b848(0x235)])_0x179351=![];if(_0x53a037[_0x19b848(0x292)]&&!_0x8b92cc[_0x19b848(0x292)])_0x179351=![];if(_0x53a037[_0x19b848(0x14c)]&&!_0x8b92cc['batu'])_0x179351=![];if(_0x179351)_0x2f9ee2=_0x53a037;}}else{var _0x179351=!!_0x8b92cc[_0x19b848(0xe2)];if(_0x179351){var _0x1361cd=Object[_0x19b848(0x294)](_0x3a0383)['find'](function(_0x5ee8b9){var _0x493689=_0x19b848;return _0x3a0383[_0x5ee8b9][_0x493689(0x1f1)]===_0x8b92cc[_0x493689(0xe2)]||_0x5ee8b9===_0x8b92cc['fallback'];});_0x2f9ee2=_0x1361cd?_0x3a0383[_0x1361cd]:null;}}if(_0x2f9ee2)_0x3e0cfa(_0x2f9ee2,_0x2f9ee2[_0x19b848(0x1f1)]);else{_0xaae3b[_0x19b848(0x24e)](function(_0x386cf6){var _0x190495=_0x19b848;_0x386cf6['style'][_0x190495(0xdd)]='none',_0x386cf6[_0x190495(0x11c)]['opacity']=_0x190495(0x225),_0x386cf6['style'][_0x190495(0x149)](_0x190495(0x1c7),'var(--key)',_0x190495(0x1a0)),_0x386cf6[_0x190495(0x1eb)]=_0x190495(0x14b);});var _0x223032=document[_0x19b848(0xea)](_0x19b848(0xf5));if(_0x223032&&_0x1af8bd&&_0x1af8bd[_0x19b848(0x243)])_0x223032[_0x19b848(0x1eb)]='<b\x20style=\x22color:'+_0x301bb6+_0x19b848(0x1d2)+_0x44f83d(_0x1af8bd[_0x19b848(0x243)])+_0x19b848(0x237);}}function _0x3e0cfa(_0x129058,_0x4016b8){var _0x38725d=_0x1f8a41,_0xeb89b1=document[_0x38725d(0xea)](_0x38725d(0xf5)),_0x3b8501=document[_0x38725d(0xea)](_0x38725d(0x10d)),_0x3c9997=_0x3b8501?_0x3b8501[_0x38725d(0x170)]['trim']():_0x1af8bd[_0x38725d(0xd9)];if(_0xeb89b1){var _0x2ea776='',_0x5e1218=_0x129058[_0x38725d(0x18d)]||0x0,_0xbb68d5=_0x129058[_0x38725d(0x243)]||_0x5e1218,_0x191341=_0x129058['diskon']||0x0;if(_0x5e1218>_0xbb68d5){_0x2ea776=_0x38725d(0x155)+_0x44f83d(_0x5e1218)+_0x38725d(0x174)+_0x301bb6+_0x38725d(0x1d2)+_0x44f83d(_0xbb68d5)+_0x38725d(0x237);if(_0x191341>0x0)_0x2ea776+='\x20<small\x20style=\x22background:#ee4d2d;\x20color:white;\x20padding:2px\x208px;\x20border-radius:4px;\x20margin-left:10px;\x22>-'+_0x191341+_0x38725d(0xd4);}else _0x2ea776='<b\x20style=\x22color:'+_0x301bb6+_0x38725d(0x1d2)+_0x44f83d(_0xbb68d5)+_0x38725d(0x237);_0xeb89b1['innerHTML']=_0x2ea776,_0xeb89b1[_0x38725d(0x1d3)](_0x38725d(0x116),_0xbb68d5),_0xeb89b1[_0x38725d(0x1d3)](_0x38725d(0x29d),_0x5e1218),_0xeb89b1['setAttribute'](_0x38725d(0x289),_0x3c9997),_0xeb89b1[_0x38725d(0x1d3)](_0x38725d(0x11b),_0x4016b8);}var _0x4f2d0c=JSON[_0x38725d(0xfc)](localStorage[_0x38725d(0x169)](_0x9e6794)||_0x38725d(0x2a2)),_0x2a88a5=_0x1af8bd['id']||window[_0x38725d(0x23b)]['pathname'][_0x38725d(0x248)](/[\/\.]/g,'-'),_0x40b4d6=_0x2a88a5+(_0x4016b8?'-'+_0x4249f7(_0x4016b8):''),_0x1e47b9=_0x4f2d0c[_0x38725d(0x219)][_0x38725d(0x17d)](function(_0x2cf3d9){return _0x2cf3d9['id']===_0x40b4d6;});_0xaae3b[_0x38725d(0x24e)](function(_0x5d0130){var _0x4bf9b8=_0x38725d;_0x5d0130[_0x4bf9b8(0x11c)][_0x4bf9b8(0xdd)]=_0x4bf9b8(0x1ba),_0x5d0130[_0x4bf9b8(0x11c)]['opacity']='1',_0x1e47b9?_0x5d0130['style'][_0x4bf9b8(0x149)](_0x4bf9b8(0x1c7),_0x4bf9b8(0x185),_0x4bf9b8(0x1a0)):_0x5d0130[_0x4bf9b8(0x11c)][_0x4bf9b8(0x149)](_0x4bf9b8(0x1c7),_0x4bf9b8(0x1ea),_0x4bf9b8(0x1a0)),_0x5d0130[_0x4bf9b8(0x1eb)]=_0x4bf9b8(0x244)+(_0x1e47b9?_0x4bf9b8(0x173):_0x305b52+_0x4bf9b8(0x1cc))+_0x4bf9b8(0x1a4);});}_0x48b72e();}}function _0x1ebad9(_0x1500b1){var _0x5668a1=_0x275708;if(!_0x1500b1||Object[_0x5668a1(0x294)](_0x1500b1)[_0x5668a1(0x16a)]===0x0)return;document[_0x5668a1(0x229)](_0x5668a1(0x16e))[_0x5668a1(0x24e)](function(_0x6adca6){var _0x3a587a=_0x5668a1,_0x3bb722=_0x6adca6[_0x3a587a(0xea)]('.title,\x20h2,\x20h3,\x20h4,\x20.post-title,\x20.product-title');if(!_0x3bb722){var _0x2aaa9d=_0x6adca6[_0x3a587a(0x229)]('a');for(var _0x2bd42b=0x0;_0x2bd42b<_0x2aaa9d[_0x3a587a(0x16a)];_0x2bd42b++){if(_0x2aaa9d[_0x2bd42b][_0x3a587a(0x170)][_0x3a587a(0xc1)]()[_0x3a587a(0x16a)]>0x3){_0x3bb722=_0x2aaa9d[_0x2bd42b];break;}}}if(_0x3bb722){var _0x37240c=_0x3bb722[_0x3a587a(0x170)]||'',_0x30c021=_0x37240c[_0x3a587a(0x158)]()[_0x3a587a(0x248)](/[^\w\s]/g,'')[_0x3a587a(0x216)]('\x20')[0x0]['trim'](),_0x263f3e=_0x1500b1[_0x30c021]||_0x1500b1[_0x30c021[_0x3a587a(0x248)](/\s+/g,'')];if(_0x263f3e){var _0x129795=_0x6adca6[_0x3a587a(0x229)](_0x3a587a(0xe1));_0x129795['forEach'](function(_0x43ce83){var _0x4c83bb=_0x3a587a;if(_0x43ce83[_0x4c83bb(0xe6)](_0x4c83bb(0xd2))===_0x4c83bb(0x17b)&&!_0x43ce83[_0x4c83bb(0x170)][_0x4c83bb(0xf7)](_0x4c83bb(0x221)))return;var _0x5bafa3=_0x263f3e[_0x4c83bb(0x18d)],_0x1728ad=_0x263f3e[_0x4c83bb(0x231)],_0x28a5ff=_0x263f3e[_0x4c83bb(0x243)],_0x498348=_0x263f3e['diskon'],_0x44d91b=_0x37240c['toLowerCase']()[_0x4c83bb(0xf7)](_0x4c83bb(0x23a)),_0x30aa94=_0xc058cb(_0x30c021,'',_0x37240c);!_0x44d91b&&_0x30aa94[_0x4c83bb(0x17c)]>0x0&&(_0x5bafa3=_0x30aa94[_0x4c83bb(0x17c)],_0x28a5ff=_0x30aa94[_0x4c83bb(0x293)],_0x1728ad=_0x30aa94[_0x4c83bb(0x166)]>0x0?_0x30aa94[_0x4c83bb(0x293)]:0x0,_0x498348=_0x30aa94[_0x4c83bb(0x166)]);var _0x5149ec='';if(_0x1728ad>0x0&&_0x5bafa3>_0x1728ad){_0x5149ec=_0x4c83bb(0x178)+_0x44f83d(_0x5bafa3)+_0x4c83bb(0x174)+_0x301bb6+_0x4c83bb(0x1d2)+_0x44f83d(_0x1728ad)+'</b>';if(_0x498348>0x0)_0x5149ec+=_0x4c83bb(0x1f4)+_0x498348+_0x4c83bb(0xd4);}else _0x5149ec=_0x4c83bb(0xbc)+_0x301bb6+_0x4c83bb(0x1d2)+_0x44f83d(_0x28a5ff)+_0x4c83bb(0x237);_0x43ce83[_0x4c83bb(0x1eb)]=_0x5149ec,_0x43ce83[_0x4c83bb(0x1d3)](_0x4c83bb(0xd2),_0x4c83bb(0x17b));});}}});}function _0x88f56b(_0x4442e3){var _0xca9ab5=_0x275708;_0x1af8bd=_0x4442e3;var _0x3d95c6=_0x4442e3['id'],_0x1585bd=_0xe5a9ec(_0x3d95c6);Object[_0xca9ab5(0x294)](_0x1585bd)[_0xca9ab5(0x16a)]>0x0?_0x1af8bd['variants']=_0x1585bd:_0x1af8bd[_0xca9ab5(0x24a)]=_0x4442e3[_0xca9ab5(0x24a)]||{};var _0x44fec8=document['querySelector']('h1.post-title,\x20h1.product-title,\x20.post-title\x20h1,\x20.product-title\x20h1,\x20h1[itemprop=\x22name\x22],\x20h1'),_0x509f14=_0x44fec8?_0x44fec8[_0xca9ab5(0x170)]['trim']():document['title'],_0xfe8b76=_0xc058cb(_0x4442e3['id'],'',_0x509f14);_0xfe8b76['normal']>0x0&&(_0x1af8bd[_0xca9ab5(0x18d)]=_0xfe8b76[_0xca9ab5(0x17c)],_0x1af8bd[_0xca9ab5(0x243)]=_0xfe8b76[_0xca9ab5(0x293)],_0x1af8bd['hargaDiskon']=_0xfe8b76[_0xca9ab5(0x166)]>0x0?_0xfe8b76[_0xca9ab5(0x293)]:0x0,_0x1af8bd[_0xca9ab5(0x258)]=_0xfe8b76[_0xca9ab5(0x166)]);var _0x1a1c41=document[_0xca9ab5(0xea)](_0xca9ab5(0x256));if(_0x1a1c41&&_0x4442e3[_0xca9ab5(0x171)]){var _0x451404=[];_0x1a1c41[_0xca9ab5(0x229)](_0xca9ab5(0x234))[_0xca9ab5(0x24e)](function(_0x5dde3e){var _0x188ad1=_0xca9ab5;(_0x5dde3e[_0x188ad1(0x167)][_0x188ad1(0x102)](_0x188ad1(0x1ac))||_0x5dde3e[_0x188ad1(0xea)](_0x188ad1(0x12e)))&&_0x451404['push'](_0x5dde3e[_0x188ad1(0x238)](!![]));}),_0x1a1c41['innerHTML']=_0x4442e3[_0xca9ab5(0x171)][_0xca9ab5(0x248)](/\n/g,'<br>')[_0xca9ab5(0x248)](/\. /g,_0xca9ab5(0x23c)),_0x451404[_0xca9ab5(0x24e)](function(_0x2add79){var _0x537c28=_0xca9ab5;_0x1a1c41[_0x537c28(0x2a1)](_0x2add79);});}var _0x5320e7=document[_0xca9ab5(0xea)](_0xca9ab5(0xf5));if(_0x5320e7){var _0x3c9c02='';if(_0x4442e3[_0xca9ab5(0x231)]>0x0&&_0x4442e3['hargaNormal']>_0x4442e3[_0xca9ab5(0x231)]){_0x3c9c02='<s\x20style=\x22opacity:0.6;\x20font-size:0.9em;\x20margin-right:10px;\x22>'+_0x44f83d(_0x4442e3['hargaNormal'])+_0xca9ab5(0x174)+_0x301bb6+_0xca9ab5(0x1d2)+_0x44f83d(_0x4442e3[_0xca9ab5(0x231)])+_0xca9ab5(0x237);if(_0x4442e3[_0xca9ab5(0x258)]>0x0)_0x3c9c02+=_0xca9ab5(0x22b)+_0x4442e3[_0xca9ab5(0x258)]+_0xca9ab5(0xd4);_0x5320e7[_0xca9ab5(0x1eb)]=_0x3c9c02,_0x5320e7[_0xca9ab5(0x1d3)](_0xca9ab5(0x116),_0x4442e3[_0xca9ab5(0x231)]),_0x5320e7[_0xca9ab5(0x1d3)]('data-harga-normal',_0x4442e3['hargaNormal']);}else _0x5320e7[_0xca9ab5(0x1eb)]=_0xca9ab5(0xbc)+_0x301bb6+_0xca9ab5(0x1d2)+_0x44f83d(_0x4442e3[_0xca9ab5(0x243)])+_0xca9ab5(0x237),_0x5320e7[_0xca9ab5(0x1d3)](_0xca9ab5(0x116),_0x4442e3[_0xca9ab5(0x243)]),_0x5320e7[_0xca9ab5(0x1d3)](_0xca9ab5(0x29d),_0x4442e3[_0xca9ab5(0x18d)]);}setTimeout(function(){_0x36115c();},0x12c);}function _0x13f0a4(){var _0x31c50b='<div\x20class=\x22volla-modal-content\x22><div\x20style=\x22background:#fff;\x20padding:14px\x2016px;\x20display:flex;\x20align-items:center;\x20gap:12px;\x20box-shadow:0\x201px\x202px\x20rgba(0,0,0,0.05);\x20z-index:10;\x22><button\x20id=\x22close-cart-modal\x22\x20style=\x22border:none;\x20background:none;\x20font-size:24px;\x20cursor:pointer;\x20padding:0;\x20color:#333;\x22>&#8592;</button><div\x20style=\x22font-weight:600;\x20font-size:16px;\x20flex:1;\x20color:#333;\x22>Halaman\x20Checkout\x20<span\x20id=\x22cart-item-count-mobile\x22\x20style=\x22color:#888;\x20font-weight:normal;\x20font-size:14px;\x22></span></div><button\x20id=\x22close-cart-modal-x\x22\x20style=\x22border:none;\x20background:none;\x20font-size:20px;\x20font-weight:bold;\x20cursor:pointer;\x20color:#999;\x20padding:0;\x22>✕</button></div><div\x20class=\x22volla-scroll-area\x22><div\x20class=\x22volla-card\x22><div\x20class=\x22volla-card-title\x22><span\x20style=\x22color:#ee4d2d;\x20font-size:16px;\x22>📍</span>\x20Alamat\x20Pengiriman</div><input\x20type=\x22text\x22\x20id=\x22form-nama\x22\x20class=\x22volla-input-modern\x22\x20placeholder=\x22Nama\x20Lengkap\x20Penerima\x22\x20value=\x22\x22><input\x20type=\x22tel\x22\x20id=\x22form-hp\x22\x20class=\x22volla-input-modern\x22\x20placeholder=\x22No.\x20Telepon\x20/\x20WhatsApp\x22\x20value=\x22\x22><textarea\x20id=\x22form-alamat\x22\x20class=\x22volla-input-modern\x22\x20placeholder=\x22Detail\x20Alamat\x20(Nama\x20Jalan,\x20No.\x20Rumah,\x20RT/RW)\x22\x20rows=\x222\x22\x20style=\x22resize:vertical;\x22></textarea><div\x20style=\x22position:relative;\x20margin-top:4px;\x22><input\x20type=\x22text\x22\x20id=\x22ship-search\x22\x20class=\x22volla-input-modern\x22\x20placeholder=\x22Kelurahan\x20(contoh:\x20Kemayoran)\x22\x20autocomplete=\x22off\x22><div\x20id=\x22ship-results\x22\x20style=\x22position:absolute;\x20top:100%;\x20left:0;\x20width:100%;\x20background:#fff;\x20border:1px\x20solid\x20#ddd;\x20border-radius:0\x200\x208px\x208px;\x20max-height:160px;\x20overflow-y:auto;\x20z-index:99;\x20display:none;\x20box-shadow:0\x204px\x206px\x20rgba(0,0,0,0.1);\x22></div></div><div\x20id=\x22ship-loader\x22\x20class=\x22ship-loading\x22>Mencari\x20lokasi...</div><div\x20id=\x22ship-info-box\x22\x20style=\x22margin-top:12px;\x20display:none;\x20padding:10px;\x20background:#fff5f5;\x20border:1px\x20solid\x20#fadbd8;\x20border-radius:8px;\x20font-size:12px;\x20color:#e74c3c;\x22></div></div><div\x20class=\x22volla-card\x22><div\x20class=\x22volla-card-title\x22><span\x20style=\x22color:#ee4d2d;\x20font-size:16px;\x22>📦</span>\x20Detail\x20Produk</div><div\x20id=\x22cart-items-section\x22></div></div><div\x20class=\x22volla-card\x22><div\x20class=\x22volla-card-title\x22><span\x20style=\x22color:#ee4d2d;\x20font-size:16px;\x22>🎟️</span>\x20Voucher\x20/\x20Promo</div><div\x20id=\x22voucher-chip-list\x22\x20style=\x22display:flex;\x20gap:8px;\x20overflow-x:auto;\x20padding-bottom:8px;\x20margin-bottom:8px;\x22></div><div\x20style=\x22display:flex;\x20gap:8px;\x20align-items:center;\x22><input\x20type=\x22text\x22\x20id=\x22voucher-input\x22\x20class=\x22volla-input-modern\x22\x20placeholder=\x22Masukkan\x20Kode\x20Voucher\x22\x20style=\x22flex:1;\x20padding:8px\x200;\x22><button\x20id=\x22apply-voucher-btn\x22\x20style=\x22background:#f5f5f5;\x20border:1px\x20solid\x20#ddd;\x20padding:8px\x2016px;\x20border-radius:6px;\x20font-weight:600;\x20cursor:pointer;\x20color:#333;\x20height:fit-content;\x22>Pakai</button></div><div\x20id=\x22voucher-message\x22\x20style=\x22font-size:12px;\x20margin-top:6px;\x22></div><div\x20id=\x22active-voucher-info\x22\x20style=\x22display:none;\x20margin-top:12px;\x20padding:10px;\x20background:#e8edf5;\x20border-radius:8px;\x20border-left:4px\x20solid\x20#1a2b4c;\x22><div\x20style=\x22display:flex;\x20justify-content:space-between;\x20align-items:center;\x22><div><span\x20style=\x22font-weight:600;\x20color:#1a2b4c;\x22\x20id=\x22active-voucher-code\x22></span><div\x20id=\x22active-voucher-desc\x22\x20style=\x22color:#666;\x20font-size:12px;\x20margin-top:2px;\x22></div></div><button\x20onclick=\x22window.removeVoucher()\x22\x20style=\x22background:none;\x20border:none;\x20color:#e74c3c;\x20font-size:12px;\x20font-weight:bold;\x20cursor:pointer;\x22>Hapus</button></div></div></div><div\x20class=\x22volla-card\x22><div\x20class=\x22volla-card-title\x22><span\x20style=\x22color:#ee4d2d;\x20font-size:16px;\x22>🧾</span>\x20Rincian\x20Pembayaran</div><div\x20style=\x22display:flex;\x20justify-content:space-between;\x20margin-bottom:8px;\x20font-size:13px;\x20color:#555;\x22><span>Subtotal\x20Produk</span><span\x20id=\x22cart-total-normal\x22>Rp0</span></div><div\x20style=\x22display:flex;\x20justify-content:space-between;\x20margin-bottom:8px;\x20font-size:13px;\x20color:#555;\x22><span>Diskon\x20Produk</span><span\x20id=\x22cart-total-diskon\x22\x20style=\x22color:#ee4d2d;\x22>-Rp0</span></div><div\x20id=\x22voucher-discount-row\x22\x20style=\x22display:none;\x20justify-content:space-between;\x20margin-bottom:8px;\x20font-size:13px;\x20color:#555;\x22><span>Diskon\x20Voucher</span><span\x20id=\x22voucher-discount-amount\x22\x20style=\x22color:#ee4d2d;\x22>-Rp0</span></div><div\x20style=\x22display:flex;\x20justify-content:space-between;\x20margin-bottom:8px;\x20font-size:13px;\x20color:#555;\x22><span\x20id=\x22shipping-name-display\x22>Ongkos\x20Kirim</span><span\x20id=\x22shipping-cost\x22>Rp0</span></div><div\x20style=\x22display:flex;\x20justify-content:space-between;\x20margin-bottom:8px;\x20font-size:13px;\x20color:#555;\x22><span>Kode\x20Unik</span><span\x20id=\x22kode-unik-amount\x22\x20style=\x22color:#27ae60;\x22>Rp0</span></div></div></div><div\x20class=\x22volla-sticky-bottom\x22><div\x20style=\x22display:flex;\x20align-items:center;\x20gap:8px;\x22><label\x20style=\x22display:flex;\x20align-items:center;\x20gap:6px;\x20cursor:pointer;\x20margin:0;\x22><input\x20type=\x22checkbox\x22\x20id=\x22select-all-cart\x22\x20style=\x22accent-color:#1a2b4c;\x20width:18px;\x20height:18px;\x20cursor:pointer;\x22>\x20<span\x20style=\x22font-size:13px;\x20color:#555;\x20font-weight:500;\x22>Semua</span></label><button\x20id=\x22delete-selected-btn\x22\x20style=\x22color:#ee4d2d;\x20background:none;\x20border:none;\x20font-size:13px;\x20font-weight:600;\x20cursor:pointer;\x20padding:4px;\x22>Hapus</button></div><div\x20style=\x22display:flex;\x20align-items:center;\x20gap:12px;\x22><div\x20style=\x22text-align:right;\x22><div\x20style=\x22font-size:11px;\x20color:#666;\x22>Total\x20Pembayaran</div><div\x20id=\x22cart-total\x22\x20style=\x22font-size:16px;\x20font-weight:700;\x20color:#1a2b4c;\x22>Rp0</div></div><button\x20id=\x22checkout-btn\x22\x20style=\x22background:#1a2b4c;\x20color:#fff;\x20border:none;\x20border-radius:6px;\x20padding:10px\x206px;\x20font-weight:600;\x20font-size:13px;\x20cursor:pointer;\x20box-shadow:0\x202px\x206px\x20rgba(238,77,45,0.3);\x22>Checkout\x20(<span\x20id=\x22selected-count\x22>0</span>)</button></div></div><div\x20id=\x22empty-cart-state\x22\x20style=\x22display:none;\x20flex:1;\x20flex-direction:column;\x20align-items:center;\x20justify-content:center;\x20background:#fff;\x20text-align:center;\x22><div\x20style=\x22font-size:64px;\x20margin-bottom:16px;\x20opacity:0.8;\x22>🛒</div><h3\x20style=\x22color:#333;\x20margin-bottom:8px;\x20font-size:18px;\x22>Keranjang\x20Kosong</h3><p\x20style=\x22color:#888;\x20font-size:14px;\x20margin-bottom:24px;\x22>Pilih\x20produk\x20cantikmu\x20dulu\x20yuk!</p><button\x20id=\x22start-shopping-btn\x22\x20style=\x22background:#1a2b4c;\x20color:#fff;\x20border:none;\x20border-radius:24px;\x20padding:12px\x2032px;\x20font-weight:600;\x20font-size:14px;\x20cursor:pointer;\x20box-shadow:0\x204px\x2010px\x20rgba(26,43,76,0.2);\x22>Mulai\x20Belanja</button></div></div>';return _0x31c50b;}function _0xf636b6(){var _0x26e3b7=_0x275708;if(_0xbe9713)return;_0xbe9713=!![];var _0x52cf01=document[_0x26e3b7(0x272)](_0x26e3b7(0x273));_0x52cf01['id']=_0x26e3b7(0x11f),_0x52cf01['style'][_0x26e3b7(0x27f)]='position:fixed;\x20bottom:20px;\x20right:20px;\x20width:56px;\x20height:56px;\x20background:transparent;\x20z-index:9999;\x20display:flex;\x20align-items:center;\x20justify-content:center;\x20cursor:pointer;\x20transition:transform\x200.2s\x20ease;',_0x52cf01[_0x26e3b7(0x1eb)]='<span\x20style=\x22position:absolute;\x20top:2px;\x20right:0px;\x20background:#ee4d2d;\x20color:white;\x20border-radius:50%;\x20min-width:18px;\x20height:18px;\x20display:flex;\x20align-items:center;\x20justify-content:center;\x20font-size:10px;\x20font-weight:700;\x20border:1px\x20solid\x20#fff;\x22\x20id=\x22custom-cart-count\x22>0</span><svg\x20width=\x2224\x22\x20height=\x2224\x22\x20viewBox=\x220\x200\x2024\x2024\x22\x20fill=\x22'+_0x301bb6+_0x26e3b7(0x14e),document[_0x26e3b7(0x127)][_0x26e3b7(0x2a1)](_0x52cf01);var _0x57ad0c=0x0,_0x50df94=setInterval(function(){var _0x3725f9=_0x26e3b7;_0x57ad0c++;var _0x41594e=document[_0x3725f9(0xea)]('.cart-button,\x20#cart-btn,\x20.cart-btn-head,\x20.cart-icon,\x20.header-cart'),_0x470847=document[_0x3725f9(0xea)](_0x3725f9(0x114)),_0x1d33b1=document[_0x3725f9(0xea)]('.header-right,\x20.header-action,\x20.top-right'),_0x27e7d8=_0x41594e||_0x470847;if(_0x27e7d8&&_0x27e7d8[_0x3725f9(0x1f5)]){_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x1c2)]=_0x3725f9(0x1b1),_0x52cf01['style'][_0x3725f9(0x12f)]=_0x3725f9(0x1ba),_0x52cf01['style'][_0x3725f9(0x29b)]='auto',_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x1bd)]=_0x3725f9(0x160),_0x52cf01['style'][_0x3725f9(0x1df)]=_0x3725f9(0x160),_0x52cf01['style']['margin']=_0x3725f9(0x1b0),_0x52cf01['style'][_0x3725f9(0x130)]=_0x3725f9(0x1ae),_0x52cf01['style']['flexShrink']='0',_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x145)]='inline-flex',_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x20a)]=_0x3725f9(0x186);var _0x47ef4c=_0x52cf01[_0x3725f9(0xea)](_0x3725f9(0xc5));_0x47ef4c&&(_0x47ef4c[_0x3725f9(0x1d3)]('width','24'),_0x47ef4c[_0x3725f9(0x1d3)]('height','24'));var _0x502901=document['getElementById']('custom-cart-count');_0x502901&&(_0x502901[_0x3725f9(0x11c)][_0x3725f9(0xed)]='16px',_0x502901[_0x3725f9(0x11c)]['height']=_0x3725f9(0x161),_0x502901[_0x3725f9(0x11c)][_0x3725f9(0x168)]='9px',_0x502901[_0x3725f9(0x11c)]['top']=_0x3725f9(0xcf),_0x502901[_0x3725f9(0x11c)][_0x3725f9(0x29b)]='0px'),_0x27e7d8[_0x3725f9(0x1f5)][_0x3725f9(0x101)](_0x52cf01,_0x27e7d8[_0x3725f9(0x1c4)]),clearInterval(_0x50df94);}else{if(_0x1d33b1){_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x1c2)]=_0x3725f9(0x1b1),_0x52cf01[_0x3725f9(0x11c)]['bottom']='auto',_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x29b)]=_0x3725f9(0x1ba),_0x52cf01['style'][_0x3725f9(0x1bd)]=_0x3725f9(0x160),_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x1df)]='38px',_0x52cf01['style']['margin']=_0x3725f9(0x1b0),_0x52cf01[_0x3725f9(0x11c)]['boxShadow']='none',_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x23e)]='0',_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x145)]=_0x3725f9(0x254),_0x52cf01[_0x3725f9(0x11c)][_0x3725f9(0x20a)]=_0x3725f9(0x186);var _0x47ef4c=_0x52cf01[_0x3725f9(0xea)](_0x3725f9(0xc5));_0x47ef4c&&(_0x47ef4c['setAttribute'](_0x3725f9(0x1bd),'24'),_0x47ef4c['setAttribute']('height','24'));var _0x502901=document['getElementById'](_0x3725f9(0x18a));_0x502901&&(_0x502901[_0x3725f9(0x11c)]['minWidth']=_0x3725f9(0x161),_0x502901[_0x3725f9(0x11c)][_0x3725f9(0x1df)]=_0x3725f9(0x161),_0x502901[_0x3725f9(0x11c)][_0x3725f9(0x168)]='9px',_0x502901['style']['top']='2px',_0x502901[_0x3725f9(0x11c)][_0x3725f9(0x29b)]='0px'),_0x1d33b1['appendChild'](_0x52cf01),clearInterval(_0x50df94);}}if(_0x57ad0c>0xf)clearInterval(_0x50df94);},0x190),_0x500d98=window[_0x26e3b7(0x1ad)]<=0x300,_0x397474=document[_0x26e3b7(0x272)]('div');_0x397474['id']=_0x26e3b7(0x1f9),_0x397474[_0x26e3b7(0x11c)][_0x26e3b7(0x27f)]=_0x26e3b7(0x1af);var _0x118f82=document[_0x26e3b7(0x272)](_0x26e3b7(0x273));_0x118f82['style'][_0x26e3b7(0x27f)]=_0x500d98?_0x26e3b7(0xc0):_0x26e3b7(0xd6),_0x118f82[_0x26e3b7(0x1eb)]=_0x13f0a4(),_0x397474[_0x26e3b7(0x2a1)](_0x118f82),document[_0x26e3b7(0x127)][_0x26e3b7(0x2a1)](_0x397474);function _0x6b875f(){var _0x2b434d=_0x26e3b7;_0x397474['style'][_0x2b434d(0x145)]=_0x2b434d(0x100),document['body'][_0x2b434d(0x11c)][_0x2b434d(0x23f)]='hidden',document[_0x2b434d(0x1f8)]['style']['overflow']=_0x2b434d(0x1d8);var _0x3e5a85=JSON[_0x2b434d(0xfc)](localStorage['getItem'](_0x9e6794)||_0x2b434d(0x2a2));_0x13e9d0(_0x3e5a85),_0xf34feb(_0x3e5a85),_0x3e5a85['items'][_0x2b434d(0x16a)]>0x0&&(document[_0x2b434d(0x21b)](_0x2b434d(0x19b))[_0x2b434d(0x21a)]=_0x18b5a6['nama'],document['getElementById'](_0x2b434d(0x1e2))[_0x2b434d(0x21a)]=_0x18b5a6[_0x2b434d(0x22a)],document['getElementById'](_0x2b434d(0x274))[_0x2b434d(0x21a)]=_0x18b5a6['hp'],_0x3e99c6());}function _0x5521df(){var _0x126d57=_0x26e3b7,_0x13a7cb=document[_0x126d57(0x21b)](_0x126d57(0x19b));if(_0x13a7cb)_0x18b5a6[_0x126d57(0x1cd)]=_0x13a7cb['value'];var _0x3e0b17=document[_0x126d57(0x21b)](_0x126d57(0x1e2));if(_0x3e0b17)_0x18b5a6[_0x126d57(0x22a)]=_0x3e0b17['value'];var _0x1d8d84=document[_0x126d57(0x21b)](_0x126d57(0x274));if(_0x1d8d84)_0x18b5a6['hp']=_0x1d8d84[_0x126d57(0x21a)];_0x397474[_0x126d57(0x11c)][_0x126d57(0x145)]=_0x126d57(0x1ae),document[_0x126d57(0x127)][_0x126d57(0x11c)]['overflow']='',document[_0x126d57(0x1f8)][_0x126d57(0x11c)]['overflow']='';}_0x397474[_0x26e3b7(0x1d6)](_0x26e3b7(0x11a),function(_0x5539a5){var _0x7223f2=_0x26e3b7;if(_0x5539a5[_0x7223f2(0x17f)]===_0x397474)_0x5521df();}),_0x52cf01[_0x26e3b7(0x1d6)]('click',_0x6b875f);var _0x2644a6=document[_0x26e3b7(0x21b)](_0x26e3b7(0x194));if(_0x2644a6)_0x2644a6[_0x26e3b7(0x1d6)](_0x26e3b7(0x11a),_0x5521df);var _0x39999d=document['getElementById'](_0x26e3b7(0x205));if(_0x39999d)_0x39999d[_0x26e3b7(0x1d6)]('click',_0x5521df);var _0x2cbda9=document[_0x26e3b7(0x21b)](_0x26e3b7(0x28a));if(_0x2cbda9)_0x2cbda9[_0x26e3b7(0x1d6)]('click',_0x5521df);document[_0x26e3b7(0x21b)](_0x26e3b7(0xd3))[_0x26e3b7(0x1d6)](_0x26e3b7(0x260),function(_0x109f34){var _0x335ff3=_0x26e3b7,_0xac7040=_0x109f34[_0x335ff3(0x17f)][_0x335ff3(0x21a)],_0x4fd7d5=document[_0x335ff3(0x21b)](_0x335ff3(0x223));if(_0xac7040[_0x335ff3(0x16a)]<0x3){_0x4fd7d5[_0x335ff3(0x11c)][_0x335ff3(0x145)]=_0x335ff3(0x1ae);return;}clearTimeout(window[_0x335ff3(0x147)]),window['searchTimeout']=setTimeout(function(){var _0x3044ab=_0x335ff3;document[_0x3044ab(0x21b)](_0x3044ab(0x207))['innerText']='Mencari\x20lokasi...',document[_0x3044ab(0x21b)](_0x3044ab(0x207))[_0x3044ab(0x11c)][_0x3044ab(0x145)]=_0x3044ab(0xd7),fetch(_0x20d3b8+'?action=search&keyword='+encodeURIComponent(_0xac7040))['then'](function(_0xfeee1d){return _0xfeee1d['json']();})[_0x3044ab(0xcb)](function(_0x278275){var _0x68b579=_0x3044ab;document[_0x68b579(0x21b)](_0x68b579(0x207))[_0x68b579(0x11c)]['display']=_0x68b579(0x1ae);if(_0x278275['data']&&_0x278275[_0x68b579(0x18b)][_0x68b579(0x16a)]>0x0){var _0x1cd8f4='';_0x278275['data']['forEach'](function(_0x35fffa){var _0x3dcea6=_0x68b579;_0x1cd8f4+='<div\x20class=\x22loc-item\x22\x20onclick=\x22window.selectLocation(\x27'+_0x35fffa['id']+_0x3dcea6(0x139)+_0x35fffa['label']['replace'](/'/g,'\x5c\x27')+_0x3dcea6(0x1e3)+_0x35fffa['label']+_0x3dcea6(0x1a4);}),_0x4fd7d5['innerHTML']=_0x1cd8f4,_0x4fd7d5['style'][_0x68b579(0x145)]=_0x68b579(0xd7);}else _0x4fd7d5[_0x68b579(0x1eb)]=_0x68b579(0x1f0),_0x4fd7d5[_0x68b579(0x11c)][_0x68b579(0x145)]=_0x68b579(0xd7);})[_0x3044ab(0x148)](function(){var _0x92662=_0x3044ab;document[_0x92662(0x21b)]('ship-loader')['style'][_0x92662(0x145)]='none';});},0x320);}),window[_0x26e3b7(0x29c)]=function(_0x560084,_0x2b957e){var _0x302f83=_0x26e3b7;document[_0x302f83(0x21b)](_0x302f83(0xd3))[_0x302f83(0x21a)]=_0x2b957e,document[_0x302f83(0x21b)](_0x302f83(0x223))[_0x302f83(0x11c)][_0x302f83(0x145)]=_0x302f83(0x1ae),document[_0x302f83(0x21b)]('ship-loader')[_0x302f83(0x170)]=_0x302f83(0xee),document[_0x302f83(0x21b)]('ship-loader')['style']['display']=_0x302f83(0xd7),document[_0x302f83(0x21b)](_0x302f83(0x118))[_0x302f83(0x11c)][_0x302f83(0x145)]='none',_0x35df29['locationLabel']=_0x2b957e,fetch(_0x20d3b8+'?action=cost&destination='+_0x560084)[_0x302f83(0xcb)](function(_0x3e915b){var _0x2409da=_0x302f83;return _0x3e915b[_0x2409da(0xe3)]();})[_0x302f83(0xcb)](function(_0x3ac702){var _0x307ef6=_0x302f83;document[_0x307ef6(0x21b)]('ship-loader')[_0x307ef6(0x11c)]['display']=_0x307ef6(0x1ae);if(_0x3ac702['data']&&_0x3ac702['data'][_0x307ef6(0x16a)]>0x0){var _0x323123=_0x3ac702[_0x307ef6(0x18b)][_0x307ef6(0x110)](function(_0x1b9fa5){var _0xc0b243=_0x307ef6;return _0x1b9fa5[_0xc0b243(0x15e)]['toUpperCase']()[_0xc0b243(0xf7)]('REG')||_0x1b9fa5[_0xc0b243(0x15e)]['toUpperCase']()['includes']('EZ');});if(!_0x323123)_0x323123=_0x3ac702[_0x307ef6(0x18b)][0x0];_0x35df29['cost']=_0x323123[_0x307ef6(0x1be)],_0x35df29[_0x307ef6(0x1c5)]=!![],document[_0x307ef6(0x21b)](_0x307ef6(0x118))[_0x307ef6(0x1eb)]=_0x307ef6(0xf8)+_0x323123['service']+':\x20'+_0x44f83d(_0x323123[_0x307ef6(0x1be)])+_0x307ef6(0xd1)+_0x323123[_0x307ef6(0x24f)]+_0x307ef6(0x109),document[_0x307ef6(0x21b)](_0x307ef6(0x118))[_0x307ef6(0x11c)]['display']='block';var _0x4a4fe6=JSON['parse'](localStorage[_0x307ef6(0x169)](_0x9e6794)||_0x307ef6(0x2a2));_0xdeb51f(_0x4a4fe6);}else alert(_0x307ef6(0x27c));})[_0x302f83(0x148)](function(){var _0x3c93c7=_0x302f83;document[_0x3c93c7(0x21b)](_0x3c93c7(0x207))[_0x3c93c7(0x11c)][_0x3c93c7(0x145)]=_0x3c93c7(0x1ae),alert('Gagal\x20menghitung\x20ongkir.');});},document[_0x26e3b7(0x1d6)](_0x26e3b7(0x11a),function(_0x2f0ebc){var _0x15ede3=_0x26e3b7,_0x2645ec=document[_0x15ede3(0x21b)](_0x15ede3(0x223));_0x2645ec&&_0x2f0ebc[_0x15ede3(0x17f)]['id']!==_0x15ede3(0xd3)&&!_0x2645ec[_0x15ede3(0x102)](_0x2f0ebc[_0x15ede3(0x17f)])&&(_0x2645ec[_0x15ede3(0x11c)][_0x15ede3(0x145)]=_0x15ede3(0x1ae));});function _0x13e9d0(_0x3f40f7){var _0x1cf5cc=_0x26e3b7,_0x4528ac=document[_0x1cf5cc(0xea)]('.volla-scroll-area'),_0x1c4b5c=document[_0x1cf5cc(0xea)](_0x1cf5cc(0x22d)),_0x2fee8f=document[_0x1cf5cc(0x21b)](_0x1cf5cc(0x12b));if(_0x3f40f7&&_0x3f40f7[_0x1cf5cc(0x219)]&&_0x3f40f7[_0x1cf5cc(0x219)][_0x1cf5cc(0x16a)]===0x0){if(_0x4528ac)_0x4528ac[_0x1cf5cc(0x11c)]['setProperty'](_0x1cf5cc(0x145),'none',_0x1cf5cc(0x1a0));if(_0x1c4b5c)_0x1c4b5c[_0x1cf5cc(0x11c)][_0x1cf5cc(0x149)](_0x1cf5cc(0x145),_0x1cf5cc(0x1ae),'important');if(_0x2fee8f)_0x2fee8f[_0x1cf5cc(0x11c)][_0x1cf5cc(0x149)](_0x1cf5cc(0x145),_0x1cf5cc(0x100),_0x1cf5cc(0x1a0));}else{if(_0x4528ac)_0x4528ac[_0x1cf5cc(0x11c)][_0x1cf5cc(0x149)](_0x1cf5cc(0x145),_0x1cf5cc(0xd7),_0x1cf5cc(0x1a0));if(_0x1c4b5c)_0x1c4b5c[_0x1cf5cc(0x11c)][_0x1cf5cc(0x149)]('display',_0x1cf5cc(0x100),'important');if(_0x2fee8f)_0x2fee8f[_0x1cf5cc(0x11c)][_0x1cf5cc(0x149)](_0x1cf5cc(0x145),'none','important');}}function _0x3e99c6(){var _0x3d0a8c=_0x26e3b7,_0x381ff9=JSON[_0x3d0a8c(0xfc)](localStorage[_0x3d0a8c(0x169)](_0x9e6794)||_0x3d0a8c(0x2a2));_0x13e9d0(_0x381ff9),_0xf34feb(_0x381ff9);if(_0x381ff9[_0x3d0a8c(0x219)][_0x3d0a8c(0x16a)]===0x0)return;var _0x4c111c=document[_0x3d0a8c(0x21b)]('cart-items-section');_0x381ff9['items'][_0x3d0a8c(0x24e)](function(_0x18d454){if(_0x4610d0[_0x18d454['id']]===undefined)_0x4610d0[_0x18d454['id']]=!![];});var _0x467d56='';for(var _0xaaea53=0x0;_0xaaea53<_0x381ff9['items']['length'];_0xaaea53++){var _0x5b4901=_0x381ff9[_0x3d0a8c(0x219)][_0xaaea53];_0x5b4901[_0x3d0a8c(0x135)]=parseInt(_0x5b4901['price'])||0x0,_0x5b4901[_0x3d0a8c(0x242)]=parseInt(_0x5b4901[_0x3d0a8c(0x242)])||0x1;var _0x42788d=_0x5b4901['hargaNormal']||_0x5b4901[_0x3d0a8c(0x135)],_0x50bcc7=_0x42788d>_0x5b4901['price'],_0x4b1ad1=_0x5b4901[_0x3d0a8c(0x1ac)]||_0x3d0a8c(0x1e5),_0x194852=_0x4610d0[_0x5b4901['id']]?_0x3d0a8c(0xd0):'',_0x1563b3=_0x5b4901['variant'];_0x1563b3&&!_0x1563b3[_0x3d0a8c(0xf7)](_0x3d0a8c(0x180))&&(_0x1563b3=_0x3d0a8c(0x233)+_0x1563b3);var _0x508d33=_0x5b4901[_0x3d0a8c(0x25a)]?_0x3d0a8c(0x26d)+_0x1563b3+_0x3d0a8c(0x1a4):'',_0x389403=_0x5b4901['link']||_0x3d0a8c(0x252);_0x467d56+=_0x3d0a8c(0x103)+_0x5b4901['id']+'\x22\x20'+_0x194852+_0x3d0a8c(0x1a8)+_0x389403+'\x22\x20style=\x22display:block;\x22><img\x20src=\x22'+_0x4b1ad1+_0x3d0a8c(0xe9)+_0x389403+_0x3d0a8c(0x146)+_0x5b4901['name']+_0x3d0a8c(0x120)+_0x508d33+'</div><div\x20style=\x22display:flex;\x20justify-content:space-between;\x20align-items:flex-end;\x22><div>',_0x50bcc7?_0x467d56+=_0x3d0a8c(0x28e)+_0x44f83d(_0x42788d)+_0x3d0a8c(0x21c)+_0x44f83d(_0x5b4901[_0x3d0a8c(0x135)])+_0x3d0a8c(0x1a4):_0x467d56+='<div\x20style=\x22font-size:14px;\x20font-weight:700;\x20color:#ee4d2d;\x22>'+_0x44f83d(_0x5b4901[_0x3d0a8c(0x135)])+'</div>',_0x467d56+=_0x3d0a8c(0x279)+_0x5b4901['id']+_0x3d0a8c(0x236)+(_0x5b4901['qty']-0x1)+_0x3d0a8c(0x142)+_0x5b4901[_0x3d0a8c(0x242)]+_0x3d0a8c(0x27b)+_0x5b4901['id']+_0x3d0a8c(0x236)+(_0x5b4901[_0x3d0a8c(0x242)]+0x1)+_0x3d0a8c(0x163);}_0x4c111c[_0x3d0a8c(0x1eb)]=_0x467d56,_0x50c1d8(),_0xdeb51f(_0x381ff9);}document[_0x26e3b7(0x21b)](_0x26e3b7(0x1ff))[_0x26e3b7(0x1d6)](_0x26e3b7(0xc6),function(_0x3f3a07){var _0x3cbf25=_0x26e3b7;if(_0x3f3a07['target'][_0x3cbf25(0x167)][_0x3cbf25(0x102)](_0x3cbf25(0x137))){var _0x4d1243=JSON[_0x3cbf25(0xfc)](localStorage['getItem'](_0x9e6794)||'{\x22items\x22:[]}');_0x4610d0[_0x3f3a07[_0x3cbf25(0x17f)]['dataset']['id']]=_0x3f3a07[_0x3cbf25(0x17f)][_0x3cbf25(0xd0)],_0x50c1d8(),_0xdeb51f(_0x4d1243);}}),document['getElementById'](_0x26e3b7(0x26b))[_0x26e3b7(0x1d6)](_0x26e3b7(0xc6),function(){var _0x5c0e07=_0x26e3b7,_0xf397e8=this[_0x5c0e07(0xd0)],_0x4a142d=JSON['parse'](localStorage[_0x5c0e07(0x169)](_0x9e6794)||_0x5c0e07(0x2a2));document['querySelectorAll'](_0x5c0e07(0xf4))[_0x5c0e07(0x24e)](function(_0x9a9493){var _0x31b72c=_0x5c0e07;_0x9a9493[_0x31b72c(0xd0)]=_0xf397e8,_0x4610d0[_0x9a9493[_0x31b72c(0x1b7)]['id']]=_0xf397e8;}),_0x50c1d8(),_0xdeb51f(_0x4a142d);});function _0x50c1d8(){var _0x4a70e9=_0x26e3b7,_0x259a49=document[_0x4a70e9(0x229)]('.cart-item-checkbox'),_0x2890a7=document[_0x4a70e9(0x229)](_0x4a70e9(0x13b)),_0x3228eb=document[_0x4a70e9(0x21b)](_0x4a70e9(0x26b)),_0x556e31=document[_0x4a70e9(0x21b)](_0x4a70e9(0x28c));_0x3228eb&&_0x259a49[_0x4a70e9(0x16a)]>0x0&&(_0x3228eb['checked']=_0x259a49[_0x4a70e9(0x16a)]===_0x2890a7[_0x4a70e9(0x16a)],_0x3228eb[_0x4a70e9(0x1de)]=_0x2890a7[_0x4a70e9(0x16a)]>0x0&&_0x259a49[_0x4a70e9(0x16a)]!==_0x2890a7[_0x4a70e9(0x16a)]),_0x556e31&&(_0x556e31[_0x4a70e9(0x11c)][_0x4a70e9(0x145)]=_0x2890a7[_0x4a70e9(0x16a)]>0x0?_0x4a70e9(0xd7):_0x4a70e9(0x1ae));}function _0xdeb51f(_0x50072a){var _0x101b5a=_0x26e3b7,_0x491445=0x0,_0x5829d5=0x0,_0x2cd7e4=0x0,_0x33d3f5=0x0;for(var _0x3f07df=0x0;_0x3f07df<_0x50072a[_0x101b5a(0x219)][_0x101b5a(0x16a)];_0x3f07df++){var _0x16036c=_0x50072a['items'][_0x3f07df];_0x16036c[_0x101b5a(0x135)]=parseInt(_0x16036c[_0x101b5a(0x135)])||0x0,_0x16036c[_0x101b5a(0x242)]=parseInt(_0x16036c['qty'])||0x1;if(_0x4610d0[_0x16036c['id']]){_0x491445+=_0x16036c['price']*_0x16036c[_0x101b5a(0x242)];var _0x5aa3ee=parseInt(_0x16036c[_0x101b5a(0x18d)])||_0x16036c[_0x101b5a(0x135)];_0x5829d5+=_0x5aa3ee*_0x16036c[_0x101b5a(0x242)],_0x2cd7e4+=(_0x5aa3ee-_0x16036c['price'])*_0x16036c['qty'],_0x33d3f5++;}}var _0x1cc75c=0x0;_0xae6608&&(_0x1cc75c=_0x5b559a(_0x491445,_0xae6608),_0x1cc75c===-0x1&&(_0x1cc75c=0x0,_0xae6608=null));var _0x3f5e11=_0x491445-_0x1cc75c+_0x35df29[_0x101b5a(0x1be)];if(_0x3f5e11<0x0)_0x3f5e11=_0x35df29[_0x101b5a(0x1be)];var _0x374f14=0x0;_0x33d3f5>0x0&&(_0x374f14=_0xff54e7(),_0x3f5e11+=_0x374f14);document[_0x101b5a(0x21b)](_0x101b5a(0x11d))[_0x101b5a(0x170)]=_0x44f83d(_0x3f5e11),document[_0x101b5a(0x21b)](_0x101b5a(0x159))[_0x101b5a(0x170)]=_0x44f83d(_0x5829d5),document[_0x101b5a(0x21b)]('cart-total-diskon')[_0x101b5a(0x170)]='-\x20'+_0x44f83d(_0x2cd7e4),document[_0x101b5a(0x21b)](_0x101b5a(0x1d9))['innerText']=_0x44f83d(_0x35df29[_0x101b5a(0x1be)]),document[_0x101b5a(0x21b)](_0x101b5a(0x1a5))[_0x101b5a(0x170)]=_0x33d3f5;var _0x2f4ce=document[_0x101b5a(0x21b)]('kode-unik-amount');if(_0x2f4ce)_0x2f4ce['innerText']=_0x44f83d(_0x374f14);var _0x4610c1=document[_0x101b5a(0x21b)](_0x101b5a(0x14a));if(_0x4610c1)_0x4610c1['innerText']=_0x35df29[_0x101b5a(0x1be)]>0x0?_0x101b5a(0x165):'Ongkos\x20Kirim';var _0x1839e8=document[_0x101b5a(0x21b)]('voucher-discount-row'),_0x59543a=document[_0x101b5a(0x21b)](_0x101b5a(0xf1)),_0x2a3ea7=document[_0x101b5a(0x21b)](_0x101b5a(0x1b9));if(_0x1cc75c>0x0){_0x1839e8[_0x101b5a(0x11c)]['display']='flex',_0x59543a[_0x101b5a(0x170)]='-\x20'+_0x44f83d(_0x1cc75c),_0x2a3ea7['style']['display']=_0x101b5a(0xd7),document['getElementById'](_0x101b5a(0x1fa))[_0x101b5a(0x170)]=_0xae6608;var _0x22ccb0=String(_0xae6608)[_0x101b5a(0xbf)]();if(_0x56fde0[_0x22ccb0])document[_0x101b5a(0x21b)]('active-voucher-desc')['innerText']=_0x101b5a(0x269)+_0x56fde0[_0x22ccb0]+'%\x20(Member)';else{var _0x457f78=_0x5279f4[_0x22ccb0];if(_0x457f78){var _0x2255a9=_0x101b5a(0x269)+(_0x457f78['type']==='percent'?_0x457f78[_0x101b5a(0x21a)]+'%':_0x44f83d(_0x457f78[_0x101b5a(0x21a)]));if(_0x457f78[_0x101b5a(0x1bb)])_0x2255a9+=_0x101b5a(0x107)+_0x44f83d(_0x457f78['maxDiscount'])+')';document[_0x101b5a(0x21b)](_0x101b5a(0x13e))[_0x101b5a(0x170)]=_0x2255a9;}}}else _0x1839e8[_0x101b5a(0x11c)][_0x101b5a(0x145)]='none',_0x2a3ea7[_0x101b5a(0x11c)]['display']=_0x101b5a(0x1ae);}function _0xf34feb(_0x101d28){var _0x3c5fcd=_0x26e3b7,_0x5e9ab1=_0x101d28['items']['reduce'](function(_0x3ae9f6,_0x143068){var _0xf5abd1=_0x5de3;return _0x3ae9f6+(_0x143068[_0xf5abd1(0x242)]||0x1);},0x0),_0x2e2404=document[_0x3c5fcd(0x21b)](_0x3c5fcd(0x18a));if(_0x2e2404)_0x2e2404['innerText']=_0x5e9ab1;var _0x55a8bd=document['getElementById']('cart-item-count-mobile');if(_0x55a8bd)_0x55a8bd[_0x3c5fcd(0x170)]='('+_0x5e9ab1+')';}function _0x5b559a(_0x5dd005,_0x4a442a){var _0x2266cb=_0x26e3b7,_0x1a17a7=String(_0x4a442a)[_0x2266cb(0xbf)]();if(_0x56fde0[_0x1a17a7])return Math[_0x2266cb(0x156)](_0x5dd005*_0x56fde0[_0x1a17a7]/0x64);var _0x3b4830=_0x5279f4[_0x1a17a7];if(!_0x3b4830)return 0x0;if(_0x3b4830[_0x2266cb(0x20d)]&&_0x5dd005<_0x3b4830[_0x2266cb(0x20d)])return-0x1;var _0x8d11ed=0x0;if(_0x3b4830[_0x2266cb(0x1b3)]===_0x2266cb(0xec)){_0x8d11ed=Math[_0x2266cb(0x156)](_0x5dd005*_0x3b4830[_0x2266cb(0x21a)]/0x64);if(_0x3b4830[_0x2266cb(0x1bb)]&&_0x8d11ed>_0x3b4830['maxDiscount'])_0x8d11ed=_0x3b4830[_0x2266cb(0x1bb)];}else _0x3b4830[_0x2266cb(0x1b3)]===_0x2266cb(0x1ca)&&(_0x8d11ed=_0x3b4830['value']);return _0x8d11ed>_0x5dd005?_0x5dd005:_0x8d11ed;}function _0x5daf35(_0x4c03b6){var _0x4375bc=_0x26e3b7,_0x2b1b7b=JSON['parse'](localStorage['getItem'](_0x9e6794)||_0x4375bc(0x2a2)),_0x1ca1ec=_0x52c742(_0x2b1b7b),_0x1619a0=String(_0x4c03b6)['toUpperCase'](),_0x63a731=JSON[_0x4375bc(0xfc)](localStorage[_0x4375bc(0x169)](_0x4375bc(0x1c1))||'[]');if(_0x63a731[_0x4375bc(0xf7)](_0x1619a0))return{'success':![],'message':_0x4375bc(0xf6)};if(_0x56fde0[_0x1619a0]){_0xae6608=_0x1619a0;var _0x5339b6=_0x56fde0[_0x1619a0];return{'success':!![],'discount':Math[_0x4375bc(0x156)](_0x1ca1ec*_0x5339b6/0x64),'message':'Voucher\x20Member\x20'+_0x5339b6+_0x4375bc(0x1f7)};}var _0xc8255b=_0x5279f4[_0x1619a0];if(!_0xc8255b)return{'success':![],'message':_0x4375bc(0xfa)};if(_0xc8255b[_0x4375bc(0x20d)]&&_0x1ca1ec<_0xc8255b['minPurchase'])return{'success':![],'message':_0x4375bc(0x246)+_0x44f83d(_0xc8255b[_0x4375bc(0x20d)])};_0xae6608=_0x1619a0;var _0x2a1df3=_0xc8255b[_0x4375bc(0x1b3)]==='percent'?_0xc8255b[_0x4375bc(0x21a)]+'%':_0x44f83d(_0xc8255b[_0x4375bc(0x21a)]);return{'success':!![],'discount':_0x5b559a(_0x1ca1ec,_0x1619a0),'message':_0x4375bc(0x143)+_0x2a1df3+_0x4375bc(0xeb)};}function _0x52c742(_0x58fe50){var _0x3ae9ea=_0x26e3b7,_0x5248af=0x0;for(var _0x2e6243=0x0;_0x2e6243<_0x58fe50[_0x3ae9ea(0x219)][_0x3ae9ea(0x16a)];_0x2e6243++){var _0x2c7a7b=_0x58fe50[_0x3ae9ea(0x219)][_0x2e6243];if(_0x4610d0[_0x2c7a7b['id']])_0x5248af+=(_0x2c7a7b[_0x3ae9ea(0x135)]||0x0)*(_0x2c7a7b[_0x3ae9ea(0x242)]||0x1);}return _0x5248af;}document['getElementById'](_0x26e3b7(0x192))['addEventListener'](_0x26e3b7(0x11a),function(){var _0x4ae5f1=_0x26e3b7,_0x5431ab=document[_0x4ae5f1(0x21b)](_0x4ae5f1(0x212))['value'][_0x4ae5f1(0xc1)]()[_0x4ae5f1(0xbf)]();if(!_0x5431ab)return;var _0x74ce18=_0x5daf35(_0x5431ab),_0x3e660b=document[_0x4ae5f1(0x21b)](_0x4ae5f1(0x164));_0x74ce18[_0x4ae5f1(0xda)]?(_0x3e660b[_0x4ae5f1(0x11c)][_0x4ae5f1(0x208)]=_0x4ae5f1(0x185),_0x3e660b[_0x4ae5f1(0x170)]=_0x74ce18['message'],_0x3e99c6()):(_0x3e660b['style'][_0x4ae5f1(0x208)]=_0x4ae5f1(0x21e),_0x3e660b[_0x4ae5f1(0x170)]='\x20'+_0x74ce18[_0x4ae5f1(0x123)]);}),window['removeVoucher']=function(){var _0x48496b=_0x26e3b7;_0xae6608=null,document['getElementById'](_0x48496b(0x164))[_0x48496b(0x1eb)]='',document['getElementById'](_0x48496b(0x212))[_0x48496b(0x21a)]='';var _0x1ec2c5=JSON[_0x48496b(0xfc)](localStorage[_0x48496b(0x169)](_0x9e6794)||_0x48496b(0x2a2));_0x3e99c6();},window[_0x26e3b7(0x222)]=function(_0x3e9bc4,_0x2ee8d0){var _0x1d2d5e=_0x26e3b7;if(_0x2ee8d0<=0x0){window[_0x1d2d5e(0x16f)](_0x3e9bc4);return;}var _0x4a6b54=JSON[_0x1d2d5e(0xfc)](localStorage['getItem'](_0x9e6794)||_0x1d2d5e(0x2a2));for(var _0x4fc590=0x0;_0x4fc590<_0x4a6b54[_0x1d2d5e(0x219)][_0x1d2d5e(0x16a)];_0x4fc590++){if(_0x4a6b54[_0x1d2d5e(0x219)][_0x4fc590]['id']===_0x3e9bc4){_0x4a6b54[_0x1d2d5e(0x219)][_0x4fc590]['qty']=_0x2ee8d0;break;}}localStorage[_0x1d2d5e(0x26f)](_0x9e6794,JSON[_0x1d2d5e(0x253)](_0x4a6b54)),_0x3e99c6();},window['removeCartItem']=function(_0x479239){var _0x58d537=_0x26e3b7,_0x26a4ea=JSON['parse'](localStorage[_0x58d537(0x169)](_0x9e6794)||_0x58d537(0x2a2));_0x26a4ea[_0x58d537(0x219)]=_0x26a4ea[_0x58d537(0x219)][_0x58d537(0x132)](function(_0x1d555b){return _0x1d555b['id']!==_0x479239;}),delete _0x4610d0[_0x479239];if(_0x26a4ea['items'][_0x58d537(0x16a)]===0x0)_0xae6608=null;localStorage[_0x58d537(0x26f)](_0x9e6794,JSON[_0x58d537(0x253)](_0x26a4ea)),_0x3e99c6(),_0x36115c();},document[_0x26e3b7(0x21b)](_0x26e3b7(0x28c))[_0x26e3b7(0x1d6)](_0x26e3b7(0x11a),function(){var _0x520107=_0x26e3b7,_0x1666f1=JSON['parse'](localStorage['getItem'](_0x9e6794)||_0x520107(0x2a2));_0x1666f1[_0x520107(0x219)]=_0x1666f1[_0x520107(0x219)][_0x520107(0x132)](function(_0x2d41eb){return!_0x4610d0[_0x2d41eb['id']];});if(_0x1666f1['items'][_0x520107(0x16a)]===0x0)_0xae6608=null;localStorage[_0x520107(0x26f)](_0x9e6794,JSON['stringify'](_0x1666f1)),_0x3e99c6(),_0x36115c();}),document['addEventListener'](_0x26e3b7(0x11a),function(_0x3badb1){var _0x56218f=_0x26e3b7,_0x33a8d2=_0x3badb1[_0x56218f(0x17f)][_0x56218f(0xe0)](_0x56218f(0x276));if(!_0x33a8d2)return;_0x3badb1[_0x56218f(0x270)](),_0x3badb1[_0x56218f(0x131)]();if(!_0x1af8bd)return;var _0x3398a5=document[_0x56218f(0xea)](_0x56218f(0xf5)),_0x8d214=_0x3398a5?_0x3398a5[_0x56218f(0xe6)](_0x56218f(0x116)):null,_0x3f9896=_0x3398a5?_0x3398a5[_0x56218f(0xe6)](_0x56218f(0x29d)):null,_0x36737c=parseInt(_0x8d214)||_0x1af8bd['hargaFinal'],_0x552a30=parseInt(_0x3f9896)||_0x1af8bd['hargaNormal']||_0x36737c,_0x12d933=document[_0x56218f(0xea)](_0x56218f(0x10d)),_0x329def=_0x12d933?_0x12d933[_0x56218f(0x170)]['trim']():_0x1af8bd?_0x1af8bd[_0x56218f(0xd9)]:_0x56218f(0x111);if(_0x36737c<=0x0){alert(_0x56218f(0x24c));return;}var _0x851c9d=_0x3398a5?_0x3398a5[_0x56218f(0xe6)]('data-varian-final'):'';if(!_0x851c9d){var _0x533067=document['querySelectorAll']('#volla-variant-ui\x20.active-variant');_0x533067['length']>0x0&&(_0x851c9d=_0x533067[0x0][_0x56218f(0x140)][_0x56218f(0xc1)]());}else _0x1af8bd['variants']&&_0x1af8bd[_0x56218f(0x24a)][_0x851c9d]?_0x851c9d=_0x1af8bd[_0x56218f(0x24a)][_0x851c9d]['optName']:_0x851c9d=_0x851c9d['charAt'](0x0)[_0x56218f(0xbf)]()+_0x851c9d['slice'](0x1);var _0x51ea52=JSON['parse'](localStorage['getItem'](_0x9e6794)||_0x56218f(0x2a2)),_0x3c40a6=![],_0xfc0783=_0x1af8bd['id']||window['location'][_0x56218f(0xef)][_0x56218f(0x248)](/[\/\.]/g,'-'),_0x434420=_0xfc0783+(_0x851c9d?'-'+_0x4249f7(_0x851c9d):'');for(var _0x224e90=0x0;_0x224e90<_0x51ea52[_0x56218f(0x219)][_0x56218f(0x16a)];_0x224e90++){if(_0x51ea52[_0x56218f(0x219)][_0x224e90]['id']===_0x434420){_0x51ea52['items'][_0x224e90][_0x56218f(0x242)]=(_0x51ea52[_0x56218f(0x219)][_0x224e90][_0x56218f(0x242)]||0x1)+0x1,_0x3c40a6=!![];break;}}!_0x3c40a6&&_0x51ea52[_0x56218f(0x219)][_0x56218f(0x1b6)]({'id':_0x434420,'name':_0x329def,'variant':_0x851c9d,'price':_0x36737c,'hargaNormal':_0x552a30,'image':_0x135e86(),'link':window['location']['pathname'],'qty':0x1});localStorage[_0x56218f(0x26f)](_0x9e6794,JSON[_0x56218f(0x253)](_0x51ea52)),_0x4610d0[_0x434420]=!![],_0xf34feb(_0x51ea52),_0x33a8d2[_0x56218f(0x11c)][_0x56218f(0x149)]('background',_0x56218f(0x185),'important'),_0x33a8d2[_0x56218f(0x1eb)]=_0x56218f(0xe7),_0x51bf5f(_0x851c9d?_0x329def+'\x20('+_0x851c9d+')':_0x329def);var _0x34987c=document[_0x56218f(0x21b)](_0x56218f(0x11f));if(_0x34987c){var _0x1a1645=_0x33a8d2['getBoundingClientRect'](),_0x381ffa=_0x34987c[_0x56218f(0x157)](),_0x4eb8d2=document['createElement'](_0x56218f(0x273));_0x4eb8d2[_0x56218f(0x121)]=_0x56218f(0x298),_0x4eb8d2[_0x56218f(0x11c)][_0x56218f(0x290)]=_0x1a1645[_0x56218f(0x290)]+_0x1a1645[_0x56218f(0x1bd)]/0x2-0xa+'px',_0x4eb8d2[_0x56218f(0x11c)][_0x56218f(0x129)]=_0x1a1645[_0x56218f(0x129)]+_0x1a1645[_0x56218f(0x1df)]/0x2-0xa+'px',document[_0x56218f(0x127)]['appendChild'](_0x4eb8d2),void _0x4eb8d2['offsetWidth'],_0x4eb8d2['style'][_0x56218f(0x290)]=_0x381ffa[_0x56218f(0x290)]+_0x381ffa[_0x56218f(0x1bd)]/0x2-0xa+'px',_0x4eb8d2['style'][_0x56218f(0x129)]=_0x381ffa[_0x56218f(0x129)]+_0x381ffa[_0x56218f(0x1df)]/0x2-0xa+'px',_0x4eb8d2[_0x56218f(0x11c)][_0x56218f(0x119)]=_0x56218f(0x10c),_0x4eb8d2[_0x56218f(0x11c)]['opacity']='0',setTimeout(function(){var _0xc4fbcf=_0x56218f;if(document[_0xc4fbcf(0x127)][_0xc4fbcf(0x102)](_0x4eb8d2))document[_0xc4fbcf(0x127)][_0xc4fbcf(0xca)](_0x4eb8d2);_0x34987c['style']['transform']=_0xc4fbcf(0x15b),setTimeout(function(){var _0x11b583=_0xc4fbcf;_0x34987c['style'][_0x11b583(0x119)]=_0x11b583(0x1b2);},0xc8);},0x258);}}),document[_0x26e3b7(0x21b)]('checkout-btn')[_0x26e3b7(0x1d6)](_0x26e3b7(0x11a),function(){var _0x4f1a71=_0x26e3b7,_0x234645=JSON[_0x4f1a71(0xfc)](localStorage[_0x4f1a71(0x169)](_0x9e6794)||'{\x22items\x22:[]}'),_0x52f189=_0x234645[_0x4f1a71(0x219)]['filter'](function(_0x419330){return _0x4610d0[_0x419330['id']];});if(_0x52f189['length']===0x0){alert(_0x4f1a71(0x15d));return;}var _0x2a4624=_0x593b65(document[_0x4f1a71(0x21b)](_0x4f1a71(0x19b))[_0x4f1a71(0x21a)]),_0x48edd0=_0x593b65(document[_0x4f1a71(0x21b)](_0x4f1a71(0x1e2))[_0x4f1a71(0x21a)]),_0x32615a=_0x593b65(document[_0x4f1a71(0x21b)](_0x4f1a71(0x274))['value']);if(!_0x2a4624||!_0x48edd0||!_0x32615a){alert(_0x4f1a71(0x13a));return;}if(!_0x35df29['selected']){alert(_0x4f1a71(0x201));return;}var _0x6890a7=document[_0x4f1a71(0x21b)]('checkout-btn'),_0x2bf7fb=_0x6890a7[_0x4f1a71(0x1eb)];_0x6890a7[_0x4f1a71(0x170)]=_0x4f1a71(0x268),_0x6890a7[_0x4f1a71(0x11c)][_0x4f1a71(0xdd)]=_0x4f1a71(0x1ae);var _0x2487e7=new Date()[_0x4f1a71(0x27e)](_0x4f1a71(0x1c6),{'day':_0x4f1a71(0x20b),'month':_0x4f1a71(0x291),'year':_0x4f1a71(0x20b),'timeZone':_0x4f1a71(0x197)}),_0x26b16b=_0xff54e7(),_0x1e3fdf=_0x48edd0;_0x35df29[_0x4f1a71(0xbe)]&&!_0x48edd0[_0x4f1a71(0xf7)](_0x35df29['locationLabel'])&&(_0x1e3fdf+=',\x20'+_0x35df29[_0x4f1a71(0xbe)]);var _0x564e33=0x0,_0x3536cc=0x0,_0x17c589='',_0x2d64af='';_0x52f189[_0x4f1a71(0x24e)](function(_0x29b83f,_0x1bea20){var _0x596348=_0x4f1a71,_0x42e9a4=parseInt(_0x29b83f[_0x596348(0x18d)])||_0x29b83f[_0x596348(0x135)],_0x4c1d52=_0x29b83f[_0x596348(0x25a)]?'\x20('+_0x29b83f[_0x596348(0x25a)]+')':'';_0x2d64af+=_0x1bea20+0x1+'.\x20'+_0x29b83f[_0x596348(0x295)]+_0x4c1d52+_0x596348(0xbd)+_0x29b83f[_0x596348(0x242)]+_0x596348(0x1c9);if(_0x42e9a4>_0x29b83f['price']){var _0x1b90b8=Math[_0x596348(0x156)]((_0x42e9a4-_0x29b83f[_0x596348(0x135)])/_0x42e9a4*0x64);_0x2d64af+='\x20\x20\x20Harga:\x20'+_0x44f83d(_0x42e9a4)+_0x596348(0x175)+_0x44f83d(_0x29b83f[_0x596348(0x135)])+'\x20(-'+_0x1b90b8+_0x596348(0x141);}else _0x2d64af+='\x20\x20\x20Harga:\x20'+_0x44f83d(_0x29b83f[_0x596348(0x135)])+'\x0a';_0x2d64af+='\x20\x20\x20Total:\x20'+_0x44f83d(_0x29b83f[_0x596348(0x135)]*_0x29b83f[_0x596348(0x242)])+'\x0a\x0a',_0x17c589+='•\x20'+_0x29b83f[_0x596348(0x295)]+_0x4c1d52+_0x596348(0x29e);_0x42e9a4>_0x29b83f[_0x596348(0x135)]?_0x17c589+='\x20\x20~'+_0x44f83d(_0x42e9a4)+_0x596348(0x228)+_0x44f83d(_0x42e9a4-_0x29b83f[_0x596348(0x135)])[_0x596348(0x248)]('Rp','')+_0x596348(0x151)+_0x44f83d(_0x29b83f['price'])+'%0A':_0x17c589+='\x20\x20'+_0x44f83d(_0x29b83f[_0x596348(0x135)])+_0x596348(0x29e);if(_0x29b83f[_0x596348(0x242)]>0x1)_0x17c589+=_0x596348(0x17e)+_0x29b83f['qty']+'\x20pcs\x20=\x20'+_0x44f83d(_0x29b83f['price']*_0x29b83f['qty'])+'%0A';_0x17c589+=_0x596348(0x29e),_0x564e33+=_0x29b83f[_0x596348(0x135)]*_0x29b83f[_0x596348(0x242)],_0x3536cc+=_0x42e9a4*_0x29b83f[_0x596348(0x242)];});var _0x3e3ca5=_0xae6608?_0x5b559a(_0x564e33,_0xae6608):0x0,_0x1ccf58=_0x564e33-_0x3e3ca5+_0x35df29[_0x4f1a71(0x1be)]+_0x26b16b;fetch(_0x5d2e69,{'method':'POST','headers':{'Content-Type':'text/plain;charset=utf-8'},'body':JSON['stringify']({'nama':_0x2a4624,'hp':_0x32615a,'alamat':_0x1e3fdf,'total_normal':_0x3536cc,'subtotal':_0x564e33,'ongkir':_0x35df29['cost'],'total_bayar':_0x1ccf58,'kode_voucher':_0xae6608||'-','detail_pesanan':_0x2d64af})})['then'](function(_0x3f0b94){var _0x5552ab=_0x4f1a71;return _0x3f0b94[_0x5552ab(0xe3)]();})['then'](function(_0x40cff2){var _0x403225=_0x4f1a71;if(_0x40cff2&&_0x40cff2[_0x403225(0x27d)]===_0x403225(0x19d)){alert(_0x40cff2[_0x403225(0x123)]),window[_0x403225(0x183)](),_0x6890a7[_0x403225(0x1eb)]=_0x2bf7fb,_0x6890a7['style']['pointerEvents']='auto';return;}else{if(_0x40cff2&&_0x40cff2[_0x403225(0x27d)]==='success'){if(_0xae6608){var _0x445da4=JSON[_0x403225(0xfc)](localStorage[_0x403225(0x169)](_0x403225(0x1c1))||'[]');!_0x445da4[_0x403225(0xf7)](_0xae6608)&&(_0x445da4[_0x403225(0x1b6)](_0xae6608),localStorage[_0x403225(0x26f)](_0x403225(0x1c1),JSON[_0x403225(0x253)](_0x445da4)));}var _0x53014a='';if(_0x40cff2[_0x403225(0xc4)]){if(_0x40cff2[_0x403225(0x267)]===_0x403225(0x133))_0x53014a=_0x403225(0x1fc)+_0x40cff2[_0x403225(0xf2)]+'\x20ini,\x20status\x20Kakak\x20resmi\x20naik\x20menjadi\x20*Member\x20VIP*!\x20👑%0A%0A🎁\x20*Voucher\x20Khusus\x20VIP:*\x20Gunakan\x20kode\x20*'+_0x40cff2['promoCode']+_0x403225(0x1da);else _0x40cff2[_0x403225(0x267)]===_0x403225(0x282)&&(_0x53014a=_0x403225(0xc3)+_0x40cff2[_0x403225(0xf2)]+_0x403225(0xd5)+_0x40cff2[_0x403225(0xc8)]+_0x403225(0x190));}else{if(_0x40cff2[_0x403225(0xf2)]>0x1){var _0x4dd27e=_0x40cff2[_0x403225(0x267)]===_0x403225(0x133)?_0x403225(0x122):_0x403225(0x257);_0x53014a=_0x403225(0xdc)+_0x40cff2[_0x403225(0xf2)]+_0x403225(0x105)+_0x40cff2[_0x403225(0x267)]+_0x403225(0x16b)+_0x40cff2['promoCode']+_0x403225(0x18f)+_0x4dd27e+_0x403225(0x17a);}}var _0x47b3f2=_0x403225(0x1c0)+_0x2a4624+_0x403225(0x200)+_0x2487e7+_0x403225(0x204)+_0x40cff2['orderNumber']+_0x403225(0xfe)+_0x2a4624+_0x403225(0x210)+_0x32615a+_0x403225(0xfd)+_0x1e3fdf+'%0A%0A*List\x20Pesanan:*%0A——————%0A'+_0x17c589+_0x403225(0x209)+_0x44f83d(_0x3536cc)+'%0A%0A';_0x3536cc>_0x564e33&&(_0x47b3f2+=_0x403225(0xcd)+_0x44f83d(_0x3536cc-_0x564e33)+'%0A%0A');_0x3e3ca5>0x0&&(_0x47b3f2+=_0x403225(0x1ef)+_0xae6608+_0x403225(0x1e7)+_0x44f83d(_0x3e3ca5)+'%0A%0A');_0x47b3f2+=_0x403225(0x1f3)+_0x44f83d(_0x35df29[_0x403225(0x1be)])+'%0A%0A*Kode\x20Unik*%0A————%0A'+_0x44f83d(_0x26b16b)+'%0A%0A*Total\x20Bayar*%0A————%0A*'+_0x44f83d(_0x1ccf58)+_0x403225(0x188);if(_0x53014a!=='')_0x47b3f2+=_0x53014a+_0x403225(0x1a6);else _0x47b3f2+=_0x403225(0x29e);_0x47b3f2+=_0x403225(0x108);var _0x370872={'nama':_0x2a4624,'hp':_0x32615a,'alamat':_0x48edd0,'lokasi':_0x35df29['locationLabel'],'timestamp':new Date()[_0x403225(0x227)](),'items':_0x52f189,'subtotal':_0x564e33,'diskon':_0x3536cc-_0x564e33,'voucher':_0x3e3ca5,'voucherCode':_0xae6608||null,'ongkir':_0x35df29['cost'],'total':_0x1ccf58,'date':new Date()['toLocaleDateString'](_0x403225(0x1c6))};localStorage[_0x403225(0x26f)](_0x403225(0x18e),JSON[_0x403225(0x253)](_0x370872));var _0x4c5efe=_0x403225(0x28f),_0x3232eb=new FormData();_0x3232eb['append'](_0x403225(0x17f),_0x32615a),_0x3232eb[_0x403225(0x10b)](_0x403225(0x123),_0x47b3f2[_0x403225(0x248)](/%0A/g,'\x0a')),_0x3232eb[_0x403225(0x10b)](_0x403225(0x261),'62'),fetch(_0x4c5efe,{'method':'POST','headers':{'Authorization':'5dRUkEauBfcm5dax81CU'},'body':_0x3232eb})[_0x403225(0x148)](function(){}),_0x3a32b9(),localStorage['setItem'](_0x9e6794,JSON[_0x403225(0x253)]({'items':[],'subtotal':0x0,'totalQty':0x0})),window[_0x403225(0x23b)][_0x403225(0x1ab)]=_0x403225(0x138);}else throw new Error('Gagal\x20menyimpan\x20ke\x20Sheet');}})['catch'](function(_0x1d8682){var _0x21ce95=_0x4f1a71;alert('Terjadi\x20kesalahan\x20proses\x20pesanan.\x20Cek\x20koneksi\x20internet\x20Anda.'),_0x6890a7['innerHTML']=_0x2bf7fb,_0x6890a7[_0x21ce95(0x11c)]['pointerEvents']=_0x21ce95(0x1ba);});}),_0x397474[_0x26e3b7(0x1d6)](_0x26e3b7(0x260),function(_0x4d1a63){var _0x2f88c2=_0x26e3b7;if(_0x4d1a63[_0x2f88c2(0x17f)]['id']===_0x2f88c2(0x19b))_0x18b5a6['nama']=_0x4d1a63[_0x2f88c2(0x17f)][_0x2f88c2(0x21a)];if(_0x4d1a63[_0x2f88c2(0x17f)]['id']===_0x2f88c2(0x1e2))_0x18b5a6[_0x2f88c2(0x22a)]=_0x4d1a63[_0x2f88c2(0x17f)]['value'];if(_0x4d1a63[_0x2f88c2(0x17f)]['id']===_0x2f88c2(0x274))_0x18b5a6['hp']=_0x4d1a63[_0x2f88c2(0x17f)][_0x2f88c2(0x21a)];});var _0x1fa7c4=JSON[_0x26e3b7(0xfc)](localStorage[_0x26e3b7(0x169)](_0x9e6794)||'{\x22items\x22:[]}');_0xf34feb(_0x1fa7c4);}setTimeout(function(){_0x495a47(function(_0xd6da98){var _0x104d8b=_0x5de3,_0x2e60bf=window[_0x104d8b(0x23b)][_0x104d8b(0xef)][_0x104d8b(0xf7)](_0x104d8b(0x283));if(_0x2e60bf){var _0x3c1191=_0x99130e(),_0x45f3ac=_0x3c1191[_0x104d8b(0x248)](/-/g,'\x20'),_0x214dd2=Object[_0x104d8b(0x294)](_0xd6da98)['find'](function(_0x289fb1){return _0x289fb1===_0x45f3ac||_0x289fb1===_0x3c1191;});if(!_0x214dd2){var _0x474e7e=Object['keys'](_0xd6da98)[_0x104d8b(0x132)](function(_0x44b290){return _0x45f3ac['startsWith'](_0x44b290)||_0x3c1191['startsWith'](_0x44b290);});_0x474e7e[_0x104d8b(0x16a)]>0x0&&(_0x474e7e[_0x104d8b(0x247)](function(_0x5cff50,_0x3cf48b){var _0x4e5842=_0x104d8b;return _0x3cf48b[_0x4e5842(0x16a)]-_0x5cff50[_0x4e5842(0x16a)];}),_0x214dd2=_0x474e7e[0x0]);}var _0x1e07e1=_0x214dd2?_0xd6da98[_0x214dd2]:null;_0x1e07e1&&(_0x88f56b(_0x1e07e1),_0xf636b6()),setTimeout(function(){_0x34dea6();},0x1f4),setTimeout(function(){_0x34dea6();},0x4b0);}else _0x1ebad9(_0xd6da98),_0xf636b6(),setTimeout(function(){_0x1ebad9(_0xd6da98),_0x34dea6();},0x258),setTimeout(function(){_0x1ebad9(_0xd6da98),_0x34dea6();},0x5dc);});},0x12c);function _0x34dea6(){var _0x404a8c=_0x275708;document['querySelectorAll'](_0x404a8c(0x19f))[_0x404a8c(0x24e)](function(_0x294a75){var _0x1c0500=_0x404a8c,_0x10bd97=_0x294a75[_0x1c0500(0xe6)](_0x1c0500(0x29a));_0x10bd97&&!_0x294a75[_0x1c0500(0x1a9)][_0x1c0500(0xf7)](_0x10bd97)&&(_0x294a75[_0x1c0500(0x1a9)]=_0x10bd97,_0x294a75['removeAttribute']('data-src'),_0x294a75[_0x1c0500(0x11c)][_0x1c0500(0x1e1)]='1');}),document[_0x404a8c(0x229)]('img')[_0x404a8c(0x24e)](function(_0x32a5a8){var _0x25312c=_0x404a8c;if(!_0x32a5a8[_0x25312c(0x1a9)]||_0x32a5a8[_0x25312c(0x1a9)]===''||_0x32a5a8[_0x25312c(0x1a9)][_0x25312c(0xf7)]('data:image')){var _0x133877=_0x32a5a8['getAttribute'](_0x25312c(0x29a));_0x133877&&(_0x32a5a8[_0x25312c(0x1a9)]=_0x133877);}_0x32a5a8[_0x25312c(0x11c)]['opacity']==='0'&&(_0x32a5a8[_0x25312c(0x11c)]['opacity']='1');});if(typeof window[_0x404a8c(0x20c)]===_0x404a8c(0x255))window['applyLazyLoad']();if(typeof window[_0x404a8c(0x284)]===_0x404a8c(0x255))window[_0x404a8c(0x284)]();if(typeof window[_0x404a8c(0x277)]!==_0x404a8c(0x1ee))window[_0x404a8c(0x277)][_0x404a8c(0x1a3)]();}}()));
+// ============================================
+// 1. PENGATURAN URL GOOGLE SCRIPT & SPREADSHEET
+// ============================================
+(function(){
+var RAJAONGKIR_URL = "https://script.google.com/macros/s/AKfycbyP-ZUS1uGDHYHEsWAjxg7Fl4Joavs2umoVUxItd-mVWXoImq2YRwtWz-SYVgvPCVe5/exec";
+var VOUCHER_PUB_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQC_ZEF6KZ0aMsPfgKjZIbOntgKeOyN1JsD6vjhUkWIt2AYvNpVoYK_Fd1XhoZXvD9TDOV-3CMZNJtL/pub?gid=1079538112&single=true&output=csv";
+var SCRIPT_GABUNGAN_URL = "https://script.google.com/macros/s/AKfycbxCLbvhjq3GcnN4OcUM14LqobjRtR0Pzg1B6ghf6mjtZg0WavnryxeYIo-9CjzDmYbc/exec";
+
+try {
+  localStorage.removeItem('simpleCart_items'); localStorage.removeItem('tokowa_cart');
+  for (var k in localStorage) {
+    if (localStorage.hasOwnProperty(k) && k !== "vollapearl_custom_cart" && k !== "volla_last_order" && k !== "volla_used_vouchers") {
+      var v = localStorage.getItem(k);
+      if (typeof v === 'string' && (v.includes('NaN') || v.includes('undefined') || v.includes('null'))) localStorage.removeItem(k);
+    }
+  }
+} catch(e) {}
+
+var VOLLA_COLOR = '#1a2b4c', VOLLA_COLOR_LIGHT = '#e8edf5', VOLLA_ACCENT = '#c9a96e';
+var CART_ICON = '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16"><path d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM3.102 4l1.313 7h8.17l1.313-7H3.102zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/></svg>';
+
+var style = document.createElement('style');
+style.textContent = `
+  #cart-btn, #cart, .cart-btn-head, [id*="cart"].pop, #pop-cart, #cart-popup, .cart-button { display: none !important; }
+  input, textarea, select { font-size: 16px !important; padding: 10px 12px !important; }
+  .post-body table.variant, .entry-content table.variant, table.image, .volla-variant-table, .variant.hide { display: none !important; visibility: hidden !important; opacity: 0 !important; height: 0 !important; overflow: hidden !important; position: absolute !important; }
+  table[style*="rgb(245, 124, 0)"], table[style*="#f57c00"] { display: none !important; visibility: hidden !important; }
+  .item.variant, .product-variant, .product-variants, .variant-wrapper, .opsi-produk, .product-options, .option-wrap, .item-variants { display: none !important; }
+  .volla-add-btn { background: var(--key) !important; color: white !important; display: flex !important; flex-direction: row !important; align-items: center !important; justify-content: center !important; text-align: center !important; width: 100% !important; padding: 0 !important; height: 60px !important; border: none !important; border-radius: 4px !important; cursor: pointer !important; font-size:100% !important;}
+  #volla-toast { position: fixed; bottom: -100px; left: 50%; transform: translateX(-50%); background: white; padding: 12px 24px; border-radius: 50px; box-shadow: 0 10px 30px rgba(26,43,76,0.15); z-index: 99999; display: flex; align-items: center; gap: 12px; font-size: 13px; font-weight: 600; color: #1a2b4c; transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); border: 1px solid #e8edf5; width: max-content; max-width: 90vw; }
+  #volla-toast.show { bottom: 90px; }
+  #volla-toast-icon { background: #27ae60; color: white; width: 22px; height: 22px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; flex-shrink: 0; }
+  .volla-modal-content { display: flex; flex-direction: column; height: 100%; background: #f5f5f7; position: relative; }
+  .volla-scroll-area { flex: 1; overflow-y: auto; padding: 12px; padding-bottom: 90px; }
+  .volla-card { background: #fff; border-radius: 10px; padding: 7px; margin-bottom: 7px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+  .volla-card-title { font-size: 14px; font-weight: 600; color: #333; display: flex; align-items: center; gap: 8px; margin-bottom: 12px; }
+  .volla-input-modern { width: 100%; padding: 12px 0; border: none; border-bottom: 1px solid #eee; border-radius: 0; font-size: 14px; background: transparent; transition: 0.2s; color:#333; }
+  .volla-input-modern:focus { border-bottom-color: #ee4d2d; outline: none; }
+  .volla-sticky-bottom { position: absolute; bottom: 0; left: 0; width: 100%; background: #fff; padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #eee; box-shadow: 0 -4px 12px rgba(0,0,0,0.05); z-index: 100; }
+  .volla-cart-item { display: flex; gap: 12px; padding: 16px; border-bottom: 1px solid #f5f5f5; }
+  .volla-cart-item:last-child { border-bottom: none; }
+  .volla-cart-img { width: 80px; height: 80px; border-radius: 8px; object-fit: cover; flex-shrink: 0; border: 1px solid #eee; }
+  .volla-qty-btn { width: 28px; height: 28px; border: 1px solid #eee; background: #fafafa; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 16px; cursor: pointer; color:#666; font-weight:500;}
+  .ship-loading { font-size: 12px; color: #ee4d2d; font-weight: 600; margin-top: 8px; display: none; }
+  .volla-flying-item { position: fixed; width: 20px; height: 20px; background: var(--key, #1a2b4c); border-radius: 50%; z-index: 99999; pointer-events: none; transition: left 0.6s ease, top 0.6s ease, transform 0.6s ease, opacity 0.6s ease; }
+`;
+document.head.appendChild(style);
+
+var viewportMeta = document.querySelector('meta[name="viewport"]');
+if(!viewportMeta){ viewportMeta = document.createElement('meta'); viewportMeta.name = 'viewport'; document.head.appendChild(viewportMeta); }
+viewportMeta.content = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no';
+
+if(window.location.pathname.includes('.html')){
+  var productStyle = document.createElement('style');
+  productStyle.textContent = `.item.qty, .option .item.qty, .qty-container, .quantity-wrap { display: none !important; }`;
+  document.head.appendChild(productStyle);
+  setTimeout(function(){
+    document.querySelectorAll('.item.qty, .qty, [class*="quantity"]').forEach(function(el){
+      if(el.closest('.product, .post, article') && !el.closest('#cart-modal')){ el.style.display = 'none'; }
+    });
+  }, 300);
+}
+
+// ============================================
+// 2. VARIABEL PENYIMPANAN DATA (STATE)
+// ============================================
+var SHEET_ID = "1TKocTvvTgyOnr8JU2Eo15AQt84mOynOkx4bgpkpwpVs";
+var GID_META = "226483595", GID_SHOPEE = "484833297", GID_SILVER_FIX = "255262711";
+var GID_MANUAL_VOUCHER = "341975128";
+
+var CART_KEY = "vollapearl_custom_cart";
+var currentProduct = null, allProducts = {}, cartInitialized = false, rawSilverFix = [], rawMetaFeed = [];
+var validSheetVouchers = {};
+var activeShipping = { cost: 0, locationLabel: "", selected: false };
+var ALL_VOUCHERS = {};
+var activeVoucher = null, selectedItems = {}, formData = { nama: '', alamat: '', hp: '' };
+
+// ============================================
+// 3. FUNGSI-FUNGSI UTILITAS (PEMBANTU)
+// ============================================
+
+function getUniqueCode() {
+  var today = new Date().toLocaleDateString('id-ID'), seqData = JSON.parse(localStorage.getItem('volla_order_seq') || '{"date":"","count":1}');
+  if (seqData.date !== today) { seqData = { date: today, count: 1 }; localStorage.setItem('volla_order_seq', JSON.stringify(seqData)); }
+  var code = 50 + seqData.count; return code > 99 ? 99 : code;
+}
+
+function incrementUniqueCode() {
+  var today = new Date().toLocaleDateString('id-ID'), seqData = JSON.parse(localStorage.getItem('volla_order_seq') || '{"date":"","count":1}');
+  if (seqData.date !== today) { seqData = { date: today, count: 1 }; }
+  seqData.count++; localStorage.setItem('volla_order_seq', JSON.stringify(seqData));
+}
+
+function normalize(text){ return (text || "").toLowerCase().replace(/[^\w\s]/gi,' ').replace(/\s+/g,' ').trim(); }
+
+function extractNumber(str){ if(!str) return 0; var cleaned = str.toString().replace(/[^\d]/g, ''); var num = parseInt(cleaned); return isNaN(num) ? 0 : num; }
+
+function formatRupiah(angka){ var n = parseInt(angka); if(isNaN(n) || n === 0) return "Rp0"; return "Rp" + n.toLocaleString("id-ID"); }
+function getSlug(){ var path = window.location.pathname; return path.split("/").pop().replace(".html","").toLowerCase(); }
+function formatRupiahSingkat(angka){ if(!angka || isNaN(angka)) return "Rp0"; if(angka >= 1000000) return "Rp" + (angka/1000000).toFixed(1) + "JT"; if(angka >= 1000) return "Rp" + (angka/1000).toFixed(0) + "RB"; return "Rp" + angka; }
+
+function sanitizeInput(str){ return (str || '').replace(/[<>]/g, '').trim(); }
+
+function cleanFrontendTitle(fullTitle) {
+  if (!fullTitle) return ''; var cleaned = fullTitle.split('|')[0].split('(')[0].trim();
+  var jenis = ''; var lower = cleaned.toLowerCase();
+  if (lower.indexOf('set') !== -1) jenis = 'Set'; else if (lower.indexOf('anting') !== -1) jenis = 'Anting'; else if (lower.indexOf('kalung') !== -1) jenis = 'Kalung'; else if (lower.indexOf('gelang') !== -1) jenis = 'Gelang'; else if (lower.indexOf('cincin') !== -1) jenis = 'Cincin'; else if (lower.indexOf('liontin') !== -1) jenis = 'Liontin'; else if (lower.indexOf('giwang') !== -1) jenis = 'Giwang'; else if (lower.indexOf('bros') !== -1) jenis = 'Bros';
+  var removeWords = ['Asli','Air Tawar','Perak Asli 925','Lapis Emas 18K','18K','VollaPearl','Volla Pearl','Original','Mutiara Asli','Sterling Silver','925','Lapis Emas','Perhiasan','Jewelry','Anti Karat','Anti Luntur','High Quality','Premium','Perak','Silver','Gold','Emas','S925','S 925','Freshwater','freshwater','Fresh Water','fresh water','Water','Pearl','with','With','dengan','Dengan','–','—','-','Set Perhiasan','Perhiasan','Bracelet','Necklace','Earring','Pendant','Brooch','Ring','Bangle'];
+  for (var i = 0; i < removeWords.length; i++) cleaned = cleaned.replace(new RegExp('\\b' + removeWords[i] + '\\b', 'gi'), '');
+  cleaned = cleaned.replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+  if (jenis) cleaned = cleaned.replace(new RegExp('\\b' + jenis + '\\b', 'gi'), '').trim();
+  cleaned = cleaned.replace(/\s+/g, ' ').trim();
+  if (!cleaned.toLowerCase().includes('mutiara')) cleaned += ' Mutiara';
+  if (jenis) cleaned = cleaned.replace(' Mutiara', jenis === 'Set' ? ' ' + jenis + ' Perhiasan Mutiara' : ' ' + jenis + ' Mutiara');
+  return cleaned.replace(/\s+/g, ' ').trim();
+}
+
+function getProductImageFromPage(){
+  var selectors = ['.post-body img', '.entry-content img', 'article img', 'figure.cover img', 'img[src*="blogger.googleusercontent.com"]'];
+  for(var i = 0; i < selectors.length; i++){
+    var img = document.querySelector(selectors[i]);
+    if(img){ var src = img.getAttribute('src') || img.getAttribute('data-src') || ''; if(src && src.includes('http') && !src.includes('avatar')) return src; }
+  } return '';
+}
+
+// ============================================
+// 4. FUNGSI PEMROSESAN DATA DARI SHEET
+// ============================================
+
+function getSheetData(g) { return fetch("https://docs.google.com/spreadsheets/d/" + SHEET_ID + "/export?format=csv&gid=" + g + "&t=" + Date.now()).then(function(r){ return r.text(); }); }
+
+var toastTimeout;
+function showNotification(productName) {
+  var toast = document.getElementById('volla-toast');
+  if(!toast) { toast = document.createElement('div'); toast.id = 'volla-toast'; document.body.appendChild(toast); }
+  toast.innerHTML = '<div id="volla-toast-icon">✓</div><div style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:250px;">Ditambahkan ke Keranjang!</div>';
+  setTimeout(function() { toast.classList.add('show'); }, 50); clearTimeout(toastTimeout);
+  toastTimeout = setTimeout(function(){ toast.classList.remove('show'); }, 2500);
+}
+
+function extractVariantOptions(variants){
+  var result = { jenis: [], mutiara: [], rangka: [], batu: [] };
+  Object.values(variants).forEach(function(v){
+    if(v.jenis && !result.jenis.includes(v.jenis)) result.jenis.push(v.jenis);
+    if(v.mutiara && !result.mutiara.includes(v.mutiara)) result.mutiara.push(v.mutiara);
+    if(v.rangka && !result.rangka.includes(v.rangka)) result.rangka.push(v.rangka);
+    if(v.batu && !result.batu.includes(v.batu)) result.batu.push(v.batu);
+  }); return result;
+}
+
+function getVariationData(baseName, varianName, productTitle) {
+  var b = baseName.toLowerCase().trim(); var v = varianName ? varianName.toLowerCase().trim() : ''; var tTitle = (productTitle || '').toLowerCase(); var coreVarian = '';
+  var searchStr = v ? v : tTitle;
+  ['anting','kalung','gelang','cincin','cinin','set','bros','liontin','giwang'].forEach(function(t) { if (searchStr.includes(t)) coreVarian = (t === 'cinin' ? 'cincin' : t); });
+  var normalPrice = 0, diskon = 0;
+  for (var i = 1; i < rawMetaFeed.length; i++) {
+    var t = (rawMetaFeed[i][1] || '').toLowerCase();
+    if (t.includes(b)) { if (coreVarian !== 'set' && t.includes('set')) continue; var d = parseInt(rawMetaFeed[i][11] || '0'); if (d > 0) { diskon = d; break; } }
+  }
+  var checkPrice = function(sheetData, nameCol, priceCol) {
+    for (var i = 1; i < sheetData.length; i++) {
+      var t = (sheetData[i][nameCol] || '').toLowerCase();
+      if (t.includes(b) && t.includes(coreVarian || v)) {
+        if (coreVarian !== 'set' && t.includes('set')) continue; if (coreVarian === 'set' && !t.includes('set')) continue;
+        var p = extractNumber(sheetData[i][priceCol]); if (p > 0) return p;
+      }
+    } return 0;
+  };
+  normalPrice = checkPrice(rawSilverFix, 3, 25);
+  if (normalPrice === 0) normalPrice = checkPrice(rawMetaFeed, 1, 3);
+  if (normalPrice === 0) normalPrice = checkPrice(rawMetaFeed, 1, 10);
+  if (normalPrice === 0) { for (var i = 1; i < rawSilverFix.length; i++) { var t = (rawSilverFix[i][3] || '').toLowerCase(); if (t.includes(b)) { if (coreVarian !== 'set' && t.includes('set')) continue; if (coreVarian === 'set' && !t.includes('set')) continue; var p = extractNumber(rawSilverFix[i][25]); if (p > 0) { normalPrice = p; break; } } } }
+  if (normalPrice === 0) { for (var i = 1; i < rawMetaFeed.length; i++) { var t = (rawMetaFeed[i][1] || '').toLowerCase(); if (t.includes(b)) { if (coreVarian !== 'set' && t.includes('set')) continue; if (coreVarian === 'set' && !t.includes('set')) continue; var p = extractNumber(rawMetaFeed[i][3]) || extractNumber(rawMetaFeed[i][10]); if (p > 0) { normalPrice = p; break; } } } }
+  var finalPrice = diskon > 0 ? Math.ceil((normalPrice * (1 - diskon / 100)) / 1000) * 1000 : normalPrice;
+  return { final: finalPrice, normal: normalPrice, discount: diskon };
+}
+
+function buildVariantMatrixFromSilverFix(baseName) {
+  var result = {}, fallbackMetaPrice = { normal: 0, final: 0, diskon: 0 };
+  for (var m = 1; m < rawMetaFeed.length; m++) {
+    var namaMeta = (rawMetaFeed[m][1] || '').toLowerCase();
+    if (namaMeta.includes(baseName.toLowerCase())) {
+      var hn = extractNumber(rawMetaFeed[m][3]), hd = extractNumber(rawMetaFeed[m][10]), dp = extractNumber(rawMetaFeed[m][11]) || 0;
+      var hf = hd > 0 ? Math.ceil(hd / 1000) * 1000 : hn;
+      if (hf > 0) { fallbackMetaPrice = { normal: hn, final: hf, diskon: dp }; break; }
+    }
+  }
+  var jenisData = {}, jenisList = ["Anting","Kalung","Gelang","Cincin","Set","Liontin","Giwang","Bros"];
+  for (var i = 1; i < rawMetaFeed.length; i++) {
+    var row = rawMetaFeed[i], nama = (row[1] || '').toLowerCase();
+    if (!nama.includes(baseName.toLowerCase())) continue;
+    jenisList.forEach(function(j){
+      if (nama.includes(j.toLowerCase())) {
+        var key = normalize(j);
+        if (!jenisData[key]) {
+          var hNormal = extractNumber(row[3]), hDiskon = extractNumber(row[10]), dPersen = extractNumber(row[11]) || 0;
+          var hFinal = hDiskon > 0 ? Math.ceil(hDiskon / 1000) * 1000 : hNormal;
+          jenisData[key] = { optName: j, hargaNormal: hNormal, hargaFinal: hFinal, diskon: dPersen };
+        }
+      }
+    });
+  }
+  if(rawSilverFix.length < 4) return result;
+  for (var i = 3; i < rawSilverFix.length; i++) {
+    var row = rawSilverFix[i]; if (!row || row.length < 18) continue;
+    var namaSheet = (row[3] || '').toLowerCase(); if (!namaSheet.includes(baseName.toLowerCase())) continue;
+    var rowJenis = null; jenisList.forEach(function(j){ if (namaSheet.includes(j.toLowerCase())) rowJenis = j; });
+    var jKey = rowJenis ? normalize(rowJenis) : null, jData = jKey && jenisData[jKey] ? jenisData[jKey] : null;
+    var optNameJenis = rowJenis ? rowJenis.charAt(0).toUpperCase() + rowJenis.slice(1) : (namaSheet.split(' ')[1] || 'Varian');
+    var pNormalSilver = extractNumber(row[25]), finalNormal = 0, finalHarga = 0, finalDiskon = 0;
+    if (jData && jData.hargaFinal > 0) { finalNormal = jData.hargaNormal; finalHarga = jData.hargaFinal; finalDiskon = jData.diskon;
+    } else if (fallbackMetaPrice.final > 0) { finalNormal = fallbackMetaPrice.normal; finalHarga = fallbackMetaPrice.final; finalDiskon = fallbackMetaPrice.diskon;
+    } else { finalNormal = pNormalSilver; finalHarga = pNormalSilver; finalDiskon = 0; }
+    var mutiaraList = []; [11, 12, 13, 14].forEach(function(idx) { var val = (row[idx] || '').trim(); if (val) mutiaraList.push(val); }); if (mutiaraList.length === 0) mutiaraList = [null];
+    var rangkaList = []; if (extractNumber(row[15]) > 0) rangkaList.push("White"); if (extractNumber(row[16]) > 0) rangkaList.push("Yellow"); if (rangkaList.length === 0) rangkaList = [null];
+    var batuList = []; var batuRaw = (row[17] || '').trim(); if (batuRaw && batuRaw.includes(',')) { batuList = batuRaw.split(',').map(function(s) { return s.trim(); }); } else if (batuRaw) { batuList = [batuRaw]; } else { batuList = [null]; }
+    mutiaraList.forEach(function(m) { rangkaList.forEach(function(r) { batuList.forEach(function(b) {
+      var partsFormat = ["Jenis: " + optNameJenis]; if (m) partsFormat.push("Mutiara: " + m); if (r) partsFormat.push("Rangka: " + r); if (b) partsFormat.push("Batu: " + b);
+      var gabungan = partsFormat.join(' - ');
+      var partsKey = [optNameJenis]; if (m) partsKey.push(m); if (r) partsKey.push(r); if (b) partsKey.push(b);
+      var key = normalize(partsKey.join('-'));
+      if (!result[key]) { result[key] = { optName: gabungan, hargaNormal: finalNormal, hargaFinal: finalHarga, diskon: finalDiskon, jenis: optNameJenis, mutiara: m, rangka: r, batu: b }; }
+    }); }); });
+  }
+  return result;
+}
+
+window.vollaSelected = { jenis: null, mutiara: null, rangka: null, batu: null, fallback: null };
+
+function fetchAllData(callback){
+  function parseCSVRobust(str) {
+    var arr = []; var row = []; var col = ''; var inQ = false;
+    for (var i = 0; i < str.length; i++) {
+      var c = str[i];
+      if (inQ) { if (c === '"' && str[i+1] === '"') { col += '"'; i++; } else if (c === '"') { inQ = false; } else { col += c; }
+      } else { if (c === '"') { inQ = true; } else if (c === ',') { row.push(col.trim()); col = ''; } else if (c === '\n') { row.push(col.trim()); arr.push(row); col = ''; row = []; } else if (c !== '\r') { col += c; } }
+    }
+    row.push(col.trim()); arr.push(row); return arr;
+  }
+
+  Promise.all([
+    getSheetData(GID_META).catch(function(){ return ""; }),
+    getSheetData(GID_SHOPEE).catch(function(){ return ""; }),
+    getSheetData(GID_SILVER_FIX).catch(function(){ return ""; }),
+    fetch(VOUCHER_PUB_URL + "&t=" + Date.now()).then(function(r){ return r.text(); }).catch(function(){ return ""; }),
+    getSheetData(GID_MANUAL_VOUCHER).catch(function(){ return ""; })
+  ]).then(function(results) {
+    var data = {};
+    if(results[0]) rawMetaFeed = parseCSVRobust(results[0]);
+    if(results[2]) rawSilverFix = parseCSVRobust(results[2]);
+    if(results[3]) {
+      var vRows = parseCSVRobust(results[3]);
+      validSheetVouchers = {};
+      for(var k = 1; k < vRows.length; k++) {
+        var c20 = (vRows[k][1] || "").trim().toUpperCase();
+        var c30 = (vRows[k][2] || "").trim().toUpperCase();
+        if(c20) validSheetVouchers[c20] = 20;
+        if(c30) validSheetVouchers[c30] = 30;
+      }
+    }
+
+    ALL_VOUCHERS = {};
+    if(results[4]) {
+      var vmRows = parseCSVRobust(results[4]);
+      for(var m = 1; m < vmRows.length; m++) {
+        var code = (vmRows[m][0] || "").trim().toUpperCase();
+        var diskonNominal = extractNumber(vmRows[m][1]);
+        var minBelanja = extractNumber(vmRows[m][2]);
+        var maxDiskon = extractNumber(vmRows[m][3]);
+        var statusPakai = (vmRows[m][4] || "").trim().toUpperCase();
+        if(code && diskonNominal > 0 && !statusPakai.includes("TERPAKAI")) {
+          var type = diskonNominal <= 100 ? "percent" : "fixed";
+          ALL_VOUCHERS[code] = {
+            type: type,
+            value: diskonNominal,
+            minPurchase: minBelanja,
+            maxDiscount: type === "percent" && maxDiskon > 0 ? maxDiskon : null
+          };
+        }
+      }
+    }
+
+    if(rawMetaFeed.length > 0) {
+      for(var i = 1; i < rawMetaFeed.length; i++){
+        var cols = rawMetaFeed[i]; if(cols.length < 13) continue;
+        var title = cols[1] || ''; var hargaNormal = extractNumber(cols[3]); var hargaDiskon = extractNumber(cols[10]);
+        if (hargaDiskon > 0) { hargaDiskon = Math.ceil(hargaDiskon / 1000) * 1000; }
+        var diskonPersen = extractNumber(cols[11]); var hargaFinal = hargaDiskon > 0 ? hargaDiskon : hargaNormal;
+        if(!title || hargaFinal <= 0) continue;
+        var titleClean = title.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, ' ').trim(); var parts = titleClean.split(' '); var baseName = parts[0].toLowerCase(); var varName = (parts[1] || 'Default').toLowerCase();
+        var namaElegan = cleanFrontendTitle(title);
+        if(!data[baseName]) { data[baseName] = { id: baseName, namaUtama: namaElegan, desc: cols[2] || '', hargaNormal: hargaNormal, hargaDiskon: hargaDiskon, hargaFinal: hargaFinal, diskon: diskonPersen, label: "Pilih Varian:", variants: {}, fromShopee: false }; data[baseName.replace(/\s+/g, '')] = data[baseName]; }
+        if(hargaFinal < data[baseName].hargaFinal) { data[baseName].hargaNormal = hargaNormal; data[baseName].hargaDiskon = hargaDiskon; data[baseName].hargaFinal = hargaFinal; data[baseName].diskon = diskonPersen; }
+        data[baseName].variants[varName] = { nama: namaElegan, optName: varName.charAt(0).toUpperCase() + varName.slice(1), hargaNormal: hargaNormal, hargaDiskon: hargaDiskon, hargaFinal: hargaFinal, diskon: diskonPersen };
+      }
+    }
+
+    if(results[1]) {
+      var rowsS = parseCSVRobust(results[1]);
+      for(var j = 1; j < rowsS.length; j++){
+        var colsS = rowsS[j]; if(colsS.length < 16) continue;
+        var titleS = colsS[2] || ''; if(!titleS) continue;
+        var titleCleanS = titleS.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, ' ').trim(); var partsS = titleCleanS.split(' '); var baseNameS = partsS[0].toLowerCase();
+        if (data[baseNameS]) {
+          var labelVarian = colsS[15] || "Varian"; var optIndices = [14, 16, 18, 20, 22, 24, 26, 28]; var foundOptions = [];
+          optIndices.forEach(function(idx) { if (idx < colsS.length) { var val = colsS[idx] ? colsS[idx].replace(/^"|"$/g, '').trim() : ""; if (val && !val.startsWith('http')) { foundOptions.push(val); } } });
+          foundOptions = [...new Set(foundOptions)];
+          if (foundOptions.length > 0) {
+            if (!data[baseNameS].fromShopee) { data[baseNameS].variants = {}; data[baseNameS].fromShopee = true; if (labelVarian && labelVarian !== "Varian" && labelVarian !== "") { data[baseNameS].label = "Pilih " + labelVarian + ":"; } else { data[baseNameS].label = "Pilih Varian:"; } }
+            foundOptions.forEach(function(opt) {
+              var varKey = opt.toLowerCase(); var d = getVariationData(baseNameS, opt, titleS); var namaEleganS = cleanFrontendTitle(titleS);
+              data[baseNameS].variants[varKey] = { nama: namaEleganS, optName: opt, hargaNormal: d.normal, hargaDiskon: d.discount > 0 ? d.final : 0, hargaFinal: d.final, diskon: d.discount };
+            });
+          }
+        }
+      }
+    }
+    allProducts = data; callback(data);
+  }).catch(function(e){ callback({}); });
+}
+
+// ============================================
+// 5. FUNGSI UI / TAMPILAN WEBSITE
+// ============================================
+
+function initVariantSelection() {
+  var cartBtns = [];
+  document.querySelectorAll('.cta button.cart-add, .cta button.buy').forEach(function(el) {
+    var clone = el.cloneNode(true); clone.classList.remove('cart-add'); clone.classList.remove('buy'); clone.classList.add('volla-add-btn'); el.parentNode.replaceChild(clone, el);
+  });
+  document.querySelectorAll('.cta button.volla-add-btn').forEach(function(el) { cartBtns.push(el); });
+
+  var oldUI = document.getElementById('volla-variant-ui'); if (oldUI) oldUI.remove();
+
+  if (!currentProduct || !currentProduct.variants || Object.keys(currentProduct.variants).length === 0) {
+    cartBtns.forEach(function(cb) { cb.style.pointerEvents = 'auto'; cb.style.opacity = '1'; cb.innerHTML = '<div style="display:flex; align-items:center; justify-content:center;">' + CART_ICON + '<span style="margin-left:8px;">+ Tambahkan</span></div>'; });
+    return;
+  }
+
+  var variants = currentProduct.variants; var optionsKeys = Object.keys(variants);
+  var isMultiLevel = false; if (optionsKeys.length > 0 && variants[optionsKeys[0]].jenis) { isMultiLevel = true; }
+  window.vollaSelected = { jenis: null, mutiara: null, rangka: null, batu: null, fallback: null };
+
+  if (cartBtns.length > 0) {
+    var parent = cartBtns[0].parentElement; parent.style.display = 'flex'; parent.style.flexWrap = 'wrap'; parent.style.gap = '15px 10px'; parent.style.alignItems = 'stretch';
+    Array.from(parent.children).forEach(function(child) {
+      if (child.tagName !== 'STYLE' && child.tagName !== 'SCRIPT' && !child.classList.contains('hide') && child.id !== 'volla-variant-ui') {
+        child.style.order = '2'; child.style.margin = '0';
+        if (child.classList.contains('volla-add-btn')) { child.style.flex = '9'; }
+        else { child.style.flex = '1'; child.style.setProperty('display', 'flex', 'important'); child.style.setProperty('align-items', 'center', 'important'); child.style.setProperty('justify-content', 'center', 'important'); child.style.setProperty('min-width', '50px', 'important'); child.style.setProperty('max-width', '65px', 'important'); }
+      }
+    });
+
+    if (optionsKeys.length <= 1) {
+      var singleData = variants[optionsKeys[0]]; updateDisplayAndCart(singleData, singleData.optName || optionsKeys[0]); return;
+    }
+
+    var uiContainer = document.createElement('div'); uiContainer.id = 'volla-variant-ui'; uiContainer.style.cssText = 'margin:0 0 15px 0; padding:0; width:100%; flex:0 0 100%; order:1;';
+
+    function renderLevel(label, list, key) {
+      var cleanList = list.filter(function(x) { return x && x.trim() !== ''; });
+      if (cleanList.length <= 1) { if(cleanList.length === 1) window.vollaSelected[key] = cleanList[0]; return; }
+      var group = document.createElement('div'); group.innerHTML = '<div style="font-weight:600; font-size:14px; margin:10px 0 5px; color:#333;">' + label + '</div>';
+      var btnWrap = document.createElement('div'); btnWrap.style.display = 'flex'; btnWrap.style.flexWrap = 'wrap'; btnWrap.style.gap = '8px';
+
+      cleanList.forEach(function(val) {
+        var btn = document.createElement('div'); btn.innerText = val; btn.className = 'variant-btn-' + key;
+        btn.style.cssText = 'padding:8px 16px; border:1px solid #ccc; border-radius:4px; cursor:pointer; font-size:13px; background:#fff; color:#333; transition:0.2s;';
+        btn.onclick = function() {
+          var isAlreadySelected = (window.vollaSelected[key] === val);
+          if (isAlreadySelected) {
+            window.vollaSelected[key] = null; btn.classList.remove('active-variant'); btn.style.borderColor = '#ccc'; btn.style.color = '#333'; btn.style.background = '#fff';
+          } else {
+            window.vollaSelected[key] = val;
+            var validVariants = Object.values(variants);
+            var stillValid = validVariants.some(function(v) { return (!window.vollaSelected.jenis || v.jenis === window.vollaSelected.jenis) && (!window.vollaSelected.mutiara || v.mutiara === window.vollaSelected.mutiara) && (!window.vollaSelected.rangka || v.rangka === window.vollaSelected.rangka) && (!window.vollaSelected.batu || v.batu === window.vollaSelected.batu); });
+            if (!stillValid) { window.vollaSelected = { jenis: null, mutiara: null, rangka: null, batu: null, fallback: null }; window.vollaSelected[key] = val; document.querySelectorAll('[class^="variant-btn-"]').forEach(function(b) { b.classList.remove('active-variant'); b.style.borderColor = '#ccc'; b.style.color = '#333'; b.style.background = '#fff'; });
+            } else { group.querySelectorAll('.variant-btn-' + key).forEach(function(b) { b.classList.remove('active-variant'); b.style.borderColor = '#ccc'; b.style.color = '#333'; b.style.background = '#fff'; }); }
+            btn.style.borderColor = VOLLA_COLOR; btn.style.color = VOLLA_COLOR; btn.classList.add('active-variant');
+          } validateSelection();
+        }; btnWrap.appendChild(btn);
+      }); group.appendChild(btnWrap); uiContainer.appendChild(group);
+    }
+
+    var options = extractVariantOptions(variants);
+    if (isMultiLevel) { renderLevel("Pilih Jenis", options.jenis, "jenis"); renderLevel("Warna Mutiara", options.mutiara, "mutiara"); renderLevel("Warna Rangka", options.rangka, "rangka"); renderLevel("Jenis Batu", options.batu, "batu");
+    } else { var fallbackOptions = []; optionsKeys.forEach(function(k) { fallbackOptions.push(variants[k].optName || k); }); renderLevel(currentProduct.label || "Pilih Varian", fallbackOptions, "fallback"); }
+
+    parent.insertBefore(uiContainer, cartBtns[0]);
+
+    function validateSelection() {
+      var sel = window.vollaSelected, found = null, validVariants = Object.values(variants);
+      if (isMultiLevel) {
+        ['jenis', 'mutiara', 'rangka', 'batu'].forEach(function(cat) {
+          var btns = document.querySelectorAll('.variant-btn-' + cat);
+          btns.forEach(function(btn) {
+            var val = btn.innerText.trim();
+            var isPossible = validVariants.some(function(v) {
+              var matchOther = true;
+              if (cat !== 'jenis' && sel.jenis && v.jenis !== sel.jenis) matchOther = false;
+              if (cat !== 'mutiara' && sel.mutiara && v.mutiara !== sel.mutiara) matchOther = false;
+              if (cat !== 'rangka' && sel.rangka && v.rangka !== sel.rangka) matchOther = false;
+              if (cat !== 'batu' && sel.batu && v.batu !== sel.batu) matchOther = false;
+              return matchOther && v[cat] === val;
+            });
+            if (!isPossible) {
+              btn.style.display = 'inline-block'; btn.style.opacity = '0.4'; btn.style.pointerEvents = 'none'; btn.style.background = '#f9f9f9'; btn.style.color = '#aaa'; btn.style.borderColor = '#eee';
+              if (sel[cat] === val) { sel[cat] = null; btn.classList.remove('active-variant'); }
+            } else {
+              btn.style.display = 'inline-block'; btn.style.opacity = '1'; btn.style.pointerEvents = 'auto'; btn.style.color = btn.classList.contains('active-variant') ? VOLLA_COLOR : '#333'; btn.style.background = '#fff';
+              if (!btn.classList.contains('active-variant')) btn.style.borderColor = '#ccc';
+            }
+          });
+          var groupDiv = btns.length > 0 ? btns[0].parentElement.parentElement : null; if (groupDiv) groupDiv.style.display = 'block';
+        });
+        var matches = validVariants.filter(function(v) { return (!sel.jenis || v.jenis === sel.jenis) && (!sel.mutiara || v.mutiara === sel.mutiara) && (!sel.rangka || v.rangka === sel.rangka) && (!sel.batu || v.batu === sel.batu); });
+        if (matches.length === 1) {
+          var m = matches[0], isComplete = true;
+          if (m.jenis && !sel.jenis) isComplete = false; if (m.mutiara && !sel.mutiara) isComplete = false; if (m.rangka && !sel.rangka) isComplete = false; if (m.batu && !sel.batu) isComplete = false;
+          if (isComplete) found = m;
+        }
+      } else {
+        var isComplete = !!sel.fallback;
+        if (isComplete) { var foundKey = Object.keys(variants).find(function(k) { return variants[k].optName === sel.fallback || k === sel.fallback; }); found = foundKey ? variants[foundKey] : null; }
+      }
+
+      if (found) { updateDisplayAndCart(found, found.optName);
+      } else {
+        cartBtns.forEach(function(btn) { btn.style.pointerEvents = 'none'; btn.style.opacity = '0.5'; btn.style.setProperty('background', 'var(--key)', 'important'); btn.innerHTML = '<span style="margin-left:8px;">Pilih Detail Dulu</span>'; });
+        var priceDisplay = document.querySelector('.is_single article.is_post .price, .price, .product-price');
+        if (priceDisplay && currentProduct && currentProduct.hargaFinal) priceDisplay.innerHTML = '<b style="color:' + VOLLA_COLOR + ';">' + formatRupiah(currentProduct.hargaFinal) + '</b>';
+      }
+    }
+
+    function updateDisplayAndCart(finalData, variantName) {
+      var priceDisplay = document.querySelector('.is_single article.is_post .price, .price, .product-price');
+      var pageTitleEl = document.querySelector('h1.post-title, h1.product-title, .post-title h1, .product-title h1, h1[itemprop="name"], h1');
+      var finalTitle = pageTitleEl ? pageTitleEl.innerText.trim() : currentProduct.namaUtama;
+
+      if (priceDisplay) {
+        var html = '', hNormal = finalData.hargaNormal || 0, hFinal = finalData.hargaFinal || hNormal, dPersen = finalData.diskon || 0;
+        if(hNormal > hFinal){ html = '<s style="opacity:0.6; font-size:0.9em; margin-right:10px;">' + formatRupiah(hNormal) + '</s><b style="color:' + VOLLA_COLOR + ';">' + formatRupiah(hFinal) + '</b>'; if(dPersen > 0) html += ' <small style="background:#ee4d2d; color:white; padding:2px 8px; border-radius:4px; margin-left:10px;">-' + dPersen + '%</small>';
+        } else { html = '<b style="color:' + VOLLA_COLOR + ';">' + formatRupiah(hFinal) + '</b>'; }
+        priceDisplay.innerHTML = html;
+        priceDisplay.setAttribute('data-harga-final', hFinal); priceDisplay.setAttribute('data-harga-normal', hNormal); priceDisplay.setAttribute('data-nama-final', finalTitle); priceDisplay.setAttribute('data-varian-final', variantName);
+      }
+      var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'), baseId = currentProduct.id || window.location.pathname.replace(/[\/\.]/g, '-'), checkId = baseId + (variantName ? '-' + normalize(variantName) : ''), isAdded = cart.items.some(function(it){ return it.id === checkId; });
+      cartBtns.forEach(function(cb) { cb.style.pointerEvents = 'auto'; cb.style.opacity = '1'; if(isAdded){ cb.style.setProperty('background', '#27ae60', 'important'); } else { cb.style.setProperty('background', 'var(--key)', 'important'); } cb.innerHTML = '<div style="display:flex; align-items:center; justify-content:center;">' + (isAdded ? '✓<span style="margin-left:8px;">Di Keranjang</span>' : CART_ICON + '<span style="margin-left:8px;">+ Tambahkan</span>') + '</div>'; });
+    }
+    validateSelection();
+  }
+}
+
+function updateIndexPrices(produkData){
+  if(!produkData || Object.keys(produkData).length === 0) return;
+  document.querySelectorAll('.product, .item, article, li, .related-post-item, .post, .card, .grid-item').forEach(function(container) {
+    var titleEl = container.querySelector('.title, h2, h3, h4, .post-title, .product-title');
+    if (!titleEl) { var links = container.querySelectorAll('a'); for (var i = 0; i < links.length; i++) { if (links[i].innerText.trim().length > 3) { titleEl = links[i]; break; } } }
+    if (titleEl) {
+      var fullTitle = titleEl.innerText || "", keyword = fullTitle.toLowerCase().replace(/[^\w\s]/g, '').split(' ')[0].trim(), data = produkData[keyword] || produkData[keyword.replace(/\s+/g, '')];
+      if (data) {
+        var priceEls = container.querySelectorAll('.price, .product-price, .item-price, .harga');
+        priceEls.forEach(function(priceEl) {
+          if (priceEl.getAttribute("data-auto-price") === "true" && !priceEl.innerText.includes('NaN')) return;
+          var hNormal = data.hargaNormal, hDiskon = data.hargaDiskon, hFinal = data.hargaFinal, dPersen = data.diskon, isSet = fullTitle.toLowerCase().includes('set'), spec = getVariationData(keyword, '', fullTitle);
+          if (!isSet && spec.normal > 0) { hNormal = spec.normal; hFinal = spec.final; hDiskon = spec.discount > 0 ? spec.final : 0; dPersen = spec.discount; }
+          var html = '';
+          if(hDiskon > 0 && hNormal > hDiskon){ html = '<s style="opacity:0.6; font-size:0.85em; margin-right:8px;">' + formatRupiah(hNormal) + '</s><b style="color:' + VOLLA_COLOR + ';">' + formatRupiah(hDiskon) + '</b>'; if(dPersen > 0) html += ' <small style="background:#ee4d2d; color:white; padding:2px 6px; border-radius:4px; margin-left:8px; font-size:0.75em;">-' + dPersen + '%</small>';
+          } else { html = '<b style="color:' + VOLLA_COLOR + ';">' + formatRupiah(hFinal) + '</b>'; }
+          priceEl.innerHTML = html; priceEl.setAttribute("data-auto-price", "true");
+        });
+      }
+    }
+  });
+}
+
+function updateSingleProduct(data){
+  currentProduct = data; var baseName = data.id, silverFixVariants = buildVariantMatrixFromSilverFix(baseName);
+  if (Object.keys(silverFixVariants).length > 0) { currentProduct.variants = silverFixVariants; } else { currentProduct.variants = data.variants || {}; }
+  var pageTitleEl = document.querySelector('h1.post-title, h1.product-title, .post-title h1, .product-title h1, h1[itemprop="name"], h1'), pageTitle = pageTitleEl ? pageTitleEl.innerText.trim() : document.title, spec = getVariationData(data.id, '', pageTitle);
+  if(spec.normal > 0) { currentProduct.hargaNormal = spec.normal; currentProduct.hargaFinal = spec.final; currentProduct.hargaDiskon = spec.discount > 0 ? spec.final : 0; currentProduct.diskon = spec.discount; }
+  var target = document.querySelector(".post-body, .entry-content");
+  if(target && data.desc){
+    var savedElements = []; target.querySelectorAll('table.variant, table.image').forEach(function(el){ if(el.classList.contains('image') || el.querySelector('td[data-id]')) { savedElements.push(el.cloneNode(true)); } });
+    target.innerHTML = data.desc.replace(/\n/g, '<br>').replace(/\. /g, '.<br><br>'); savedElements.forEach(function(el){ target.appendChild(el); });
+  }
+  var priceEl = document.querySelector('.is_single article.is_post .price, .price, .product-price');
+  if(priceEl){
+    var html = '';
+    if(data.hargaDiskon > 0 && data.hargaNormal > data.hargaDiskon){ html = '<s style="opacity:0.6; font-size:0.9em; margin-right:10px;">' + formatRupiah(data.hargaNormal) + '</s><b style="color:' + VOLLA_COLOR + ';">' + formatRupiah(data.hargaDiskon) + '</b>'; if(data.diskon > 0) html += ' <small style="background:#ee4d2d; color:white; padding:2px 8px; border-radius:4px; margin-left:10px;">-' + data.diskon + '%</small>'; priceEl.innerHTML = html; priceEl.setAttribute('data-harga-final', data.hargaDiskon); priceEl.setAttribute('data-harga-normal', data.hargaNormal); } else { priceEl.innerHTML = '<b style="color:' + VOLLA_COLOR + ';">' + formatRupiah(data.hargaFinal) + '</b>'; priceEl.setAttribute('data-harga-final', data.hargaFinal); priceEl.setAttribute('data-harga-normal', data.hargaNormal); }
+  }
+  setTimeout(function() { initVariantSelection(); }, 300);
+}
+
+// ============================================
+// 6. FUNGSI KERANJANG BELANJA (CART)
+// ============================================
+
+function buildCartUI(){
+  var html = '<div class="volla-modal-content"><div style="background:#fff; padding:14px 16px; display:flex; align-items:center; gap:12px; box-shadow:0 1px 2px rgba(0,0,0,0.05); z-index:10;"><button id="close-cart-modal" style="border:none; background:none; font-size:24px; cursor:pointer; padding:0; color:#333;">&#8592;</button><div style="font-weight:600; font-size:16px; flex:1; color:#333;">Halaman Checkout <span id="cart-item-count-mobile" style="color:#888; font-weight:normal; font-size:14px;"></span></div><button id="close-cart-modal-x" style="border:none; background:none; font-size:20px; font-weight:bold; cursor:pointer; color:#999; padding:0;">✕</button></div><div class="volla-scroll-area"><div class="volla-card"><div class="volla-card-title"><span style="color:#ee4d2d; font-size:16px;">📍</span> Alamat Pengiriman</div><input type="text" id="form-nama" class="volla-input-modern" placeholder="Nama Lengkap Penerima" value=""><input type="tel" id="form-hp" class="volla-input-modern" placeholder="No. Telepon / WhatsApp" value=""><textarea id="form-alamat" class="volla-input-modern" placeholder="Detail Alamat (Nama Jalan, No. Rumah, RT/RW)" rows="2" style="resize:vertical;"></textarea><div style="position:relative; margin-top:4px;"><input type="text" id="ship-search" class="volla-input-modern" placeholder="Kelurahan (contoh: Kemayoran)" autocomplete="off"><div id="ship-results" style="position:absolute; top:100%; left:0; width:100%; background:#fff; border:1px solid #ddd; border-radius:0 0 8px 8px; max-height:160px; overflow-y:auto; z-index:99; display:none; box-shadow:0 4px 6px rgba(0,0,0,0.1);"></div></div><div id="ship-loader" class="ship-loading">Mencari lokasi...</div><div id="ship-info-box" style="margin-top:12px; display:none; padding:10px; background:#fff5f5; border:1px solid #fadbd8; border-radius:8px; font-size:12px; color:#e74c3c;"></div></div><div class="volla-card"><div class="volla-card-title"><span style="color:#ee4d2d; font-size:16px;">📦</span> Detail Produk</div><div id="cart-items-section"></div></div><div class="volla-card"><div class="volla-card-title"><span style="color:#ee4d2d; font-size:16px;">🎟️</span> Voucher / Promo</div><div id="voucher-chip-list" style="display:flex; gap:8px; overflow-x:auto; padding-bottom:8px; margin-bottom:8px;"></div><div style="display:flex; gap:8px; align-items:center;"><input type="text" id="voucher-input" class="volla-input-modern" placeholder="Masukkan Kode Voucher" style="flex:1; padding:8px 0;"><button id="apply-voucher-btn" style="background:#f5f5f5; border:1px solid #ddd; padding:8px 16px; border-radius:6px; font-weight:600; cursor:pointer; color:#333; height:fit-content;">Pakai</button></div><div id="voucher-message" style="font-size:12px; margin-top:6px;"></div><div id="active-voucher-info" style="display:none; margin-top:12px; padding:10px; background:#e8edf5; border-radius:8px; border-left:4px solid #1a2b4c;"><div style="display:flex; justify-content:space-between; align-items:center;"><div><span style="font-weight:600; color:#1a2b4c;" id="active-voucher-code"></span><div id="active-voucher-desc" style="color:#666; font-size:12px; margin-top:2px;"></div></div><button onclick="window.removeVoucher()" style="background:none; border:none; color:#e74c3c; font-size:12px; font-weight:bold; cursor:pointer;">Hapus</button></div></div></div><div class="volla-card"><div class="volla-card-title"><span style="color:#ee4d2d; font-size:16px;">🧾</span> Rincian Pembayaran</div><div style="display:flex; justify-content:space-between; margin-bottom:8px; font-size:13px; color:#555;"><span>Subtotal Produk</span><span id="cart-total-normal">Rp0</span></div><div style="display:flex; justify-content:space-between; margin-bottom:8px; font-size:13px; color:#555;"><span>Diskon Produk</span><span id="cart-total-diskon" style="color:#ee4d2d;">-Rp0</span></div><div id="voucher-discount-row" style="display:none; justify-content:space-between; margin-bottom:8px; font-size:13px; color:#555;"><span>Diskon Voucher</span><span id="voucher-discount-amount" style="color:#ee4d2d;">-Rp0</span></div><div style="display:flex; justify-content:space-between; margin-bottom:8px; font-size:13px; color:#555;"><span id="shipping-name-display">Ongkos Kirim</span><span id="shipping-cost">Rp0</span></div><div style="display:flex; justify-content:space-between; margin-bottom:8px; font-size:13px; color:#555;"><span>Kode Unik</span><span id="kode-unik-amount" style="color:#27ae60;">Rp0</span></div></div></div><div class="volla-sticky-bottom"><div style="display:flex; align-items:center; gap:8px;"><label style="display:flex; align-items:center; gap:6px; cursor:pointer; margin:0;"><input type="checkbox" id="select-all-cart" style="accent-color:#1a2b4c; width:18px; height:18px; cursor:pointer;"> <span style="font-size:13px; color:#555; font-weight:500;">Semua</span></label><button id="delete-selected-btn" style="color:#ee4d2d; background:none; border:none; font-size:13px; font-weight:600; cursor:pointer; padding:4px;">Hapus</button></div><div style="display:flex; align-items:center; gap:12px;"><div style="text-align:right;"><div style="font-size:11px; color:#666;">Total Pembayaran</div><div id="cart-total" style="font-size:16px; font-weight:700; color:#1a2b4c;">Rp0</div></div><button id="checkout-btn" style="background:#1a2b4c; color:#fff; border:none; border-radius:6px; padding:10px 6px; font-weight:600; font-size:13px; cursor:pointer; box-shadow:0 2px 6px rgba(238,77,45,0.3);">Checkout (<span id="selected-count">0</span>)</button></div></div><div id="empty-cart-state" style="display:none; flex:1; flex-direction:column; align-items:center; justify-content:center; background:#fff; text-align:center;"><div style="font-size:64px; margin-bottom:16px; opacity:0.8;">🛒</div><h3 style="color:#333; margin-bottom:8px; font-size:18px;">Keranjang Kosong</h3><p style="color:#888; font-size:14px; margin-bottom:24px;">Pilih produk cantikmu dulu yuk!</p><button id="start-shopping-btn" style="background:#1a2b4c; color:#fff; border:none; border-radius:24px; padding:12px 32px; font-weight:600; font-size:14px; cursor:pointer; box-shadow:0 4px 10px rgba(26,43,76,0.2);">Mulai Belanja</button></div></div>';
+  return html;
+}
+
+function initCart(){
+  if(cartInitialized) return; cartInitialized = true;
+
+  var btn = document.createElement('div'); btn.id = 'custom-cart-btn';
+  btn.style.cssText = 'position:fixed; bottom:20px; right:20px; width:56px; height:56px; background:transparent; z-index:9999; display:flex; align-items:center; justify-content:center; cursor:pointer; transition:transform 0.2s ease;';
+  btn.innerHTML = '<span style="position:absolute; top:2px; right:0px; background:#ee4d2d; color:white; border-radius:50%; min-width:18px; height:18px; display:flex; align-items:center; justify-content:center; font-size:10px; font-weight:700; border:1px solid #fff;" id="custom-cart-count">0</span><svg width="24" height="24" viewBox="0 0 24 24" fill="' + VOLLA_COLOR + '"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/></svg>';
+  document.body.appendChild(btn);
+
+  var moveAttempts = 0;
+  var moveCartInterval = setInterval(function() {
+    moveAttempts++;
+    var oldCart = document.querySelector('.cart-button, #cart-btn, .cart-btn-head, .cart-icon, .header-cart');
+    var searchIcon = document.querySelector('.show-search, .search-icon, .header-search, .search-button, .search-toggle');
+    var headerRight = document.querySelector('.header-right, .header-action, .top-right');
+    var targetEl = oldCart || searchIcon;
+    if (targetEl && targetEl.parentNode) {
+      btn.style.position = 'relative'; btn.style.bottom = 'auto'; btn.style.right = 'auto'; btn.style.width = '38px'; btn.style.height = '38px'; btn.style.margin = '12px 20px 0 10px'; btn.style.boxShadow = 'none'; btn.style.flexShrink = '0'; btn.style.display = 'inline-flex'; btn.style.verticalAlign = 'middle';
+      var svg = btn.querySelector('svg'); if(svg) { svg.setAttribute('width', '24'); svg.setAttribute('height', '24'); }
+      var count = document.getElementById('custom-cart-count'); if(count) { count.style.minWidth = '16px'; count.style.height = '16px'; count.style.fontSize = '9px'; count.style.top = '2px'; count.style.right = '0px'; }
+      targetEl.parentNode.insertBefore(btn, targetEl.nextSibling); clearInterval(moveCartInterval);
+    } else if (headerRight) {
+      btn.style.position = 'relative'; btn.style.bottom = 'auto'; btn.style.right = 'auto'; btn.style.width = '38px'; btn.style.height = '38px'; btn.style.margin = '12px 20px 0 10px'; btn.style.boxShadow = 'none'; btn.style.flexShrink = '0'; btn.style.display = 'inline-flex'; btn.style.verticalAlign = 'middle';
+      var svg = btn.querySelector('svg'); if(svg) { svg.setAttribute('width', '24'); svg.setAttribute('height', '24'); }
+      var count = document.getElementById('custom-cart-count'); if(count) { count.style.minWidth = '16px'; count.style.height = '16px'; count.style.fontSize = '9px'; count.style.top = '2px'; count.style.right = '0px'; }
+      headerRight.appendChild(btn); clearInterval(moveCartInterval);
+    }
+    if (moveAttempts > 15) clearInterval(moveCartInterval);
+  }, 400);
+
+  var isMobile = window.innerWidth <= 768; var modal = document.createElement('div'); modal.id = 'cart-modal'; modal.style.cssText = 'position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); z-index:999; display:none; align-items:center; justify-content:center;'; var modalContent = document.createElement('div'); modalContent.style.cssText = isMobile ? 'width:100%; height:100%; background:white; overflow:hidden;' : 'width:480px; max-width:95%; height:100vh; max-height:100vh; background:white; overflow:hidden; display:flex; flex-direction:column; margin:0;'; modalContent.innerHTML = buildCartUI(); modal.appendChild(modalContent); document.body.appendChild(modal);
+
+  function openCart(){
+    modal.style.display = 'flex'; document.body.style.overflow = 'hidden'; document.documentElement.style.overflow = 'hidden';
+    var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}');
+    toggleEmptyState(cart);
+    updateCartCount(cart);
+    if(cart.items.length > 0){
+      document.getElementById('form-nama').value = formData.nama;
+      document.getElementById('form-alamat').value = formData.alamat;
+      document.getElementById('form-hp').value = formData.hp;
+      renderCart();
+    }
+  }
+  function closeCart(){ var namaEl = document.getElementById('form-nama'); if(namaEl) formData.nama = namaEl.value; var alamatEl = document.getElementById('form-alamat'); if(alamatEl) formData.alamat = alamatEl.value; var hpEl = document.getElementById('form-hp'); if(hpEl) formData.hp = hpEl.value; modal.style.display = 'none'; document.body.style.overflow = ''; document.documentElement.style.overflow = ''; }
+
+  modal.addEventListener('click', function(e){ if(e.target === modal) closeCart(); });
+  btn.addEventListener('click', openCart);
+  var closeBtnLeft = document.getElementById('close-cart-modal'); if(closeBtnLeft) closeBtnLeft.addEventListener('click', closeCart);
+  var closeBtnRight = document.getElementById('close-cart-modal-x'); if(closeBtnRight) closeBtnRight.addEventListener('click', closeCart);
+  var startBtn = document.getElementById('start-shopping-btn'); if(startBtn) startBtn.addEventListener('click', closeCart);
+
+  document.getElementById('ship-search').addEventListener('input', function(e) {
+    var val = e.target.value; var resDiv = document.getElementById('ship-results');
+    if(val.length < 3) { resDiv.style.display = 'none'; return; }
+    clearTimeout(window.searchTimeout);
+    window.searchTimeout = setTimeout(function() {
+      document.getElementById('ship-loader').innerText = 'Mencari lokasi...'; document.getElementById('ship-loader').style.display = 'block';
+      fetch(RAJAONGKIR_URL + '?action=search&keyword=' + encodeURIComponent(val)).then(function(r){ return r.json(); }).then(function(data) {
+        document.getElementById('ship-loader').style.display = 'none';
+        if(data.data && data.data.length > 0) {
+          var html = ''; data.data.forEach(function(loc) { html += '<div class="loc-item" onclick="window.selectLocation(\'' + loc.id + '\', \'' + loc.label.replace(/'/g, "\\'") + '\')" style="padding:10px 12px; border-bottom:1px solid #eee; cursor:pointer; font-size:12px; line-height:1.4; color:#333;">' + loc.label + '</div>'; });
+          resDiv.innerHTML = html; resDiv.style.display = 'block';
+        } else { resDiv.innerHTML = '<div style="padding:10px; font-size:12px; color:#999; text-align:center;">Lokasi tidak ditemukan</div>'; resDiv.style.display = 'block'; }
+      }).catch(function() { document.getElementById('ship-loader').style.display = 'none'; });
+    }, 800);
+  });
+
+  window.selectLocation = function(id, label) {
+    document.getElementById('ship-search').value = label; document.getElementById('ship-results').style.display = 'none'; document.getElementById('ship-loader').innerText = 'Menghitung Ongkir JNE REG...'; document.getElementById('ship-loader').style.display = 'block'; document.getElementById('ship-info-box').style.display = 'none'; activeShipping.locationLabel = label;
+    fetch(RAJAONGKIR_URL + '?action=cost&destination=' + id).then(function(r){ return r.json(); }).then(function(data) {
+      document.getElementById('ship-loader').style.display = 'none';
+      if(data.data && data.data.length > 0) {
+        var reg = data.data.find(function(c){ return c.service.toUpperCase().includes("REG") || c.service.toUpperCase().includes("EZ"); }); if(!reg) reg = data.data[0];
+        activeShipping.cost = reg.cost;
+        activeShipping.selected = true;
+        document.getElementById('ship-info-box').innerHTML = 'JNE ' + reg.service + ': ' + formatRupiah(reg.cost) + '<br><small style="color:#333;">Estimasi waktu tiba: ' + reg.etd + ' hari kerja</small>'; document.getElementById('ship-info-box').style.display = 'block';
+        var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'); updateSummary(cart);
+      } else { alert("Ongkir JNE ke lokasi ini belum tersedia di sistem. Coba pilih lokasi yang lebih umum."); }
+    }).catch(function() { document.getElementById('ship-loader').style.display = 'none'; alert("Gagal menghitung ongkir."); });
+  };
+
+  document.addEventListener('click', function(e) { var resDiv = document.getElementById('ship-results'); if(resDiv && e.target.id !== 'ship-search' && !resDiv.contains(e.target)) { resDiv.style.display = 'none'; } });
+
+  function toggleEmptyState(cart){
+    var scrollArea = document.querySelector('.volla-scroll-area'), stickyBottom = document.querySelector('.volla-sticky-bottom'), emptyState = document.getElementById('empty-cart-state');
+    if(cart && cart.items && cart.items.length === 0){
+      if(scrollArea) scrollArea.style.setProperty('display', 'none', 'important');
+      if(stickyBottom) stickyBottom.style.setProperty('display', 'none', 'important');
+      if(emptyState) emptyState.style.setProperty('display', 'flex', 'important');
+    } else {
+      if(scrollArea) scrollArea.style.setProperty('display', 'block', 'important');
+      if(stickyBottom) stickyBottom.style.setProperty('display', 'flex', 'important');
+      if(emptyState) emptyState.style.setProperty('display', 'none', 'important');
+    }
+  }
+
+  function renderCart(){
+    var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}');
+    toggleEmptyState(cart); updateCartCount(cart); if(cart.items.length === 0) return;
+    var container = document.getElementById('cart-items-section');
+    cart.items.forEach(function(item) { if(selectedItems[item.id] === undefined) selectedItems[item.id] = true; });
+    var html = '';
+    for(var i = 0; i < cart.items.length; i++){
+      var item = cart.items[i]; item.price = parseInt(item.price) || 0; item.qty = parseInt(item.qty) || 1;
+      var hargaNormal = item.hargaNormal || item.price, adaDiskon = hargaNormal > item.price;
+      var img = item.image || 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg181NKy2wqqqz9obS6i7dbVBbHq0A1bwoaGUxJhcpnfFmDNKZRkHBgscfe9k9nKdtkFAdVaheKaCnl2f3oHKxavk5pPAbUY6-fAw5BgR32pQCQrzjdHD6P5zrnk1eknGY82TzVUj6gtpH0/w100-c-h100/no-image-icon.png';
+      var checked = selectedItems[item.id] ? 'checked' : '', variantDisplay = item.variant;
+      if(variantDisplay && !variantDisplay.includes('Jenis:')) { variantDisplay = 'Varian: ' + variantDisplay; }
+      var variantHtml = item.variant ? '<div style="font-size:11px; color:#333; background:#f5f5f5; padding:4px 8px; border-radius:4px; display:inline-block; margin-top:4px;">' + variantDisplay + '</div>' : '';
+      var itemLink = item.link || 'javascript:void(0);';
+      html += '<div class="volla-cart-item"><input type="checkbox" class="cart-item-checkbox" data-id="' + item.id + '" ' + checked + ' style="width:18px; height:18px; accent-color:#1a2b4c; margin-top:28px; cursor:pointer;"><a href="' + itemLink + '" style="display:block;"><img src="' + img + '" class="volla-cart-img"></a><div style="flex:1; min-width:0; display:flex; flex-direction:column; justify-content:space-between;"><div><a href="' + itemLink + '" style="font-size:13px; font-weight:600; color:#333; text-decoration:none; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; line-height:1.4;">' + item.name + '</a>' + variantHtml + '</div><div style="display:flex; justify-content:space-between; align-items:flex-end;"><div>';
+      if(adaDiskon) { html += '<div style="font-size:11px; color:#999; text-decoration:line-through;">' + formatRupiah(hargaNormal) + '</div><div style="font-size:14px; font-weight:700; color:#ee4d2d;">' + formatRupiah(item.price) + '</div>';
+      } else { html += '<div style="font-size:14px; font-weight:700; color:#ee4d2d;">' + formatRupiah(item.price) + '</div>'; }
+      html += '</div><div style="display:flex; align-items:center; border:1px solid #e0e0e0; border-radius:4px; overflow:hidden;"><button onclick="window.updateCartQty(\'' + item.id + '\', ' + (item.qty - 1) + ')" class="volla-qty-btn">−</button><span style="width:32px; text-align:center; font-size:13px; color:#333; font-weight:500;">' + item.qty + '</span><button onclick="window.updateCartQty(\'' + item.id + '\', ' + (item.qty + 1) + ')" class="volla-qty-btn">+</button></div></div></div></div>';
+    }
+    container.innerHTML = html;
+    updateSelectAll();
+    updateSummary(cart);
+  }
+
+  document.getElementById('cart-items-section').addEventListener('change', function(e) {
+    if (e.target.classList.contains('cart-item-checkbox')) {
+      var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}');
+      selectedItems[e.target.dataset.id] = e.target.checked;
+      updateSelectAll();
+      updateSummary(cart);
+    }
+  });
+
+  document.getElementById('select-all-cart').addEventListener('change', function() {
+    var checked = this.checked;
+    var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}');
+    document.querySelectorAll('.cart-item-checkbox').forEach(function(cb) {
+      cb.checked = checked;
+      selectedItems[cb.dataset.id] = checked;
+    });
+    updateSelectAll();
+    updateSummary(cart);
+  });
+
+  function updateSelectAll(){ var all = document.querySelectorAll('.cart-item-checkbox'), checked = document.querySelectorAll('.cart-item-checkbox:checked'), selectAll = document.getElementById('select-all-cart'), delBtn = document.getElementById('delete-selected-btn'); if(selectAll && all.length > 0){ selectAll.checked = all.length === checked.length; selectAll.indeterminate = checked.length > 0 && all.length !== checked.length; } if(delBtn) { delBtn.style.display = checked.length > 0 ? 'block' : 'none'; } }
+
+  function updateSummary(cart){
+    var subtotal = 0, totalNormal = 0, totalDiskon = 0, selectedCount = 0;
+    for(var i = 0; i < cart.items.length; i++){ var item = cart.items[i]; item.price = parseInt(item.price) || 0; item.qty = parseInt(item.qty) || 1; if(selectedItems[item.id]){ subtotal += item.price * item.qty; var normal = parseInt(item.hargaNormal) || item.price; totalNormal += normal * item.qty; totalDiskon += (normal - item.price) * item.qty; selectedCount++; } }
+    var voucherDiscount = 0; if(activeVoucher){ voucherDiscount = calculateVoucherDiscount(subtotal, activeVoucher); if(voucherDiscount === -1){ voucherDiscount = 0; activeVoucher = null; } }
+    var finalTotal = subtotal - voucherDiscount + activeShipping.cost; if(finalTotal < 0) finalTotal = activeShipping.cost;
+    var uniqueCode = 0; if (selectedCount > 0) { uniqueCode = getUniqueCode(); finalTotal += uniqueCode; }
+
+    document.getElementById('cart-total').innerText = formatRupiah(finalTotal); document.getElementById('cart-total-normal').innerText = formatRupiah(totalNormal);
+    document.getElementById('cart-total-diskon').innerText = '- ' + formatRupiah(totalDiskon); document.getElementById('shipping-cost').innerText = formatRupiah(activeShipping.cost); document.getElementById('selected-count').innerText = selectedCount;
+    var kodeUnikEl = document.getElementById('kode-unik-amount'); if(kodeUnikEl) kodeUnikEl.innerText = formatRupiah(uniqueCode);
+    var shipNameEl = document.getElementById('shipping-name-display'); if(shipNameEl) shipNameEl.innerText = activeShipping.cost > 0 ? "Ongkos Kirim JNE REG" : "Ongkos Kirim";
+
+    var voucherRow = document.getElementById('voucher-discount-row'), voucherAmount = document.getElementById('voucher-discount-amount'), activeInfo = document.getElementById('active-voucher-info');
+    if(voucherDiscount > 0){
+      voucherRow.style.display = 'flex'; voucherAmount.innerText = '- ' + formatRupiah(voucherDiscount); activeInfo.style.display = 'block'; document.getElementById('active-voucher-code').innerText = activeVoucher;
+      var codeStr = String(activeVoucher).toUpperCase();
+      if(validSheetVouchers[codeStr]){
+        document.getElementById('active-voucher-desc').innerText = 'Potongan ' + validSheetVouchers[codeStr] + '% (Member)';
+      } else {
+        var v = ALL_VOUCHERS[codeStr];
+        if(v) {
+          var desc = 'Potongan ' + (v.type === 'percent' ? v.value + '%' : formatRupiah(v.value));
+          if(v.maxDiscount) desc += ' (Maks. ' + formatRupiah(v.maxDiscount) + ')';
+          document.getElementById('active-voucher-desc').innerText = desc;
+        }
+      }
+    } else { voucherRow.style.display = 'none'; activeInfo.style.display = 'none'; }
+  }
+
+  function updateCartCount(cart){ var count = cart.items.reduce(function(s, i){ return s + (i.qty || 1); }, 0); var countEl = document.getElementById('custom-cart-count'); if(countEl) countEl.innerText = count; var mobileCount = document.getElementById('cart-item-count-mobile'); if(mobileCount) mobileCount.innerText = '(' + count + ')'; }
+
+  function calculateVoucherDiscount(subtotal, voucherCode){
+    var code = String(voucherCode).toUpperCase();
+    if(validSheetVouchers[code]) return Math.round(subtotal * validSheetVouchers[code] / 100);
+    var v = ALL_VOUCHERS[code]; if(!v) return 0; if(v.minPurchase && subtotal < v.minPurchase) return -1;
+    var discount = 0;
+    if(v.type === "percent"){
+      discount = Math.round(subtotal * v.value / 100);
+      if(v.maxDiscount && discount > v.maxDiscount) discount = v.maxDiscount;
+    } else if(v.type === "fixed"){ discount = v.value; }
+    return discount > subtotal ? subtotal : discount;
+  }
+
+  function applyVoucher(code){
+    var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'), subtotal = getSelectedSubtotal(cart), codeStr = String(code).toUpperCase();
+    var usedVouchers = JSON.parse(localStorage.getItem('volla_used_vouchers') || '[]');
+    if (usedVouchers.includes(codeStr)) return { success: false, message: 'Voucher ini sudah Kakak gunakan sebelumnya' };
+    if (validSheetVouchers[codeStr]) {
+      activeVoucher = codeStr; var persen = validSheetVouchers[codeStr];
+      return { success: true, discount: Math.round(subtotal * persen / 100), message: 'Voucher Member ' + persen + '% digunakan!' };
+    }
+    var v = ALL_VOUCHERS[codeStr];
+    if(!v) return { success: false, message: 'Kode tidak valid atau tidak terdaftar' };
+    if(v.minPurchase && subtotal < v.minPurchase) return { success: false, message: 'Min. belanja ' + formatRupiah(v.minPurchase) };
+    activeVoucher = codeStr;
+    var diskonInfo = v.type === 'percent' ? v.value + '%' : formatRupiah(v.value);
+    return { success: true, discount: calculateVoucherDiscount(subtotal, codeStr), message: 'Voucher Diskon ' + diskonInfo + ' digunakan!' };
+  }
+
+  function getSelectedSubtotal(cart){ var subtotal = 0; for(var i = 0; i < cart.items.length; i++){ var item = cart.items[i]; if(selectedItems[item.id]) subtotal += (item.price || 0) * (item.qty || 1); } return subtotal; }
+
+  document.getElementById('apply-voucher-btn').addEventListener('click', function(){ var code = document.getElementById('voucher-input').value.trim().toUpperCase(); if(!code) return; var result = applyVoucher(code); var msg = document.getElementById('voucher-message'); if(result.success){ msg.style.color = '#27ae60'; msg.innerText = result.message; renderCart(); } else { msg.style.color = '#e74c3c'; msg.innerText = ' ' + result.message; } });
+  window.removeVoucher = function(){ activeVoucher = null; document.getElementById('voucher-message').innerHTML = ''; document.getElementById('voucher-input').value = ''; var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'); renderCart(); };
+  window.updateCartQty = function(id, qty){ if(qty <= 0){ window.removeCartItem(id); return; } var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'); for(var i = 0; i < cart.items.length; i++){ if(cart.items[i].id === id){ cart.items[i].qty = qty; break; } } localStorage.setItem(CART_KEY, JSON.stringify(cart)); renderCart(); };
+  window.removeCartItem = function(id){ var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'); cart.items = cart.items.filter(function(it){ return it.id !== id; }); delete selectedItems[id]; if(cart.items.length === 0) activeVoucher = null; localStorage.setItem(CART_KEY, JSON.stringify(cart)); renderCart(); initVariantSelection(); };
+  document.getElementById('delete-selected-btn').addEventListener('click', function(){ var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'); cart.items = cart.items.filter(function(it){ return !selectedItems[it.id]; }); if(cart.items.length === 0) activeVoucher = null; localStorage.setItem(CART_KEY, JSON.stringify(cart)); renderCart(); initVariantSelection(); });
+
+  document.addEventListener('click', function(e){
+    var addBtn = e.target.closest('.volla-add-btn'); if(!addBtn) return; e.preventDefault(); e.stopPropagation(); if(!currentProduct) return;
+    var priceDisplay = document.querySelector('.is_single article.is_post .price, .price, .product-price');
+    var rawPrice = priceDisplay ? priceDisplay.getAttribute('data-harga-final') : null, rawNormal = priceDisplay ? priceDisplay.getAttribute('data-harga-normal') : null;
+    var price = parseInt(rawPrice) || currentProduct.hargaFinal, hNormal = parseInt(rawNormal) || currentProduct.hargaNormal || price;
+    var pageTitleEl = document.querySelector('h1.post-title, h1.product-title, .post-title h1, .product-title h1, h1[itemprop="name"], h1');
+    var fullName = pageTitleEl ? pageTitleEl.innerText.trim() : (currentProduct ? currentProduct.namaUtama : 'Produk');
+    if(price <= 0) { alert("Maaf, harga produk belum tersedia."); return; }
+    var variantName = priceDisplay ? priceDisplay.getAttribute('data-varian-final') : '';
+    if (!variantName) { var activeVariants = document.querySelectorAll('#volla-variant-ui .active-variant'); if (activeVariants.length > 0) { variantName = activeVariants[0].textContent.trim(); } } else { if(currentProduct.variants && currentProduct.variants[variantName]){ variantName = currentProduct.variants[variantName].optName; } else { variantName = variantName.charAt(0).toUpperCase() + variantName.slice(1); } }
+    var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'), found = false, baseId = currentProduct.id || window.location.pathname.replace(/[\/\.]/g, '-'), id = baseId + (variantName ? '-' + normalize(variantName) : '');
+    for(var i = 0; i < cart.items.length; i++){ if(cart.items[i].id === id){ cart.items[i].qty = (cart.items[i].qty || 1) + 1; found = true; break; } }
+    if(!found){ cart.items.push({ id: id, name: fullName, variant: variantName, price: price, hargaNormal: hNormal, image: getProductImageFromPage(), link: window.location.pathname, qty: 1 }); }
+    localStorage.setItem(CART_KEY, JSON.stringify(cart)); selectedItems[id] = true; updateCartCount(cart);
+    addBtn.style.setProperty('background', '#27ae60', 'important'); addBtn.innerHTML = '<div style="display:flex; align-items:center; justify-content:center;">✓<span style="margin-left:8px;">Di Keranjang</span></div>';
+    showNotification(variantName ? fullName + ' (' + variantName + ')' : fullName);
+    
+    // --- PELACAK PIXEL ADD TO CART ---
+    if (typeof fbq === 'function') {
+        fbq('track', 'AddToCart', {
+            content_name: fullName,
+            value: price,
+            currency: 'IDR'
+        });
+    }
+    // ---------------------------------
+    
+    var cartNode = document.getElementById('custom-cart-btn');
+    if (cartNode) {
+      var btnRect = addBtn.getBoundingClientRect(), cartRect = cartNode.getBoundingClientRect(), flyingItem = document.createElement('div');
+      flyingItem.className = 'volla-flying-item'; flyingItem.style.left = (btnRect.left + btnRect.width / 2 - 10) + 'px'; flyingItem.style.top = (btnRect.top + btnRect.height / 2 - 10) + 'px'; document.body.appendChild(flyingItem);
+      void flyingItem.offsetWidth;
+      flyingItem.style.left = (cartRect.left + cartRect.width / 2 - 10) + 'px'; flyingItem.style.top = (cartRect.top + cartRect.height / 2 - 10) + 'px'; flyingItem.style.transform = 'scale(0.1)'; flyingItem.style.opacity = '0';
+      setTimeout(function() { if(document.body.contains(flyingItem)) document.body.removeChild(flyingItem); cartNode.style.transform = 'scale(1.2)'; setTimeout(function(){ cartNode.style.transform = 'scale(1)'; }, 200); }, 600);
+    }
+  });
+
+  document.getElementById('checkout-btn').addEventListener('click', function(){
+    var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'), selected = cart.items.filter(function(it){ return selectedItems[it.id]; });
+    if(selected.length === 0){ alert('Pilih produk!'); return; }
+
+    // --- PELACAK PIXEL INITIATE CHECKOUT ---
+    if (typeof fbq === 'function') {
+        fbq('track', 'InitiateCheckout');
+    }
+    // ---------------------------------------
+
+    var nama = sanitizeInput(document.getElementById('form-nama').value);
+    var alamat = sanitizeInput(document.getElementById('form-alamat').value);
+    var hp = sanitizeInput(document.getElementById('form-hp').value);
+
+    if(!nama || !alamat || !hp){ alert('Mohon lengkapi data pengiriman'); return; }
+
+    if(!activeShipping.selected) { alert('Mohon pilih lokasi pengiriman untuk ongkir'); return; }
+
+    var btnCheckout = document.getElementById('checkout-btn'), originalBtnText = btnCheckout.innerHTML;
+    btnCheckout.innerText = "Memproses Pesanan..."; btnCheckout.style.pointerEvents = "none";
+
+    var orderDate = new Date().toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'Asia/Jakarta' });
+    var uniqueCodeVal = getUniqueCode(), alamatLengkap = alamat;
+    if(activeShipping.locationLabel && !alamat.includes(activeShipping.locationLabel)) { alamatLengkap += ', ' + activeShipping.locationLabel; }
+
+    var subtotal = 0, totalNormal = 0, listPesananWA = '', detailPesananSheet = '';
+    selected.forEach(function(it, index) {
+      var normalPerItem = parseInt(it.hargaNormal) || it.price, variantText = it.variant ? ' (' + it.variant + ')' : '';
+      detailPesananSheet += (index + 1) + ". " + it.name + variantText + "\n   Jml: " + it.qty + " pcs\n";
+      if (normalPerItem > it.price) { var diskonPersen = Math.round(((normalPerItem - it.price) / normalPerItem) * 100); detailPesananSheet += "   Harga: " + formatRupiah(normalPerItem) + " -> " + formatRupiah(it.price) + " (-" + diskonPersen + "%)\n"; } else { detailPesananSheet += "   Harga: " + formatRupiah(it.price) + "\n"; }
+      detailPesananSheet += "   Total: " + formatRupiah(it.price * it.qty) + "\n\n";
+      listPesananWA += '• ' + it.name + variantText + '%0A';
+      if(normalPerItem > it.price) { listPesananWA += '  ~' + formatRupiah(normalPerItem) + '~ - Rp ' + formatRupiah(normalPerItem - it.price).replace('Rp','') + ' = ' + formatRupiah(it.price) + '%0A'; } else { listPesananWA += '  ' + formatRupiah(it.price) + '%0A'; }
+      if(it.qty > 1) listPesananWA += '  Jumlah: ' + it.qty + ' pcs = ' + formatRupiah(it.price * it.qty) + '%0A';
+      listPesananWA += '%0A';
+      subtotal += it.price * it.qty; totalNormal += normalPerItem * it.qty;
+    });
+
+    var voucherDiscount = activeVoucher ? calculateVoucherDiscount(subtotal, activeVoucher) : 0;
+    var finalTotal = subtotal - voucherDiscount + activeShipping.cost + uniqueCodeVal;
+
+    fetch(SCRIPT_GABUNGAN_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+      body: JSON.stringify({ nama: nama, hp: hp, alamat: alamatLengkap, total_normal: totalNormal, subtotal: subtotal, ongkir: activeShipping.cost, total_bayar: finalTotal, kode_voucher: activeVoucher || "-", detail_pesanan: detailPesananSheet })
+    })
+    .then(function(response){ return response.json(); })
+    .then(function(data) {
+      if (data && data.status === "error_voucher") {
+        alert(data.message); window.removeVoucher(); btnCheckout.innerHTML = originalBtnText; btnCheckout.style.pointerEvents = "auto";
+        return;
+      }
+      else if (data && data.status === "success") {
+
+        if (activeVoucher) {
+          var usedVouchers = JSON.parse(localStorage.getItem('volla_used_vouchers') || '[]');
+          if(!usedVouchers.includes(activeVoucher)) {
+            usedVouchers.push(activeVoucher);
+            localStorage.setItem('volla_used_vouchers', JSON.stringify(usedVouchers));
+          }
+        }
+
+        var memberMsg = '';
+        if (data.isLevelUp) {
+          if (data.memberStatus === "VIP") { memberMsg = '🎉 *WOW LUAR BIASA!* Di pesanan ke-' + data.orderCount + ' ini, status Kakak resmi naik menjadi *Member VIP*! 👑%0A%0A🎁 *Voucher Khusus VIP:* Gunakan kode *' + data.promoCode + '* untuk tambahan diskon 30% di pesanan selanjutnya!';
+          } else if (data.memberStatus === "Gold") { memberMsg = '🎉 *SELAMAT!* Karena ini pesanan ke-' + data.orderCount + ' Kakak, status Kakak resmi naik jadi *Member GOLD*! 🌟%0A%0A🎁 *Voucher Khusus Gold:* Gunakan kode *' + data.promoCode + '* untuk tambahan diskon 20% di pesanan selanjutnya!'; }
+        } else if (data.orderCount > 1) {
+          var diskonNominal = data.memberStatus === "VIP" ? "30%" : "20%";
+          memberMsg = '🌟 Senang melihat Kakak kembali! Terima kasih sudah belanja yang ke-' + data.orderCount + ' kalinya, *Member ' + data.memberStatus + '*! 🥰%0A%0A🎁 *Pengingat Voucher:* Jangan lupa gunakan kode *' + data.promoCode + '* untuk diskon ' + diskonNominal + ' di pesanan selanjutnya!';
+        }
+
+        var text = 'Halo Kak ' + nama + '!%0ABerikut detail pesanannya:%0A%0ATanggal : ' + orderDate + '%0ANo. Pesanan : ' + data.orderNumber + '%0APesanan via : Website%0A%0A*Penerima :*%0A——————%0ANama : ' + nama + '%0ANo hp : ' + hp + '%0AAlamat : ' + alamatLengkap + '%0A%0A*List Pesanan:*%0A——————%0A' + listPesananWA + '*Harga*%0A————%0A' + formatRupiah(totalNormal) + '%0A%0A';
+        if(totalNormal > subtotal) { text += '*Diskon Produk*%0A————%0A' + formatRupiah(totalNormal - subtotal) + '%0A%0A'; }
+        if(voucherDiscount > 0) { text += '*Voucher*%0A————%0A' + activeVoucher + ' - ' + formatRupiah(voucherDiscount) + '%0A%0A'; }
+        text += '*Ongkir*%0A————%0AJNE REG - ' + formatRupiah(activeShipping.cost) + '%0A%0A*Kode Unik*%0A————%0A' + formatRupiah(uniqueCodeVal) + '%0A%0A*Total Bayar*%0A————%0A*' + formatRupiah(finalTotal) + '*%0A%0A*Catatan*%0A————%0A';
+        if(memberMsg !== '') text += memberMsg + '%0A%0A'; else text += '%0A';
+        text += 'Silakan transfer pembayaran ke:%0A💳 *Bank BCA*%0AA/N : Nur Afifah%0ARek : 7255186507%0A%0A_Pesanan akan di proses setelah pembayaran diterima._';
+
+        var orderSummary = { nama: nama, hp: hp, alamat: alamat, lokasi: activeShipping.locationLabel, timestamp: new Date().getTime(), items: selected, subtotal: subtotal, diskon: totalNormal - subtotal, voucher: voucherDiscount, voucherCode: activeVoucher || null, ongkir: activeShipping.cost, total: finalTotal, date: new Date().toLocaleDateString('id-ID') };
+        localStorage.setItem('volla_last_order', JSON.stringify(orderSummary));
+
+        var fonnteAPI = 'https://api.fonnte.com/send', formPayload = new FormData();
+        formPayload.append('target', hp);
+        formPayload.append('message', text.replace(/%0A/g, '\n'));
+        formPayload.append('countryCode', '62');
+        fetch(fonnteAPI, { method: 'POST', headers: { 'Authorization': '5dRUkEauBfcm5dax81CU' }, body: formPayload })
+          .catch(function() { });
+
+        incrementUniqueCode();
+        localStorage.setItem(CART_KEY, JSON.stringify({items:[],subtotal:0,totalQty:0}));
+        
+        // --- PELACAK PIXEL PURCHASE ---
+        if (typeof fbq === 'function') {
+            fbq('track', 'Purchase', {
+                value: finalTotal,
+                currency: 'IDR'
+            });
+        }
+        // ------------------------------
+        
+        window.location.href = '/p/thank-you.html';
+      }
+      else {
+        throw new Error("Gagal menyimpan ke Sheet");
+      }
+    })
+    .catch(function(err) {
+      alert('Terjadi kesalahan proses pesanan. Cek koneksi internet Anda.');
+      btnCheckout.innerHTML = originalBtnText;
+      btnCheckout.style.pointerEvents = "auto";
+    });
+  });
+
+  modal.addEventListener('input', function(e){ if(e.target.id === 'form-nama') formData.nama = e.target.value; if(e.target.id === 'form-alamat') formData.alamat = e.target.value; if(e.target.id === 'form-hp') formData.hp = e.target.value; });
+  var cart = JSON.parse(localStorage.getItem(CART_KEY) || '{"items":[]}'); updateCartCount(cart);
+}
+
+// ============================================
+// 7. INISIALISASI (MEMULAI SISTEM)
+// ============================================
+setTimeout(function(){
+  fetchAllData(function(allData){
+    var isSingle = window.location.pathname.includes('.html');
+    if(isSingle){
+      var slug = getSlug(), slugSpaces = slug.replace(/-/g, ' '), foundKey = Object.keys(allData).find(function(k){ return k === slugSpaces || k === slug; });
+      if (!foundKey) { var possibleKeys = Object.keys(allData).filter(function(k){ return slugSpaces.startsWith(k) || slug.startsWith(k); }); if (possibleKeys.length > 0) { possibleKeys.sort(function(a,b){ return b.length - a.length; }); foundKey = possibleKeys[0]; } }
+      var found = foundKey ? allData[foundKey] : null; if(found){ updateSingleProduct(found); initCart(); }
+      setTimeout(function(){ forceLoadImages(); }, 500);
+      setTimeout(function(){ forceLoadImages(); }, 1200);
+      
+      // PANGGIL FITUR SIZE GUIDE DI SINI
+      initSizeGuideLogic();
+    } else {
+      updateIndexPrices(allData); initCart();
+      setTimeout(function(){ updateIndexPrices(allData); forceLoadImages(); }, 600);
+      setTimeout(function(){ updateIndexPrices(allData); forceLoadImages(); }, 1500);
+    }
+  });
+}, 300);
+
+function forceLoadImages(){
+  document.querySelectorAll('img[data-src]').forEach(function(img){ var src = img.getAttribute('data-src'); if(src && !img.src.includes(src)){ img.src = src; img.removeAttribute('data-src'); img.style.opacity = '1'; } });
+  document.querySelectorAll('img').forEach(function(img){ if(!img.src || img.src === '' || img.src.includes('data:image')){ var dataSrc = img.getAttribute('data-src'); if(dataSrc){ img.src = dataSrc; } } if(img.style.opacity === '0'){ img.style.opacity = '1'; } });
+  if(typeof window.applyLazyLoad === 'function') window.applyLazyLoad();
+  if(typeof window.initLazyLoad === 'function') window.initLazyLoad();
+  if(typeof window.lazyLoadInstance !== 'undefined') window.lazyLoadInstance.update();
+}
+
+// ============================================
+// 8. FITUR PANDUAN UKURAN (SIZE GUIDE)
+// ============================================
+function initSizeGuideLogic() {
+  if (!document.getElementById('vollaSizeOverlay')) {
+      var style = document.createElement('style');
+      style.textContent = `
+        .volla-btn-size { display: inline-flex; align-items: center; gap: 6px; margin-top: 15px; margin-bottom: 15px; font-size: 13px; font-weight: 600; color: #c9a96e; cursor: pointer; background: #fdfaf0; padding: 8px 16px; border-radius: 50px; border: 1px solid #c9a96e; transition: 0.3s; text-decoration: none !important; }
+        .volla-btn-size:hover { background: #c9a96e; color: #fff !important; box-shadow: 0 4px 10px rgba(201,169,110,0.3); }
+        .volla-size-overlay { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: rgba(0,0,0,0.6); z-index: 999999; display: flex; align-items: center; justify-content: center; opacity: 0; visibility: hidden; transition: 0.3s; }
+        .volla-size-overlay.show { opacity: 1; visibility: visible; }
+        .volla-size-modal { background: #fff; width: 90%; max-width: 450px; max-height: 85vh; border-radius: 12px; overflow-y: auto; position: relative; transform: translateY(20px); transition: 0.3s; padding: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+        .volla-size-overlay.show .volla-size-modal { transform: translateY(0); }
+        .volla-size-close { position: absolute; top: 15px; right: 15px; background: #eee; border: none; width: 30px; height: 30px; border-radius: 50%; font-size: 14px; font-weight: bold; cursor: pointer; color: #555; transition: 0.2s; }
+        .volla-size-close:hover { background: #e74c3c; color: white; }
+        .volla-size-modal h3 { margin: 0 0 15px 0; color: #1a2b4c; font-size: 20px; text-align: center; }
+        .volla-size-section { margin-bottom: 24px; }
+        .volla-size-section h4 { margin: 0 0 8px 0; font-size: 15px; color: #c9a96e; border-bottom: 1px dashed #eee; padding-bottom: 5px;}
+        .volla-size-table { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 10px;}
+        .volla-size-table th, .volla-size-table td { border: 1px solid #eee; padding: 10px 8px; text-align: left; }
+        .volla-size-table th { background: #fdfaf0; color: #333; font-weight:600; }
+        .volla-size-desc { font-size:12px; color:#666; margin-bottom:8px; line-height:1.5; }
+      `;
+      document.head.appendChild(style);
+
+      var overlay = document.createElement('div');
+      overlay.className = 'volla-size-overlay';
+      overlay.id = 'vollaSizeOverlay';
+      overlay.innerHTML = `
+          <div class="volla-size-modal">
+              <button class="volla-size-close" id="closeSizeBtn">✕</button>
+              <h3>📏 Panduan Ukuran</h3>
+              <div class="volla-size-section">
+                  <h4>💍 Ukuran Cincin</h4>
+                  <p class="volla-size-desc">Lilitkan benang/kertas ke jari, tandai, lalu ukur panjangnya dengan penggaris (dalam cm).</p>
+                  <table class="volla-size-table">
+                      <tr><th>Size (Asia)</th><th>Keliling Jari</th><th>Diameter</th></tr>
+                      <tr><td>10</td><td>5.0 - 5.2 cm</td><td>1.5 cm</td></tr>
+                      <tr><td>12</td><td>5.3 - 5.4 cm</td><td>1.6 cm</td></tr>
+                      <tr><td>14</td><td>5.5 - 5.7 cm</td><td>1.7 cm</td></tr>
+                      <tr><td>16</td><td>5.8 - 6.0 cm</td><td>1.8 cm</td></tr>
+                      <tr><td>18</td><td>6.1 - 6.3 cm</td><td>1.9 cm</td></tr>
+                  </table>
+              </div>
+              <div class="volla-size-section">
+                  <h4>📿 Panjang Kalung</h4>
+                  <table class="volla-size-table">
+                      <tr><th>Jenis</th><th>Panjang</th><th>Posisi Jatuh</th></tr>
+                      <tr><td>Choker</td><td>35 - 40 cm</td><td>Pas di leher</td></tr>
+                      <tr><td>Princess</td><td>45 cm</td><td>Di bawah tulang selangka (Standar)</td></tr>
+                      <tr><td>Matinee</td><td>50 - 55 cm</td><td>Di tengah dada</td></tr>
+                  </table>
+              </div>
+              <div class="volla-size-section">
+                  <h4>✨ Panjang Gelang</h4>
+                  <p class="volla-size-desc">Ukur lingkar pergelangan tangan Anda pas, lalu tambahkan 1.5 - 2 cm agar nyaman dipakai.</p>
+                  <ul style="font-size:13px; color:#333; padding-left:20px; margin-top:5px; line-height:1.6;">
+                      <li><b>Kecil (S):</b> 15 - 16 cm</li>
+                      <li><b>Standar (M):</b> 17 - 18 cm</li>
+                      <li><b>Besar (L):</b> 19 - 20 cm</li>
+                  </ul>
+              </div>
+          </div>
+      `;
+      document.body.appendChild(overlay);
+
+      document.getElementById('closeSizeBtn').addEventListener('click', function(){ overlay.classList.remove('show'); });
+      overlay.addEventListener('click', function(e){ if(e.target === this) overlay.classList.remove('show'); });
+  }
+
+  var moveAttempts = 0;
+  var waitThemeJS = setInterval(function() {
+      moveAttempts++;
+      var optionArea = document.querySelector(".is_single article.is_post .option");
+      var priceArea = document.querySelector(".is_single article.is_post .price");
+      var targetArea = optionArea ? optionArea : priceArea;
+
+      if (targetArea && !document.getElementById("btn-size-volla")) {
+          var sizeBtn = document.createElement("a");
+          sizeBtn.id = "btn-size-volla";
+          sizeBtn.href = "javascript:void(0)";
+          sizeBtn.className = "volla-btn-size";
+          sizeBtn.innerHTML = "📏 Panduan Ukuran (Size Guide)";
+          sizeBtn.onclick = function() {
+              var overlay = document.getElementById("vollaSizeOverlay");
+              if(overlay) overlay.classList.add("show");
+          };
+          
+          targetArea.parentNode.insertBefore(sizeBtn, targetArea.nextSibling);
+          clearInterval(waitThemeJS);
+      }
+      if (moveAttempts > 20) clearInterval(waitThemeJS); 
+  }, 500);
+}
+
+})();
